@@ -6,7 +6,7 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "JNC 7 defines hypertension as SBP ≥140 or DBP ≥90 on three separate visits."
+    "explanation": "JNC 7 defines HTN as SBP ≥140 or DBP ≥90 on three readings. "
   },
   {
     "the qustion": "The 2017 ACC/AHA guidelines define hypertension as SBP ≥130 mm Hg or DBP ≥80 mm Hg.",
@@ -15,241 +15,196 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ACC/AHA 2017 lowered the diagnostic threshold to 130/80 mm Hg."
+    "explanation": "ACC/AHA lowered threshold to 130/80. "
   },
   {
-    "the qustion": "Each 20 mm Hg systolic or 10 mm Hg diastolic increase doubles cardiovascular risk.",
+    "the qustion": "For every 20 mm Hg systolic or 10 mm Hg diastolic increase, cardiovascular risk doubles.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Risk of major CV events doubles with every 20/10 mm Hg increment."
+    "explanation": "Risk of major CV events doubles per 20/10 mm Hg rise. "
   },
   {
-    "the qustion": "Hypertension is an independent risk factor for ischemic cardiovascular events.",
+    "the qustion": "Hypertension affects over 1.2 billion people worldwide.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Elevated BP alone increases risk of ischemic heart disease and stroke."
+    "explanation": "Global HTN prevalence exceeds 1.2 billion. "
   },
   {
-    "the qustion": "Globally, hypertension affects more than 1.2 billion people.",
+    "the qustion": "More than 50% of hypertensive patients are undertreated.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Over 1.2 billion individuals worldwide have elevated BP."
+    "explanation": "Over half remain undertreated with poor control. "
   },
   {
-    "the qustion": "More than 50% of people with hypertension remain undertreated.",
+    "the qustion": "Isolated systolic hypertension is SBP ≥140 mm Hg with DBP <90 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Over half of hypertensive patients do not achieve control."
+    "explanation": "Definition per JNC 7 classification. "
   },
   {
-    "the qustion": "Isolated systolic hypertension is SBP ≥140 mm Hg and DBP <90 mm Hg.",
+    "the qustion": "Isolated diastolic hypertension is SBP <140 mm Hg with DBP ≥90 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Definition per JNC 7 classification."
+    "explanation": "Definition per JNC 7 classification. "
   },
   {
-    "the qustion": "Isolated diastolic hypertension is SBP <140 mm Hg and DBP ≥90 mm Hg.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Definition per JNC 7 classification."
-  },
-  {
-    "the qustion": "Hypertensive urgency is BP >180/120 mm Hg with acute end-organ damage.",
+    "the qustion": "Hypertensive urgency is BP >180/120 mm Hg with end-organ damage.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Urgency has no end-organ damage; emergency does."
+    "explanation": "Urgency has no acute organ damage. "
   },
   {
-    "the qustion": "Hypertensive emergency is BP >180/120 mm Hg with acute end-organ damage.",
+    "the qustion": "Hypertensive emergency is BP >180/120 mm Hg with evidence of end-organ damage.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Emergency is defined by severe elevation plus organ injury."
+    "explanation": "Emergency requires acute organ injury. "
   },
   {
-    "the qustion": "Primary (essential) hypertension accounts for about 90% of cases.",
+    "the qustion": "Primary (essential) hypertension accounts for ~90% of cases.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Essential HTN makes up 90%; secondary is ~10%."
+    "explanation": "Essential HTN makes up 90% of cases. "
   },
   {
-    "the qustion": "Secondary hypertension accounts for 5–10% of cases.",
+    "the qustion": "Secondary hypertension is responsible for 5–10% of cases.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Secondary causes are found in ~5–10% of hypertensive patients."
+    "explanation": "Secondary causes found in 5–10%. "
   },
   {
-    "the qustion": "Onset of hypertension before age 30 suggests secondary HTN.",
+    "the qustion": "Lifestyle factors such as obesity and high sodium intake promote essential HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Early-onset HTN (<30 years) raises suspicion for secondary causes."
+    "explanation": "Obesity, inactivity, alcohol, sodium promote HTN. "
   },
   {
-    "the qustion": "Obesity, sedentary lifestyle, alcohol, and high sodium intake contribute to essential hypertension.",
+    "the qustion": "Pheochromocytoma is a common cause of secondary hypertension.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These modifiable factors promote primary HTN."
+    "explanation": "Catecholamine-secreting tumors cause HTN. "
   },
   {
-    "the qustion": "Pheochromocytoma is a cause of secondary hypertension.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Catecholamine-secreting tumors can elevate BP."
-  },
-  {
-    "the qustion": "Obstructive sleep apnea is not associated with secondary hypertension.",
+    "the qustion": "Obstructive sleep apnea is not a reversible cause of secondary HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "OSA is a recognized reversible cause of secondary HTN."
+    "explanation": "OSA is a reversible secondary cause. "
   },
   {
-    "the qustion": "NSAIDs and oral contraceptives can worsen blood pressure.",
+    "the qustion": "Hypertension in patients <30 years old suggests secondary causes.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These drugs can induce or exacerbate HTN."
+    "explanation": "Early onset (<30 y) warrants workup. "
   },
   {
-    "the qustion": "JNC 7 recommends the same BP threshold for all adult ages.",
+    "the qustion": "Family history of premature CVD (<55 years) suggests secondary HTN evaluation.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "JNC 7 uses ≥140/90 for adults regardless of age."
+    "explanation": "Premature CVD raises suspicion for secondary HTN. "
   },
   {
-    "the qustion": "JNC 8 recommends treatment threshold SBP ≥150 mm Hg in patients ≥60 years.",
+    "the qustion": "Routine initial HTN evaluation includes TSH testing.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "JNC 8 raised the target to <150/90 for age ≥60."
+    "explanation": "TSH is part of standard labs. "
   },
   {
-    "the qustion": "USPSTF recommends annual HTN screening for adults ≥40 years.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Annual screening is advised for those ≥40 or high-risk."
-  },
-  {
-    "the qustion": "Out-of-office measurements are optional and not recommended by USPSTF before diagnosis.",
+    "the qustion": "24-hour urine cortisol is mandatory for all HTN patients.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "USPSTF gives an “A” recommendation to confirm HTN with out-of-office readings."
+    "explanation": "Only if Cushing’s is suspected. "
   },
   {
-    "the qustion": "Home BP ≥135/85 mm Hg is diagnostic of hypertension.",
+    "the qustion": "Home BP ≥135/85 mm Hg confirms hypertension.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Home-based thresholds differ from office values."
+    "explanation": "HBPM threshold is 135/85. "
   },
   {
-    "the qustion": "ABPM daytime average >135/85 and nighttime >125/75 mm Hg defines hypertension.",
+    "the qustion": "ABPM daytime average >135/85 mm Hg and nighttime >125/75 mm Hg diagnoses HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ABPM criteria use lower thresholds at night."
+    "explanation": "ABPM thresholds differ day vs night. "
   },
   {
-    "the qustion": "Masked hypertension has lower CV risk than sustained hypertension.",
+    "the qustion": "Masked hypertension carries similar CVD risk as sustained HTN.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Masked HTN risk ≈ sustained HTN. "
+  },
+  {
+    "the qustion": "White-coat hypertension has no increased cardiovascular risk.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Masked HTN risk ≈ sustained HTN risk."
+    "explanation": "Risk is slightly elevated. "
   },
   {
-    "the qustion": "White-coat hypertension carries minimal increase in CV risk.",
+    "the qustion": "Lifestyle modification is first-line therapy for stage 1 hypertension.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "White-coat HTN risk is only slightly elevated."
-  },
-  {
-    "the qustion": "Initial HTN evaluation includes CBC, UA, fasting glucose, BUN/Cr, electrolytes, TSH, lipid profile, and ECG.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "These tests screen for comorbidities and secondary causes."
-  },
-  {
-    "the qustion": "Plasma renin activity is a routine test for all newly diagnosed hypertension.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "b",
-    "explanation": "Renin testing is reserved for suspected secondary HTN."
-  },
-  {
-    "the qustion": "Lifestyle modification is first-line treatment for stage 1 hypertension.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Non-pharmacologic measures are foundational."
+    "explanation": "Non-pharmacologic measures are foundational. "
   },
   {
     "the qustion": "The DASH diet emphasizes fruits, vegetables, whole grains, and low-fat dairy.",
@@ -258,106 +213,106 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "DASH = Dietary Approaches to Stop Hypertension."
+    "explanation": "DASH is rich in produce and low-fat dairy. "
   },
   {
-    "the qustion": "The DASH diet recommends sodium intake <1500 mg/day.",
+    "the qustion": "DASH diet sodium intake should be <1500 mg/day.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Lower sodium enhances BP reduction on DASH."
+    "explanation": "Recommended sodium limit for DASH. "
   },
   {
-    "the qustion": "Weight loss of 10 kg reduces SBP by 5–20 mm Hg.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Weight reduction yields substantial SBP drop."
-  },
-  {
-    "the qustion": "Exercise 3–4×/week for 40 min/session lowers BP by 4–9 mm Hg.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Moderate-vigorous activity benefits BP control."
-  },
-  {
-    "the qustion": "Potassium supplements are routinely recommended to treat hypertension.",
+    "the qustion": "Potassium supplements are routinely recommended to treat HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Supplement evidence is insufficient; focus on diet."
+    "explanation": "Evidence is insufficient; focus on diet. "
   },
   {
-    "the qustion": "Smoking cessation and alcohol moderation aid blood pressure control.",
+    "the qustion": "Weight loss of 10 kg lowers SBP by 5–20 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Reducing these risk factors lowers BP."
+    "explanation": "10 kg loss yields substantial BP drop. "
   },
   {
-    "the qustion": "Garlic supplements are proven to reduce blood pressure.",
+    "the qustion": "Moderate-vigorous activity 3–4×/week for 40 min/session lowers BP by 4–9 mm Hg.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Exercise benefits BP control. "
+  },
+  {
+    "the qustion": "Garlic supplements are proven effective for HTN control.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Current evidence does not support routine use."
+    "explanation": "Current evidence does not support routine use. "
   },
   {
-    "the qustion": "Pharmacologic therapy for patients ≥60 years begins at SBP ≥150 or DBP ≥90 mm Hg.",
+    "the qustion": "Alcohol reduction to ≤2 drinks/day lowers SBP by 2–4 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Grade A recommendation for age ≥60."
+    "explanation": "Moderating alcohol yields modest BP drop. "
   },
   {
-    "the qustion": "For patients aged 30–60, therapy starts at SBP ≥140 or DBP ≥90 mm Hg.",
+    "the qustion": "Pharmacologic therapy in patients ≥60 starts at SBP ≥150 or DBP ≥90 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Guideline cutoff for <60 years."
+    "explanation": "Grade A recommendation for age ≥60. "
   },
   {
-    "the qustion": "ACE inhibitors are a first-line drug class for hypertension management.",
+    "the qustion": "For patients <60, treatment begins at SBP ≥140 or DBP ≥90 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ACEIs are foundational unless contraindicated."
+    "explanation": "Grade A/E for age <60. "
   },
   {
-    "the qustion": "Beta-blockers are preferred initial therapy for essential hypertension.",
+    "the qustion": "ACE inhibitors are first-line for essential hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "ACEIs are foundational unless contraindicated. "
+  },
+  {
+    "the qustion": "Beta-blockers are preferred initial therapy for hypertension.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "BBs are not first-line without other indications."
+    "explanation": "BBs are not first-line without other indications. "
   },
   {
-    "the qustion": "Thiazide diuretics are recommended initial therapy in African-American patients.",
+    "the qustion": "Thiazide diuretics are recommended first-line in African-Americans without CKD.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "JNC 8 advises thiazides or CCBs for African-Americans."
+    "explanation": "JNC 8 advises thiazides or CCBs for African-Americans. "
   },
   {
     "the qustion": "ACE inhibitors are contraindicated during pregnancy.",
@@ -366,7 +321,7 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ACEIs carry teratogenic risk and are avoided."
+    "explanation": "ACEIs carry teratogenic risk. "
   },
   {
     "the qustion": "ACE inhibitors often cause a persistent dry cough.",
@@ -375,7 +330,7 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Bradykinin accumulation leads to cough."
+    "explanation": "Bradykinin accumulation leads to cough. "
   },
   {
     "the qustion": "ARBs cause cough at the same rate as ACE inhibitors.",
@@ -384,16 +339,16 @@
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "ARBs have lower rates of cough and angioedema."
+    "explanation": "ARBs have lower rates of cough. "
   },
   {
-    "the qustion": "Calcium channel blockers are classified into dihydropyridines and non-dihydropyridines.",
+    "the qustion": "Calcium channel blockers are classified as dihydropyridines and non-dihydropyridines.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "CCBs include amlodipine (dihydro) and verapamil (non-dihydro)."
+    "explanation": "Amlodipine (dihydro) vs diltiazem (non-dihydro). "
   },
   {
     "the qustion": "Peripheral edema is a common side effect of dihydropyridine CCBs.",
@@ -402,7 +357,7 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Dihydropyridines cause arteriolar dilation and edema."
+    "explanation": "Dihydropyridines cause arteriolar dilation and edema. "
   },
   {
     "the qustion": "Thiazide diuretics can cause hypokalemia, hyperuricemia, and hyperglycemia.",
@@ -411,25 +366,25 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Thiazides have multiple metabolic side effects."
+    "explanation": "They have multiple metabolic side effects. "
   },
   {
-    "the qustion": "Loop diuretics are preferred in patients with GFR <30 mL/min.",
+    "the qustion": "Loop diuretics are preferred in GFR <30 mL/min patients.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Loops remain effective even at low GFR."
+    "explanation": "Loops remain effective at low GFR. "
   },
   {
-    "the qustion": "Spironolactone is indicated for resistant hypertension even without confirmed hyperaldosteronism.",
+    "the qustion": "Spironolactone is indicated for resistant HTN even without hyperaldosteronism.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Low-dose spironolactone often helps resistant HTN."
+    "explanation": "Low-dose spironolactone helps resistant HTN. "
   },
   {
     "the qustion": "Initial combination therapy is recommended when BP >160/100 mm Hg.",
@@ -438,16 +393,16 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Stage 2 HTN often requires two agents at once."
+    "explanation": "Stage 2 HTN warrants two drugs. "
   },
   {
-    "the qustion": "Bedtime dosing of one antihypertensive (not diuretic) may improve control.",
+    "the qustion": "At least one antihypertensive (not diuretic) should be dosed at bedtime if on two drugs.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Nighttime administration can enhance nocturnal BP dip."
+    "explanation": "Night dosing improves nocturnal BP control. "
   },
   {
     "the qustion": "Beta-blockers are contraindicated in asthma and COPD.",
@@ -456,52 +411,25 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Non-selective BBs worsen bronchospasm."
+    "explanation": "Non-selective BBs worsen bronchospasm. "
   },
   {
-    "the qustion": "Metoprolol succinate 25 mg daily is a typical starting dose for HTN.",
+    "the qustion": "Metoprolol succinate 25 mg daily is a typical starting dose.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Metoprolol succinate starts at 12.5–25 mg daily."
+    "explanation": "Metoprolol succinate starts at 12.5–25 mg daily. "
   },
   {
-    "the qustion": "In resistant HTN, first exclude pseudo-resistance by accurate measurement and adherence assessment.",
+    "the qustion": "Resistant HTN is defined as BP above goal on ≥3 optimally dosed meds including a diuretic.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Confirm BP technique and adherence before labeling resistance."
-  },
-  {
-    "the qustion": "Primary aldosteronism screening is mandatory in all HTN patients.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "b",
-    "explanation": "Screen only if suspected (e.g., hypokalemia, resistant HTN)."
-  },
-  {
-    "the qustion": "NSAIDs can interfere with antihypertensive efficacy.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "NSAIDs reduce diuretic and ACEI effects."
-  },
-  {
-    "the qustion": "Resistant HTN is defined as BP above goal on ≥3 optimally dosed medications including a diuretic.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "This is the standard definition of resistant HTN."
+    "explanation": "Standard definition of resistant HTN. "
   },
   {
     "the qustion": "Hypertensive emergencies most commonly present with acute pulmonary edema and cerebral infarction.",
@@ -510,25 +438,25 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These are among the most frequent emergency presentations."
+    "explanation": "These are the most frequent emergencies. "
   },
   {
-    "the qustion": "Hypertensive urgency should be managed with rapid IV therapy.",
+    "the qustion": "Hypertensive urgency is managed with rapid IV therapy.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Urgency is managed with oral agents over hours, not IV."
+    "explanation": "Urgency is managed with oral meds over hours. "
   },
   {
-    "the qustion": "In hypertensive emergency, reduce BP by no more than 25% in first hour.",
+    "the qustion": "In emergencies, reduce BP by no more than 25% in the first hour.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Avoid rapid drops to prevent ischemia."
+    "explanation": "Avoid rapid drops to prevent ischemia. "
   },
   {
     "the qustion": "Elderly patients often have isolated systolic hypertension.",
@@ -537,16 +465,16 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Isolated systolic HTN is common after age 50."
+    "explanation": "ISHTN is common after age 50. "
   },
   {
-    "the qustion": "In elderly with HTN and CKD, ACE inhibitors are preferred unless contraindicated.",
+    "the qustion": "In elderly with CKD, ACE inhibitors are preferred unless contraindicated.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ACEIs protect kidney function in CKD."
+    "explanation": "ACEIs protect kidneys in CKD. "
   },
   {
     "the qustion": "African-American patients respond better to ACE inhibitors than thiazides.",
@@ -555,16 +483,16 @@
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Thiazides and CCBs are more effective initial agents."
+    "explanation": "Thiazides/CCBs outperform ACEIs initially. "
   },
   {
-    "the qustion": "In pregnant patients, methyldopa and labetalol are safe first-line agents.",
+    "the qustion": "In pregnancy, methyldopa and labetalol are safe first-line agents.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These drugs have established safety profiles in pregnancy."
+    "explanation": "Both have established safety profiles. "
   },
   {
     "the qustion": "Hydralazine is contraindicated in pregnancy due to fluid retention.",
@@ -573,411 +501,259 @@
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Hydralazine can be used but has tachycardia side effects."
+    "explanation": "Hydralazine can be used despite tachycardia side effects. "
   },
   {
-    "the qustion": "When to refer a hypertensive patient: resistant HTN, suspicion of secondary cause, HTN emergency, onset <30 years, or worsening control.",
+    "the qustion": "Refer resistant HTN patients if BP uncontrolled after 6 months.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These are standard referral indications."
+    "explanation": "Specialist referral is advised after 6 months. "
   },
   {
-    "the qustion": "Which organization defines stage 1 HTN as ≥130/80 mm Hg?",
-    "a": "JNC 7",
-    "b": "ACC/AHA 2017",
-    "c": "WHO",
-    "d": "USPSTF",
-    "correct": "b",
-    "explanation": "ACC/AHA 2017 lowered the stage 1 threshold to 130/80 mm Hg."
-  },
-  {
-    "the qustion": "Which reading indicates isolated diastolic hypertension?",
-    "a": "150/85 mm Hg",
-    "b": "145/95 mm Hg",
-    "c": "135/100 mm Hg",
-    "d": "160/89 mm Hg",
-    "correct": "c",
-    "explanation": "SBP <140 with DBP ≥90 defines isolated diastolic HTN."
-  },
-  {
-    "the qustion": "A clinic BP of 185/115 mm Hg without organ damage is classified as:",
-    "a": "Stage 2 Hypertension",
-    "b": "Hypertensive urgency",
-    "c": "Hypertensive emergency",
-    "d": "Prehypertension",
-    "correct": "b",
-    "explanation": "Urgency is severe HTN without end-organ damage."
-  },
-  {
-    "the qustion": "Which is NOT a cause of secondary hypertension?",
-    "a": "Pheochromocytoma",
-    "b": "Cushing's syndrome",
-    "c": "Osteoarthritis",
-    "d": "Hyperthyroidism",
-    "correct": "c",
-    "explanation": "Osteoarthritis does not cause HTN."
-  },
-  {
-    "the qustion": "Which initial lab is optional rather than routine in HTN workup?",
-    "a": "ECG",
-    "b": "Urinalysis",
-    "c": "Plasma aldosterone",
-    "d": "Fasting glucose",
-    "correct": "c",
-    "explanation": "Aldosterone testing is for suspected secondary HTN."
-  },
-  {
-    "the qustion": "Home BP monitoring should record measurements for how many days?",
-    "a": "3 days",
-    "b": "5 days",
-    "c": "7 days",
-    "d": "14 days",
-    "correct": "c",
-    "explanation": "Seven-day home monitoring is recommended, discarding day 1."
-  },
-  {
-    "the qustion": "ABPM daytime readings occur every:",
-    "a": "5–10 minutes",
-    "b": "15–30 minutes",
-    "c": "30–60 minutes",
-    "d": "60–90 minutes",
-    "correct": "b",
-    "explanation": "ABPM measures every 15–30 min while awake."
-  },
-  {
-    "the qustion": "Which diet is richest in fruits, vegetables, and low-fat dairy?",
-    "a": "Mediterranean diet",
-    "b": "DASH diet",
-    "c": "Ketogenic diet",
-    "d": "Atkins diet",
-    "correct": "b",
-    "explanation": "DASH emphasizes produce and low-fat dairy."
-  },
-  {
-    "the qustion": "Which lifestyle change yields the largest SBP reduction?",
-    "a": "DASH diet",
-    "b": "Aerobic exercise",
-    "c": "Weight loss",
-    "d": "Sodium reduction",
-    "correct": "c",
-    "explanation": "Weight loss (10 kg) lowers SBP by 5–20 mm Hg."
-  },
-  {
-    "the qustion": "Which supplement is recommended for hypertension control?",
-    "a": "Garlic",
-    "b": "Potassium",
-    "c": "Vitamin D",
-    "d": "None",
-    "correct": "d",
-    "explanation": "Supplements lack strong evidence for HTN control."
-  },
-  {
-    "the qustion": "Which agent is first-line for a pregnant hypertensive patient?",
-    "a": "ACE inhibitor",
-    "b": "Methyldopa",
-    "c": "ARB",
-    "d": "Thiazide",
-    "correct": "b",
-    "explanation": "Methyldopa has a well-established safety profile."
-  },
-  {
-    "the qustion": "Which thiazide diuretic has the longest half-life?",
-    "a": "Hydrochlorothiazide",
-    "b": "Chlorthalidone",
-    "c": "Indapamide",
-    "d": "Metolazone",
-    "correct": "b",
-    "explanation": "Chlorthalidone is longer-acting among thiazides."
-  },
-  {
-    "the qustion": "Which CCB is non-dihydropyridine?",
-    "a": "Amlodipine",
-    "b": "Nifedipine",
-    "c": "Diltiazem",
-    "d": "Felodipine",
-    "correct": "c",
-    "explanation": "Diltiazem (and verapamil) are non-dihydropyridines."
-  },
-  {
-    "the qustion": "Which ACE inhibitor dose is incorrect?",
-    "a": "Lisinopril 10 mg daily",
-    "b": "Enalapril 5 mg daily",
-    "c": "Captopril 25 mg Q8H",
-    "d": "Perindopril 40 mg daily",
-    "correct": "d",
-    "explanation": "Perindopril max is 10 mg daily, not 40 mg."
-  },
-  {
-    "the qustion": "Which side effect is most characteristic of ACE inhibitors?",
-    "a": "Hypokalemia",
-    "b": "Dry cough",
-    "c": "Peripheral edema",
-    "d": "Constipation",
-    "correct": "b",
-    "explanation": "ACE inhibitor–induced cough is due to bradykinin."
-  },
-  {
-    "the qustion": "Which drug class is preferred in African‐American hypertension without CKD?",
-    "a": "ACE inhibitors",
-    "b": "Thiazide diuretics",
-    "c": "Beta-blockers",
-    "d": "Direct renin inhibitors",
-    "correct": "b",
-    "explanation": "Thiazides or CCBs are preferred first-line in this group."
-  },
-  {
-    "the qustion": "Which medication is contraindicated in bilateral renal artery stenosis?",
-    "a": "ACE inhibitor",
-    "b": "Thiazide diuretic",
-    "c": "Calcium channel blocker",
-    "d": "Beta-blocker",
-    "correct": "a",
-    "explanation": "ACEIs can worsen renal function in bilateral stenosis."
-  },
-  {
-    "the qustion": "What is the target BP reduction timeframe for urgency?",
-    "a": "Minutes",
-    "b": "Hours",
-    "c": "Days",
-    "d": "Weeks",
-    "correct": "b",
-    "explanation": "BP should be lowered over hours in urgency."
-  },
-  {
-    "the qustion": "Which drug is used orally for HTN urgency?",
-    "a": "IV nitroprusside",
-    "b": "Oral captopril",
-    "c": "IV labetalol",
-    "d": "IV fenoldopam",
-    "correct": "b",
-    "explanation": "Oral captopril or amlodipine is used in urgency."
-  },
-  {
-    "the qustion": "Which organ is least affected in hypertensive emergency?",
-    "a": "Brain",
-    "b": "Heart",
-    "c": "Lungs",
-    "d": "Skin",
-    "correct": "d",
-    "explanation": "Skin seldom shows acute damage in hypertensive crises."
-  },
-  {
-    "the qustion": "On JNC 8, the BP goal for patients <60 years is <140/90 mm Hg.",
+    "the qustion": "Refer any patient with suspected secondary HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "JNC 8 sets <140/90 for patients <60."
+    "explanation": "Secondary causes require specialist evaluation. "
   },
   {
-    "the qustion": "Which measure is NOT part of clinical evaluation of HTN?",
-    "a": "Fundoscopy",
-    "b": "Carotid bruits",
-    "c": "Thyroid exam",
-    "d": "Bone density scan",
-    "correct": "d",
-    "explanation": "Bone density is not routine in HTN workup."
-  },
-  {
-    "the qustion": "Which finding suggests possible secondary HTN?",
-    "a": "BMI 25",
-    "b": "Nocturia and hypokalemia",
-    "c": "Mild headache",
-    "d": "Family history",
-    "correct": "b",
-    "explanation": "Nocturia and low K hint at primary aldosteronism."
-  },
-  {
-    "the qustion": "Which is a non-modifiable risk factor for hypertension?",
-    "a": "Smoking",
-    "b": "Obesity",
-    "c": "Age >55",
-    "d": "High sodium intake",
-    "correct": "c",
-    "explanation": "Age is non-modifiable; others are lifestyle factors."
-  },
-  {
-    "the qustion": "Which antihypertensive class improves outcomes post-MI?",
-    "a": "Thiazide diuretics",
-    "b": "ACE inhibitors",
-    "c": "CCBs",
-    "d": "Loop diuretics",
-    "correct": "b",
-    "explanation": "ACEIs reduce mortality after myocardial infarction."
-  },
-  {
-    "the qustion": "Which is the best initial therapy for HTN in CKD with proteinuria?",
-    "a": "ACE inhibitor",
-    "b": "Beta-blocker",
-    "c": "CCB",
-    "d": "Alpha-blocker",
-    "correct": "a",
-    "explanation": "ACEIs slow CKD progression in proteinuric patients."
-  },
-  {
-    "the qustion": "Which antihypertensive is safest in asthma patients?",
-    "a": "Propranolol",
-    "b": "Metoprolol",
-    "c": "Labetalol",
-    "d": "Carvedilol",
-    "correct": "b",
-    "explanation": "Metoprolol is β1-selective, less bronchoconstrictive."
-  },
-  {
-    "the qustion": "Which direct vasodilator is used for resistant HTN?",
-    "a": "Hydralazine",
-    "b": "Minoxidil",
-    "c": "Nitroprusside",
-    "d": "Fenoldopam",
-    "correct": "b",
-    "explanation": "Minoxidil is a potent vasodilator for resistant cases."
-  },
-  {
-    "the qustion": "Which agent is NOT titrated to maximum dose before adding a second drug?" ,
-    "a": "Strategy A",
-    "b": "Strategy B",
-    "c": "Strategy C",
-    "d": "Strategy D",
-    "correct": "b",
-    "explanation": "Strategy B adds second drug before maxing first; others titrate first."
-  },
-  {
-    "the qustion": "Which complication is a form of microvascular change in HTN?",
-    "a": "Hyaline arteriolosclerosis",
-    "b": "Atheroma",
-    "c": "Aneurysm",
-    "d": "Intimal thickening",
-    "correct": "a",
-    "explanation": "Hyaline arteriolosclerosis affects small vessels."
-  },
-  {
-    "the qustion": "Subarachnoid hemorrhage is a possible hypertensive emergency complication.",
+    "the qustion": "Risk factors for essential HTN include age, family history, obesity, and stress.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Severe HTN can precipitate cerebral hemorrhages."
+    "explanation": "Non-modifiable and modifiable risks contribute. "
+  },
+
+  {
+    "the qustion": "Which staging system uses SBP 120–139 and/or DBP 80–89 mm Hg as elevated BP?",
+    "a": "JNC 7 Prehypertension",
+    "b": "ACC/AHA Elevated BP",
+    "c": "SHAMS 2018 Grade I HTN",
+    "d": "Saudi 2023 Stage II HTN",
+    "correct": "b",
+    "explanation": "ACC/AHA 2017 labels 120–129/80–89 as Elevated BP. "
   },
   {
-    "the qustion": "Hypertensive retinopathy includes papilledema and cotton-wool spots.",
+    "the qustion": "JNC 7 Prehypertension is defined as SBP 120–139 and/or DBP 80–89 mm Hg.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Retinal changes reflect acute end-organ damage."
+    "explanation": "JNC 7 denotes pre-HTN at 120–139/80–89. "
   },
   {
-    "the qustion": "Left ventricular hypertrophy is a macrovascular complication.",
+    "the qustion": "In JNC 7, Grade II HTN is SBP 160–179 and/or DBP 100–109 mm Hg.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Grade II per JNC 7 classification. "
+  },
+  {
+    "the qustion": "A 24-hour ABPM daytime average >135/85 mm Hg confirms HTN.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "ABPM thresholds confirm HTN. "
+  },
+  {
+    "the qustion": "HBPM requires measurements morning and evening for 7 days, discarding day 1.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "First‐day values are excluded. "
+  },
+  {
+    "the qustion": "Rapid‐acting oral captopril is used in hypertensive urgency.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Oral captopril is indicated in urgency. "
+  },
+  {
+    "the qustion": "ABPM readings are taken every 15–30 min while awake and 30–60 min during sleep.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Standard ABPM intervals. "
+  },
+  {
+    "the qustion": "Fundoscopy in HTN emergency may show papilledema and cotton‐wool spots.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Retinal findings reflect acute organ damage. "
+  },
+  {
+    "the qustion": "Carotid bruits are evaluated during HTN clinical examination.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Carotid bruits suggest vascular disease. "
+  },
+  {
+    "the qustion": "Renal artery stenosis should be screened in all HTN patients.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "LVH is an organ response but not classified as macrovascular change."
+    "explanation": "Screen only if suspected by clinical clues. "
   },
   {
-    "the qustion": "Chronic kidney disease is a common complication of hypertension.",
+    "the qustion": "Left ventricular hypertrophy on ECG is a complication of chronic HTN.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Long-standing HTN damages renal vasculature."
+    "explanation": "LVH is a macrovascular complication. "
   },
   {
-    "the qustion": "HTN emergency with acute pulmonary edema is best managed with IV nitroprusside.",
+    "the qustion": "Hyaline arteriolosclerosis is a microvascular change in HTN.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Affects small vessels in chronic HTN. "
+  },
+  {
+    "the qustion": "Subarachnoid hemorrhage is a possible hypertensive emergency outcome.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Severe HTN can precipitate SAH. "
+  },
+  {
+    "the qustion": "Chronic HTN does not affect kidney function.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Pulmonary edema requires nitroglycerin or loop diuretics plus IV vasodilator."
+    "explanation": "Long-standing HTN leads to CKD. "
   },
   {
-    "the qustion": "Resistant HTN should prompt referral after 6 months of failed treatment.",  
+    "the qustion": "Stroke symptoms include unilateral weakness and aphasia.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Specialist referral is advised if BP uncontrolled after six months."
+    "explanation": "Common stroke presentations. "
   },
   {
-    "the qustion": "Universal screening for secondary causes is recommended for all hypertensives.",
+    "the qustion": "Hypertensive encephalopathy features headache, confusion, and seizures.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Neurologic symptoms indicate encephalopathy. "
+  },
+  {
+    "the qustion": "ACE inhibitors reduce mortality in post-MI hypertensive patients.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "ACEIs improve outcomes post-MI. "
+  },
+  {
+    "the qustion": "ACE inhibitors are contraindicated in bilateral renal artery stenosis.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "ACEIs worsen renal function in bilateral RAS. "
+  },
+  {
+    "the qustion": "NSAIDs can worsen blood pressure control.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "NSAIDs antagonize antihypertensive effects. "
+  },
+  {
+    "the qustion": "Thiazide diuretics can exacerbate gout by raising uric acid.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Thiazides induce hyperuricemia. "
+  },
+  {
+    "the qustion": "Beta-blockers are ideal for first-line HTN without other indications.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Screen selectively based on clinical clues."
+    "explanation": "BBs not preferred initial therapy absent compelling indication. "
   },
   {
-    "the qustion": "Hypertensive emergency commonly features chest discomfort from myocardial ischemia.",
+    "the qustion": "Combination therapy with ACEI + CCB is Grade 1B recommended.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "ACS can present during hypertensive crises."
+    "explanation": "ACEI/ARB + dihydropyridine CCB is preferred combo. "
   },
   {
-    "the qustion": "In resistant HTN, spironolactone is added when K+ >4.5 mEq/L.",
+    "the qustion": "Combination therapy with ACEI + thiazide is Grade 1B recommended.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Low-dose spironolactone is effective if K+ is safe."
+    "explanation": "ACEI/ARB + low-dose thiazide is recommended. "
   },
   {
-    "the qustion": "Which is a compelling indication for ACE inhibitor use in HTN?",
-    "a": "Diabetes with albuminuria",
-    "b": "Isolated systolic HTN",
-    "c": "Young age",
-    "d": "Male gender",
+    "the qustion": "Resistant HTN management may include spironolactone if K+ <5 mEq/L.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
     "correct": "a",
-    "explanation": "ACEIs protect kidneys in diabetics with proteinuria."
+    "explanation": "Spironolactone helps resistant HTN with safe K+. "
   },
   {
-    "the qustion": "Which agent is preferred for HTN in heart failure with reduced EF?",
-    "a": "Thiazide diuretic",
-    "b": "ACE inhibitor",
-    "c": "Non-dihydropyridine CCB",
-    "d": "Hydralazine monotherapy",
+    "the qustion": "Renal ultrasound is part of routine HTN evaluation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
     "correct": "b",
-    "explanation": "ACEIs improve survival in HFrEF."
-  },
-  {
-    "the qustion": "What is the first-line drug for hypertension in pregnancy?",
-    "a": "Lisinopril",
-    "b": "Methyldopa",
-    "c": "Losartan",
-    "d": "Enalapril",
-    "correct": "b",
-    "explanation": "Methyldopa has best safety record in pregnancy."
-  },
-  {
-    "the qustion": "Which antihypertensive is safest in African-American patients with CKD?",
-    "a": "ACE inhibitor",
-    "b": "CCB",
-    "c": "Thiazide",
-    "d": "Beta-blocker",
-    "correct": "a",
-    "explanation": "ACEIs are recommended in CKD regardless of race."
-  },
-  {
-    "the qustion": "Which drug class is most likely to cause hyperuricemia?",
-    "a": "Loop diuretic",
-    "b": "ACE inhibitor",
-    "c": "ARB",
-    "d": "CCB",
-    "correct": "a",
-    "explanation": "Thiazides and loops can raise uric acid levels."
+    "explanation": "Renal imaging is optional with suspicion. "
   }
 ]

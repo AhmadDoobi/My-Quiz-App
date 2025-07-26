@@ -6,447 +6,412 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "A full panel reports total cholesterol, LDL, HDL, triglycerides, and very-low density lipoprotein."
+    "explanation": "A full lipid panel measures total cholesterol, LDL, HDL, triglycerides and VLDL. "
   },
   {
-    "the qustion": "Patients must fast 10–12 hours before obtaining a lipid panel (only water allowed).",
+    "the qustion": "TC stands for \"Total Cholesterol\".",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Fasting minimizes post-prandial triglyceride elevation; only water is permitted."
+    "explanation": "TC is the abbreviation for total cholesterol. "
   },
   {
-    "the qustion": "Non-fasting specimens can reliably measure HDL and total cholesterol.",
+    "the qustion": "LDL means \"Low-Density Lipoprotein\" cholesterol.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "HDL and TC are largely unaffected by recent food intake."
+    "explanation": "LDL stands for low-density lipoprotein cholesterol. "
   },
   {
-    "the qustion": "An LDL ≥190 mg/dL on initial screening warrants high-intensity statin therapy.",
+    "the qustion": "HDL means \"High-Density Lipoprotein\" cholesterol.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Primary severe hypercholesterolemia (LDL ≥190) should be treated aggressively."
+    "explanation": "HDL is high-density lipoprotein cholesterol. "
   },
   {
-    "the qustion": "If LDL remains ≥100 mg/dL on a high-intensity statin, add ezetimibe next.",
+    "the qustion": "VLDL refers to \"Very Low-Density Lipoprotein\" cholesterol.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Ezetimibe is the second-line add-on after statin if LDL goal is unmet."
+    "explanation": "VLDL stands for very low-density lipoprotein cholesterol. "
   },
   {
-    "the qustion": "After statin + ezetimibe, if LDL ≥100 mg/dL and high-risk, consider a PCSK9 inhibitor.",
+    "the qustion": "Triglycerides are part of a standard lipid panel.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "PCSK9 inhibitors are reserved for persistently elevated LDL on dual therapy with high-risk features."
+    "explanation": "Triglycerides (TG) are measured alongside cholesterol fractions. "
   },
   {
-    "the qustion": "Adults 40–75 years with diabetes and LDL ≥70 mg/dL should start a moderate-intensity statin.",
+    "the qustion": "Patients generally need to fast 10–12 hours before a lipid panel.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Diabetics in this age/LDL range benefit from at least moderate-intensity therapy."
+    "explanation": "Most lipid panels require 10–12 h fasting (water only). "
   },
   {
-    "the qustion": "High-risk diabetic patients may be reasonable candidates for high-intensity statin therapy.",
+    "the qustion": "Fasting before a lipid panel allows only water, no food or drink.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Those with multiple risk factors can be escalated to high-intensity statins."
+    "explanation": "Fasting means nothing but water. "
   },
   {
-    "the qustion": "High-intensity statins lower LDL-C by ≥50%, moderate intensity by 30–49%.",
+    "the qustion": "In some cases, a non-fasting lipid panel is acceptable.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Intensity is defined by expected percent reduction in LDL-C."
+    "explanation": "Non-fasting panels may be done when fasting isn’t feasible. "
   },
   {
-    "the qustion": "Simvastatin 20–40 mg/day is considered high-intensity therapy.",
+    "the qustion": "If a patient eats during a fasting lipid panel, the results are still fully valid.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Simvastatin 20–40 mg/day is classified as moderate-intensity, not high."
+    "explanation": "Breaking fast reduces test utility; lab must be informed. "
   },
   {
-    "the qustion": "Atorvastatin 40–80 mg/day is high-intensity; 10–20 mg/day is moderate.",
+    "the qustion": "Non-fasting intake affects HDL and Total Cholesterol measurements.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "HDL and TC are not affected by non-fasting. "
+  },
+  {
+    "the qustion": "Severe primary hypercholesterolemia is LDL-C ≥190 mg/dL (≥4.9 mmol/L).",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Atorvastatin dosing splits moderate vs. high intensity at those ranges."
+    "explanation": "LDL ≥190 mg/dL (4.9 mmol/L) defines severe primary hypercholesterolemia. "
   },
   {
-    "the qustion": "Rosuvastatin 20–40 mg/day is high-intensity; 5–10 mg/day is moderate.",
+    "the qustion": "You must calculate a 10-year ASCVD risk before starting high-intensity statin in LDL ≥190 mg/dL patients.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Start high-intensity statin without calculating 10-year risk. "
+  },
+  {
+    "the qustion": "High-intensity statin therapy generally reduces LDL-C by ≥50%.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Rosuvastatin dosing is similarly tiered between moderate and high intensity."
+    "explanation": "High-intensity statins lower LDL-C by ≥50%. "
   },
   {
-    "the qustion": "Reassess lipid response 1–3 months after starting or adjusting therapy.",
+    "the qustion": "Moderate-intensity statins typically reduce LDL-C by 30–49%.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Early follow-up (1–3 months) gauges adherence and efficacy."
+    "explanation": "Moderate intensity yields ~30–49% LDL-C reduction. "
   },
   {
-    "the qustion": "Subsequent monitoring intervals should be every 3–12 months thereafter.",
+    "the qustion": "Simvastatin 20–40 mg/day is classified as high-intensity therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Simvastatin 20–40 mg is moderate-intensity. "
+  },
+  {
+    "the qustion": "Atorvastatin 40–80 mg/day is high-intensity therapy.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Once stable, periodic checks every 3–12 months are recommended."
+    "explanation": "Atorvastatin 40–80 mg/day is high-intensity. "
   },
   {
-    "the qustion": "Which lipoprotein is calculated rather than directly measured?",
+    "the qustion": "Atorvastatin 10–20 mg/day is moderate-intensity therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Atorvastatin 10–20 mg/day is moderate-intensity. "
+  },
+  {
+    "the qustion": "Rosuvastatin 20–40 mg/day is moderate-intensity therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Rosuvastatin 20–40 mg/day is high-intensity. "
+  },
+  {
+    "the qustion": "Rosuvastatin 5–10 mg/day is moderate-intensity therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Rosuvastatin 5–10 mg/day is moderate-intensity. "
+  },
+  {
+    "the qustion": "Simvastatin is marketed under the name Lipitor.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Simvastatin’s brand is Zocor; Lipitor is atorvastatin. "
+  },
+  {
+    "the qustion": "Rosuvastatin is marketed under the name Crestor.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Crestor (and Rostar, Ezallor) is rosuvastatin. "
+  },
+  {
+    "the qustion": "Ezetimibe is added if LDL-C remains ≥100 mg/dL on statin therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Add ezetimibe when LDL-C remains ≥100 mg/dL. "
+  },
+  {
+    "the qustion": "Ezetimibe is first-line therapy for LDL-C ≥190 mg/dL.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "High-intensity statin is first-line for LDL ≥190 mg/dL. "
+  },
+  {
+    "the qustion": "A PCSK9 inhibitor may be considered if LDL-C ≥100 mg/dL on statin + ezetimibe and multiple risk factors.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Consider PCSK9 inhibitor in this scenario. "
+  },
+  {
+    "the qustion": "Patients 40–75 years old with diabetes and LDL-C ≥70 mg/dL should start moderate-intensity statins.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Moderate-intensity statins are indicated for diabetes + LDL ≥70. "
+  },
+  {
+    "the qustion": "High-risk diabetic patients are not candidates for high-intensity statins.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "High-risk diabetics may reasonably use high-intensity statins. "
+  },
+  {
+    "the qustion": "Statin response should be assessed 1–3 months after initiation or dose adjustment.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Initial follow-up is recommended at 1–3 months. "
+  },
+  {
+    "the qustion": "Once stable, lipid panels should be repeated every 3–12 months.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Periodic monitoring every 3–12 months is advised. "
+  },
+
+  {
+    "the qustion": "Which of the following is NOT part of a standard lipid panel?",
     "a": "HDL",
     "b": "LDL",
-    "c": "TC",
-    "d": "TG",
-    "correct": "b",
-    "explanation": "LDL is often estimated via the Friedewald equation."
-  },
-  {
-    "the qustion": "Which equation estimates LDL when TG < 400 mg/dL?",
-    "a": "Mifflin-St Jeor",
-    "b": "Friedewald",
-    "c": "Harris-Benedict",
-    "d": "Cockcroft-Gault",
-    "correct": "b",
-    "explanation": "The Friedewald formula uses TC, HDL, and TG to approximate LDL."
-  },
-  {
-    "the qustion": "A triglyceride level ≥500 mg/dL increases risk for pancreatitis.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Very high TG levels (>500 mg/dL) predispose to acute pancreatitis."
-  },
-  {
-    "the qustion": "VLDL is calculated as TG/5 when measured in mg/dL.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "VLDL estimation uses TG ÷ 5 (in mg/dL)."
-  },
-  {
-    "the qustion": "Which statin is NOT available in a high-intensity regimen?",
-    "a": "Simvastatin",
-    "b": "Atorvastatin",
-    "c": "Rosuvastatin",
-    "d": "None of the above",
-    "correct": "a",
-    "explanation": "Simvastatin’s maximum dose yields only moderate LDL-C reduction."
-  },
-  {
-    "the qustion": "In primary prevention with LDL 70–189 mg/dL and ASCVD risk ≥7.5%, start a moderate-intensity statin.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Guidelines recommend statins based on LDL plus calculated cardiovascular risk."
-  },
-  {
-    "the qustion": "PCSK9 inhibitors are oral medications.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "b",
-    "explanation": "PCSK9 inhibitors are monoclonal antibodies administered by injection."
-  },
-  {
-    "the qustion": "Which is the strongest LDL-C reducer?",
-    "a": "Ezetimibe",
-    "b": "Statins",
-    "c": "PCSK9 inhibitors",
-    "d": "Niacin",
-    "correct": "c",
-    "explanation": "PCSK9 inhibitors lower LDL-C by ~60% on top of statin therapy."
-  },
-  {
-    "the qustion": "Ezetimibe works by inhibiting intestinal cholesterol absorption.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "It blocks the Niemann-Pick C1-Like 1 transporter in the gut."
-  },
-  {
-    "the qustion": "Which lab value is NOT directly affected by ezetimibe?",
-    "a": "LDL",
-    "b": "HDL",
-    "c": "TG",
+    "c": "RBC",
     "d": "VLDL",
-    "correct": "b",
-    "explanation": "Ezetimibe has minimal impact on HDL levels."
+    "correct": "c",
+    "explanation": "Red blood cells are not measured in a lipid panel. "
   },
   {
-    "the qustion": "Statin therapy is contraindicated in active liver disease.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
+    "the qustion": "TC is measured in which units?",
+    "a": "mg/dL",
+    "b": "mm Hg",
+    "c": "mEq/L",
+    "d": "IU/mL",
     "correct": "a",
-    "explanation": "Liver function must be assessed before and during statin use."
+    "explanation": "Cholesterol is reported in mg/dL. "
   },
   {
-    "the qustion": "Which symptom would prompt immediate statin discontinuation?",
-    "a": "Mild headache",
-    "b": "Transient nausea",
-    "c": "Severe muscle pain with elevated CK",
-    "d": "Mild rash",
-    "correct": "c",
-    "explanation": "Severe myopathy with CPK elevation requires stopping therapy."
-  },
-  {
-    "the qustion": "Routine CK monitoring is required for all patients on statins.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "b",
-    "explanation": "CK is only checked if muscle symptoms develop."
-  },
-  {
-    "the qustion": "Which dietary change most lowers LDL?",
-    "a": "Reduce saturated fat",
-    "b": "Increase refined carbs",
-    "c": "Eliminate fiber",
-    "d": "Add trans fats",
+    "the qustion": "What’s the mmol/L equivalent of LDL-C ≥190 mg/dL?",
+    "a": "4.9 mmol/L",
+    "b": "1.8 mmol/L",
+    "c": "3.2 mmol/L",
+    "d": "5.2 mmol/L",
     "correct": "a",
-    "explanation": "Lowering saturated fats reduces LDL levels."
+    "explanation": "≥190 mg/dL equals ≥4.9 mmol/L. "
   },
   {
-    "the qustion": "Fish oil supplements primarily lower triglycerides.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
+    "the qustion": "High-intensity statins aim for LDL-C reduction of at least:",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "20%",
+    "correct": "c",
+    "explanation": "High-intensity reduces LDL-C by ≥50%. "
+  },
+  {
+    "the qustion": "Moderate-intensity statins target LDL-C reduction of:",
+    "a": "10–29%",
+    "b": "30–49%",
+    "c": "50–69%",
+    "d": "70–89%",
+    "correct": "b",
+    "explanation": "Moderate-intensity yields ~30–49% reduction. "
+  },
+  {
+    "the qustion": "Simvastatin brand name is:",
+    "a": "Lipitor",
+    "b": "Crestor",
+    "c": "Zocor",
+    "d": "Ezetrol",
+    "correct": "c",
+    "explanation": "Zocor is simvastatin’s trade name. "
+  },
+  {
+    "the qustion": "Atorvastatin brand name is:",
+    "a": "Zocor",
+    "b": "Lipitor",
+    "c": "Crestor",
+    "d": "Lescol",
+    "correct": "b",
+    "explanation": "Lipitor is atorvastatin’s trade name. "
+  },
+  {
+    "the qustion": "Rosuvastatin is sold as:",
+    "a": "Lescol",
+    "b": "Zocor",
+    "c": "Crestor",
+    "d": "Livalo",
+    "correct": "c",
+    "explanation": "Crestor (and Rostar/Ezallor) is rosuvastatin. "
+  },
+  {
+    "the qustion": "Which dose of simvastatin is moderate-intensity?",
+    "a": "5–10 mg",
+    "b": "10–20 mg",
+    "c": "20–40 mg",
+    "d": "40–80 mg",
+    "correct": "c",
+    "explanation": "20–40 mg/day is moderate-intensity simvastatin. "
+  },
+  {
+    "the qustion": "Which dose of atorvastatin is moderate-intensity?",
+    "a": "5–10 mg",
+    "b": "10–20 mg",
+    "c": "20–40 mg",
+    "d": "40–80 mg",
+    "correct": "b",
+    "explanation": "10–20 mg/day is moderate-intensity atorvastatin. "
+  },
+  {
+    "the qustion": "Which dose of rosuvastatin is moderate-intensity?",
+    "a": "5–10 mg",
+    "b": "10–20 mg",
+    "c": "20–40 mg",
+    "d": "40–80 mg",
     "correct": "a",
-    "explanation": "Omega-3 fatty acids reduce TG levels significantly."
+    "explanation": "5–10 mg/day is moderate-intensity rosuvastatin. "
   },
   {
-    "the qustion": "Niacin is first-line for LDL lowering.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "b",
-    "explanation": "Niacin is not first-line due to its unfavorable side-effect profile."
-  },
-  {
-    "the qustion": "Which lipoprotein is termed 'bad cholesterol'?",
-    "a": "HDL",
-    "b": "LDL",
-    "c": "VLDL",
-    "d": "TG",
-    "correct": "b",
-    "explanation": "LDL transports cholesterol to tissues and is associated with atherosclerosis."
-  },
-  {
-    "the qustion": "Which lipoprotein is termed 'good cholesterol'?",
-    "a": "HDL",
-    "b": "LDL",
-    "c": "VLDL",
-    "d": "TG",
-    "correct": "a",
-    "explanation": "HDL carries cholesterol back to the liver for excretion, protecting against atherosclerosis."
-  },
-  {
-    "the qustion": "Which lipoprotein primarily transports triglycerides from the liver to peripheral tissues?",
-    "a": "HDL",
-    "b": "LDL",
-    "c": "VLDL",
-    "d": "Chylomicrons",
-    "correct": "c",
-    "explanation": "VLDL carries endogenous triglycerides made by the liver to peripheral tissues."
-  },
-  {
-    "the qustion": "The Friedewald formula estimates LDL using which three lipid measurements?",
-    "a": "TC, HDL, TG",
-    "b": "TC, VLDL, TG",
-    "c": "HDL, VLDL, TG",
-    "d": "TC, HDL, VLDL",
-    "correct": "a",
-    "explanation": "The Friedewald equation uses total cholesterol, HDL, and triglycerides."
-  },
-  {
-    "the qustion": "The Friedewald equation is invalid when triglycerides exceed which level?",
-    "a": "200 mg/dL",
-    "b": "300 mg/dL",
-    "c": "400 mg/dL",
-    "d": "500 mg/dL",
-    "correct": "c",
-    "explanation": "When TG >400 mg/dL, LDL estimation via Friedewald becomes inaccurate."
-  },
-  {
-    "the qustion": "For accurate triglyceride measurement, patients should fast for:",
-    "a": "6–8 hours",
-    "b": "8–10 hours",
-    "c": "10–12 hours",
-    "d": "12–14 hours",
-    "correct": "c",
-    "explanation": "A 10–12 hour fast ensures minimal postprandial TG elevation."
-  },
-  {
-    "the qustion": "During a fasting lipid panel, patients are allowed to consume:",
-    "a": "Black coffee",
-    "b": "Low-fat milk",
-    "c": "Water",
-    "d": "Sugar-free gum",
-    "correct": "c",
-    "explanation": "Only water is permitted during the fasting period for lipid testing."
-  },
-  {
-    "the qustion": "After high-intensity statin therapy, if LDL remains ≥100 mg/dL, add:",
-    "a": "Niacin",
-    "b": "Ezetimibe",
-    "c": "Fibric acid",
-    "d": "Bile acid sequestrant",
-    "correct": "b",
-    "explanation": "Ezetimibe is the recommended add-on therapy when LDL targets are not met on statin."
-  },
-  {
-    "the qustion": "In high-risk patients, after statin + ezetimibe, consider adding:",
-    "a": "Niacin",
-    "b": "PCSK9 inhibitor",
-    "c": "Fibric acid",
-    "d": "Omega-3 fatty acids",
-    "correct": "b",
-    "explanation": "PCSK9 inhibitors are reserved for high-risk patients with persistent LDL elevation despite dual therapy."
-  },
-  {
-    "the qustion": "Diabetic patients aged 40–75 years with LDL ≥70 mg/dL should initiate:",
-    "a": "Low-intensity statin",
-    "b": "Moderate-intensity statin",
-    "c": "High-intensity statin",
-    "d": "No statin therapy",
-    "correct": "b",
-    "explanation": "Guidelines recommend moderate-intensity statins for these diabetic patients."
-  },
-  {
-    "the qustion": "High-risk diabetic patients may receive:",
-    "a": "No statin",
-    "b": "Low-intensity statin",
-    "c": "Moderate-intensity statin",
-    "d": "High-intensity statin",
-    "correct": "d",
-    "explanation": "High-risk patients may benefit from high-intensity statin therapy."
-  },
-  {
-    "the qustion": "High-intensity statins lower LDL-C by at least:",
-    "a": "20%",
-    "b": "30%",
-    "c": "40%",
-    "d": "50%",
-    "correct": "d",
-    "explanation": "High-intensity statins produce a ≥50% reduction in LDL-C."
-  },
-  {
-    "the qustion": "Moderate-intensity statins lower LDL-C by approximately:",
-    "a": "10–19%",
-    "b": "20–29%",
-    "c": "30–49%",
-    "d": "50–69%",
-    "correct": "c",
-    "explanation": "Moderate-intensity therapy reduces LDL-C by about 30–49%."
-  },
-  {
-    "the qustion": "Simvastatin 40 mg daily is classified as:",
-    "a": "Low-intensity",
-    "b": "Moderate-intensity",
-    "c": "High-intensity",
-    "d": "Not recommended",
-    "correct": "b",
-    "explanation": "Simvastatin 20–40 mg daily is a moderate-intensity regimen."
-  },
-  {
-    "the qustion": "Rosuvastatin 10 mg daily corresponds to:",
-    "a": "Low-intensity",
-    "b": "Moderate-intensity",
-    "c": "High-intensity",
-    "d": "Experimental dose",
-    "correct": "b",
-    "explanation": "Rosuvastatin 5–10 mg daily is moderate-intensity."
-  },
-  {
-    "the qustion": "Atorvastatin 80 mg daily is categorized as:",
-    "a": "Low-intensity",
-    "b": "Moderate-intensity",
-    "c": "High-intensity",
-    "d": "Not FDA-approved",
-    "correct": "c",
-    "explanation": "Atorvastatin 40–80 mg daily is considered high-intensity."
-  },
-  {
-    "the qustion": "Lipid response should be reassessed after:",
-    "a": "1–3 weeks",
+    "the qustion": "After starting statin, response should be checked at:",
+    "a": "2–4 weeks",
     "b": "1–3 months",
     "c": "6 months",
     "d": "1 year",
     "correct": "b",
-    "explanation": "Initial follow-up is recommended 1–3 months after therapy initiation or adjustment."
+    "explanation": "Reassess 1–3 months after initiation or dose change. "
   },
   {
-    "the qustion": "Subsequent lipid monitoring intervals are:",
-    "a": "Every 1–2 months",
-    "b": "Every 3–12 months",
-    "c": "Every 2 years",
-    "d": "Only as clinically indicated",
+    "the qustion": "Stable lipid panels should then be repeated every:",
+    "a": "1–2 months",
+    "b": "3–12 months",
+    "c": "12–18 months",
+    "d": "2 years",
     "correct": "b",
-    "explanation": "After stabilization, monitoring every 3–12 months is advised."
+    "explanation": "Monitor every 3–12 months thereafter. "
   },
   {
-    "the qustion": "Which statin offers both moderate- and high-intensity dosing?",
-    "a": "Simvastatin",
-    "b": "Atorvastatin",
-    "c": "Fluvastatin",
-    "d": "Lovastatin",
-    "correct": "b",
-    "explanation": "Atorvastatin has dosing ranges for both moderate and high intensity."
-  },
-  {
-    "the qustion": "Which statin is available only as moderate-intensity dosing?",
-    "a": "Rosuvastatin",
-    "b": "Atorvastatin",
-    "c": "Simvastatin",
-    "d": "Pravastatin",
+    "the qustion": "Ezetimibe acts by inhibiting:",
+    "a": "HMG-CoA reductase",
+    "b": "PCSK9",
+    "c": "Cholesterol absorption",
+    "d": "Lipoprotein lipase",
     "correct": "c",
-    "explanation": "Simvastatin’s maximum FDA-approved dose yields moderate LDL-C reduction."
+    "explanation": "Ezetimibe blocks intestinal cholesterol absorption. "
+  },
+  {
+    "the qustion": "PCSK9 inhibitors target:",
+    "a": "HMG-CoA reductase",
+    "b": "LDL receptor degradation",
+    "c": "Cholesterol absorption",
+    "d": "Triglyceride synthesis",
+    "correct": "b",
+    "explanation": "PCSK9 inhibitors prevent LDL receptor breakdown. "
+  },
+  {
+    "the qustion": "Diabetic patients 40–75 with LDL ≥70 mg/dL start:",
+    "a": "High-intensity statin",
+    "b": "Moderate-intensity statin",
+    "c": "Low-intensity statin",
+    "d": "No statin",
+    "correct": "b",
+    "explanation": "Moderate-intensity statins are indicated. "
+  },
+  {
+    "the qustion": "High-risk diabetics may reasonably use:",
+    "a": "High-intensity statin",
+    "b": "No statin",
+    "c": "Ezetimibe monotherapy",
+    "d": "PCSK9 inhibitor first-line",
+    "correct": "a",
+    "explanation": "High-intensity statins are reasonable in high-risk DM. "
   }
 ]
