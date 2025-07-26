@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>📚 Quiz App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- HOME -->
+  <main id="home">
+    <h1>Quiz App</h1>
+    <button id="single-chapter-btn">Take One Chapter</button>
+    <button id="multi-chapter-btn">Take Multiple Chapters</button>
+  </main>
+
+  <!-- CHAPTER SELECTOR -->
+  <section id="selector" class="hidden">
+    <button class="back-btn">← Home</button>
+    <h2 id="selector-title">Choose Chapter</h2>
+    <div id="chapter-list"></div>
+    <button id="start-quiz" disabled>Start Quiz</button>
+  </section>
+
+  <!-- QUIZ SCREEN -->
+  <section id="quiz" class="hidden">
+    <button class="back-btn">← Home</button>
+    <div id="progress">0 / 0</div>
+    <form id="quiz-form"></form>
+    <div id="controls">
+      <button id="next-btn" disabled>Next Question</button>
+      <button id="restart-btn">Restart Quiz</button>
+      <button id="show-wrongs">Show Wrong</button>
+    </div>
+  </section>
+
+  <script src="quiz.js"></script>
+</body>
+</html>

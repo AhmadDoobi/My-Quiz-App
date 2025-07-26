@@ -1,0 +1,91 @@
+/* Mobile-first, iOS-friendly */
+body {
+  font-family: -apple-system, sans-serif;
+  margin: 0; padding: 1em;
+  background: #f9f9f9;
+  color: #333;
+}
+.hidden { display: none; }
+
+/* BUTTONS */
+button {
+  display: block;
+  width: 100%;
+  padding: 1em;
+  margin: .5em 0;
+  font-size: 1.1em;
+  border: none;
+  border-radius: .5em;
+  background: #007aff;
+  color: white;
+}
+button:disabled {
+  background: #ccc;
+  color: #666;
+}
+.back-btn {
+  background: none;
+  color: #007aff;
+  font-size: 1em;
+  padding: 0;
+  margin-bottom: .5em;
+}
+
+/* CHAPTER LIST */
+#chapter-list label {
+  display: block;
+  margin: .3em 0;
+}
+
+/* QUIZ PROGRESS */
+#progress {
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+
+/* QUESTION FIELDSET */
+fieldset {
+  border: 1px solid #ddd;
+  padding: .5em;
+  margin-bottom: .5em;
+}
+
+/* MAKE EACH ANSWER A CLICKABLE BOX */
+label {
+  display: block;
+  position: relative;
+  padding: 1em;
+  margin-bottom: .5em;
+  border: 1px solid #ccc;
+  border-radius: .5em;
+  cursor: pointer;
+  user-select: none;
+  transition: background .2s, border-color .2s;
+}
+
+/* HIDE THE RADIO CIRCLE BUT KEEP IT FUNCTIONAL */
+input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  top: 0; left: 0; right: 0; bottom: 0;
+  width: 100%; height: 100%;
+  margin: 0;
+  z-index: 1;
+}
+
+/* FEEDBACK STATES */
+label.correct {
+  background: #d4edda;
+  border-color: #28a745;
+}
+label.wrong {
+  background: #f8d7da;
+  border-color: #dc3545;
+}
+
+/* EXPLANATION TEXT */
+.explanation {
+  margin-top: .5em;
+  font-style: italic;
+}

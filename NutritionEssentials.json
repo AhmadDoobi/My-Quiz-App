@@ -1,0 +1,426 @@
+[
+  {
+    "the qustion": "Nutrition is the science of food, nutrients, and their effect on health.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Nutrition focuses on how food and its components affect health." 
+  },
+  {
+    "the qustion": "Nutrition studies the relationship between diet, health, and disease.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "A core goal of nutrition science is understanding diet–disease links."
+  },
+  {
+    "the qustion": "Nutrition supports growth, healing, and energy production.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Adequate nutrients are essential for tissue repair and fuel."
+  },
+  {
+    "the qustion": "Proper nutrition prevents both malnutrition and chronic diseases.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Balanced diets reduce risk of nutrient deficiencies and chronic illness."
+  },
+  {
+    "the qustion": "Macronutrients include carbohydrates, proteins, fats, and water.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These are needed in large amounts for energy and structure."
+  },
+  {
+    "the qustion": "Micronutrients include vitamins and minerals.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "They’re required in smaller quantities for regulation and structure."
+  },
+  {
+    "the qustion": "Carbohydrates provide 4 kcal per gram.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Each gram of carbohydrate yields 4 kilocalories of energy."
+  },
+  {
+    "the qustion": "Proteins provide 4 kcal per gram.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Proteins, like carbs, supply 4 kcal per gram."
+  },
+  {
+    "the qustion": "Fats are the most energy-dense macronutrient, at 9 kcal per gram.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Fats provide more than double the energy of carbs or proteins."
+  },
+  {
+    "the qustion": "Carbohydrates are classified as simple or complex based on structure.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Simple (sugars) vs. complex (starches, fiber)." 
+  },
+  {
+    "the qustion": "Animal and plant sources both provide complete proteins.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Some plant proteins lack one or more essential amino acids."
+  },
+  {
+    "the qustion": "Saturated fats should be limited in the diet.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "High saturated fat intake is linked to cardiovascular risk."
+  },
+  {
+    "the qustion": "Trans fats should be avoided entirely.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Trans fats raise LDL and lower HDL cholesterol."
+  },
+  {
+    "the qustion": "Fat-soluble vitamins include A, D, E, and K.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "They dissolve in fat and can be stored in the body."
+  },
+  {
+    "the qustion": "Water-soluble vitamins include the B-complex and vitamin C.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "They dissolve in water and excess is excreted."
+  },
+  {
+    "the qustion": "Major minerals include calcium, magnesium, sodium, and potassium.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Needed in larger amounts versus trace minerals."
+  },
+  {
+    "the qustion": "Trace minerals include zinc, iron, and iodine.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "They're essential in small quantities for various functions."
+  },
+  {
+    "the qustion": "A balanced diet provides all nutrients in proper amounts and proportions.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Balance and variety ensure nutritional adequacy."
+  },
+  {
+    "the qustion": "A balanced diet must include variety from all food groups.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Variety prevents nutrient gaps."
+  },
+  {
+    "the qustion": "The Eat-Well Plate divides your plate into ½ fruits & vegetables, ¼ protein, and ¼ grains, plus a small dairy portion.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "This visual guide helps portion control."
+  },
+  {
+    "the qustion": "Hydration and physical activity are key components of a healthy diet plan.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Water and exercise support overall wellness."
+  },
+  {
+    "the qustion": "On a Nutrition Facts label, all values are based on one serving size.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Serving size defines the basis for listed nutrients."
+  },
+  {
+    "the qustion": "Some packages contain multiple servings, so total calories may exceed the label’s per-serving value.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Always compare serving size to actual consumption."
+  },
+  {
+    "the qustion": "Calories on the label reflect energy per entire package.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They reflect calories per listed serving."
+  },
+  {
+    "the qustion": "A low-calorie item is defined as ≤40 kcal per serving.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "≤40 kcal/serving qualifies as low-calorie."
+  },
+  {
+    "the qustion": "A high-calorie item is ≥400 kcal per serving.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "≥400 kcal/serving is categorized as high."
+  },
+
+  {
+    "the qustion": "Which function of food pertains to tissue repair and growth?",
+    "a": "Energy source",
+    "b": "Body building & repair",
+    "c": "Regulation of processes",
+    "d": "Protection",
+    "correct": "b",
+    "explanation": "Proteins and minerals support growth and repair."
+  },
+  {
+    "the qustion": "Which function of nutrients involves immunity support and antioxidants?",
+    "a": "Energy source",
+    "b": "Body building & repair",
+    "c": "Regulation of processes",
+    "d": "Protection",
+    "correct": "d",
+    "explanation": "Antioxidants and immunity-supporting nutrients protect cells."
+  },
+  {
+    "the qustion": "Which nutrient class includes fiber?",
+    "a": "Macronutrients",
+    "b": "Micronutrients",
+    "c": "Hydration",
+    "d": "Antioxidants",
+    "correct": "a",
+    "explanation": "Fiber is a non-digested carbohydrate, thus a macronutrient."
+  },
+  {
+    "the qustion": "Which nutrient class includes iron and iodine?",
+    "a": "Macronutrients",
+    "b": "Micronutrients",
+    "c": "Electrolytes",
+    "d": "Phytochemicals",
+    "correct": "b",
+    "explanation": "Minerals are micronutrients."
+  },
+  {
+    "the qustion": "Which food group includes meat and legumes?",
+    "a": "Vegetables",
+    "b": "Proteins",
+    "c": "Grains",
+    "d": "Dairy",
+    "correct": "b",
+    "explanation": "Proteins consist of meat, poultry, fish, legumes, etc."
+  },
+  {
+    "the qustion": "Which food group should be used in moderation due to calorie density?",
+    "a": "Fruits",
+    "b": "Vegetables",
+    "c": "Fats & oils",
+    "d": "Dairy",
+    "correct": "c",
+    "explanation": "Fats and oils are energy-dense and should be limited."
+  },
+  {
+    "the qustion": "Which label term indicates ≤5% Daily Value of a nutrient?",
+    "a": "Low",
+    "b": "Moderate",
+    "c": "High",
+    "d": "Excellent source",
+    "correct": "a",
+    "explanation": "≤5% DV is considered low on U.S. labels."
+  },
+  {
+    "the qustion": "Which label term indicates ≥20% Daily Value of a nutrient?",
+    "a": "Low",
+    "b": "Moderate",
+    "c": "High",
+    "d": "Good source",
+    "correct": "c",
+    "explanation": "≥20% DV is labeled as high on Nutrition Facts panels."
+  },
+  {
+    "the qustion": "Names like corn syrup, dextrose, and molasses indicate added sugars.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These are common forms of hidden sugars."
+  },
+  {
+    "the qustion": "“No sugar added” means the product is sugar-free.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "It means no sugars were added during processing, not sugar-free."
+  },
+  {
+    "the qustion": "Look for “hydrogenated oils” to detect trans fats.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Hydrogenated oils are a source of trans fatty acids."
+  },
+  {
+    "the qustion": "Low-sodium foods contain ≤140 mg sodium per serving.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "≤140 mg sodium/serving qualifies as low-sodium."
+  },
+  {
+    "the qustion": "Health halos like “natural” guarantee a healthier product.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Marketing claims aren’t a substitute for label facts."
+  },
+  {
+    "the qustion": "On the hunger/fullness scale, 1 indicates starving symptoms like dizziness.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Scale defines 1 as starving with low energy and irritability."
+  },
+  {
+    "the qustion": "On the hunger/fullness scale, 5 represents a neutral state.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "5 indicates neither hungry nor full."
+  },
+  {
+    "the qustion": "A sedentary activity factor is 1.2 for BMR calculation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Little to no exercise uses a 1.2 multiplier."
+  },
+  {
+    "the qustion": "A moderately active factor is 1.55 for BMR calculation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Moderate exercise 3–5 days/week uses 1.55."
+  },
+  {
+    "the qustion": "An extra active factor (physical job or athlete) is 1.9.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "High daily energy expenditure uses a 1.9 multiplier."
+  },
+  {
+    "the qustion": "The Mifflin-St Jeor equation is more accurate than Harris-Benedict for BMR.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "It better predicts resting energy needs."
+  },
+  {
+    "the qustion": "In the Mifflin-St Jeor equation for men, you add +5 kcal at the end.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Men’s formula ends with +5; women’s ends with –161."
+  },
+  {
+    "the qustion": "Total Energy Requirement (TER) equals BMR multiplied by the activity factor.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "TER accounts for both basal needs and activity level."
+  }
+]

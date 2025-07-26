@@ -1,0 +1,885 @@
+[
+  {
+    "the qustion": "All medical terms have a prefix.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Not every term uses a prefix; some consist of only a root and suffix."
+  },
+  {
+    "the qustion": "A combining vowel is always used when connecting a word root and a suffix.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "A combining vowel is used only when needed for pronunciation, not always."
+  },
+  {
+    "the qustion": "A prefix modifies the meaning of a word root.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Prefixes add information about time, number, position, or negation."
+  },
+  {
+    "the qustion": "A combining vowel is used to ease pronunciation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "It links roots to suffixes or other roots smoothly."
+  },
+  {
+    "the qustion": "The most common combining vowel is 'o'.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "An 'o' is most often used between word elements."
+  },
+  {
+    "the qustion": "The word root is the core of a medical term.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Roots provide the fundamental meaning (e.g., nephro- for kidney)."
+  },
+  {
+    "the qustion": "The prefix 'hypo-' means above normal.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Hypo- means low, below, or reduced."
+  },
+  {
+    "the qustion": "The suffix '-itis' indicates inflammation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "-itis denotes inflammation of the root organ or tissue."
+  },
+  {
+    "the qustion": "The suffix '-emia' relates to disease.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-emia refers specifically to a blood condition."
+  },
+  {
+    "the qustion": "The suffix '-megaly' indicates enlargement.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "-megaly means abnormal enlargement of an organ."
+  },
+  {
+    "the qustion": "The suffix '-rrhea' indicates discharge or flow.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "-rrhea means an abnormal flow or discharge."
+  },
+  {
+    "the qustion": "The suffix '-rrhage' indicates painful condition.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-rrhage/-rrhagia indicates excessive bleeding or discharge."
+  },
+  {
+    "the qustion": "The suffix '-penia' indicates deficiency.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "-penia denotes a deficiency of a component."
+  },
+  {
+    "the qustion": "The prefix 'dys-' indicates abnormal or impaired.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Dys- means bad, difficult, or impaired function."
+  },
+  {
+    "the qustion": "The prefix 'poly-' indicates few.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Poly- means many or multiple."
+  },
+  {
+    "the qustion": "The prefix 'oligo-' indicates many.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Oligo- means few or scant."
+  },
+  {
+    "the qustion": "The prefix 'macro-' indicates small size.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Macro- means large or great."
+  },
+  {
+    "the qustion": "The combining form 'hepat/o' refers to the heart.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Hepat/o refers to the liver."
+  },
+  {
+    "the qustion": "The combining form 'oste/o' refers to bone.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Oste/o is the bone combining form."
+  },
+  {
+    "the qustion": "The root 'cardi' refers to the liver.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Cardi- refers to the heart."
+  },
+  {
+    "the qustion": "The suffix '-ology' indicates specialist.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-ology means study of; -ologist is the specialist."
+  },
+  {
+    "the qustion": "The suffix '-ologist' indicates study of.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-ologist is one who specializes; -ology is study of."
+  },
+  {
+    "the qustion": "The suffix '-oma' indicates inflammation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-oma means tumor or mass."
+  },
+  {
+    "the qustion": "The prefix 'tachy-' means slow.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Tachy- means fast or rapid."
+  },
+  {
+    "the qustion": "The prefix 'brady-' means fast.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Brady- means slow or reduced."
+  },
+  {
+    "the qustion": "The suffix '-scopy' indicates recording.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-scopy means process of examining visually."
+  },
+  {
+    "the qustion": "The suffix '-meter' indicates instrument for examining.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "-meter means instrument for measuring."
+  },
+  {
+    "the qustion": "All medical words contain at least one vowel.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Vowels link word parts and ease pronunciation."
+  },
+  {
+    "the qustion": "The suffix '-logy' indicates study of.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "-ology means the study of a subject."
+  },
+  {
+    "the qustion": "The prefix 'neo-' means old.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Neo- means new."
+  },
+
+  {
+    "the qustion": "Which of the following is always present in a medical term?",
+    "a": "Prefix",
+    "b": "Root",
+    "c": "Combining vowel",
+    "d": "Suffix",
+    "correct": "b",
+    "explanation": "Every term must have at least one word root."
+  },
+  {
+    "the qustion": "The root in 'tonsillitis' is:",
+    "a": "itis",
+    "b": "tonsill",
+    "c": "sill",
+    "d": "tons",
+    "correct": "b",
+    "explanation": "Tonsill- is the root referring to the tonsils."
+  },
+  {
+    "the qustion": "Adding a vowel to a word root produces a:",
+    "a": "Prefix",
+    "b": "Combining form",
+    "c": "Suffix",
+    "d": "Compound word",
+    "correct": "b",
+    "explanation": "A combining form is a root plus a vowel."
+  },
+  {
+    "the qustion": "Which combination does NOT require a combining vowel?",
+    "a": "dermat + itis",
+    "b": "gastr + ology",
+    "c": "oste + megaly",
+    "d": "hepat + ology",
+    "correct": "a",
+    "explanation": "Dermatitis joins derm- and -itis directly."
+  },
+  {
+    "the qustion": "How many word roots are in 'gastroduodenoscopy'?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "correct": "c",
+    "explanation": "It has gastro-, duodeno-, and scopy roots."
+  },
+  {
+    "the qustion": "The suffix that means 'study of' is:",
+    "a": "-itis",
+    "b": "-ology",
+    "c": "-oma",
+    "d": "-genic",
+    "correct": "b",
+    "explanation": "-ology means the study of a subject."
+  },
+  {
+    "the qustion": "The suffix that means 'specialist' is:",
+    "a": "-ologist",
+    "b": "-ology",
+    "c": "-itis",
+    "d": "-emia",
+    "correct": "a",
+    "explanation": "-ologist denotes one who specializes in a field."
+  },
+  {
+    "the qustion": "The prefix that means 'slow' is:",
+    "a": "tachy-",
+    "b": "brady-",
+    "c": "hyper-",
+    "d": "hypo-",
+    "correct": "b",
+    "explanation": "Brady- means slow."
+  },
+  {
+    "the qustion": "The prefix that means 'fast' is:",
+    "a": "brady-",
+    "b": "hypo-",
+    "c": "tachy-",
+    "d": "neo-",
+    "correct": "c",
+    "explanation": "Tachy- means fast or rapid."
+  },
+  {
+    "the qustion": "The prefix that means 'below normal' is:",
+    "a": "hyper-",
+    "b": "hypo-",
+    "c": "tachy-",
+    "d": "brady-",
+    "correct": "b",
+    "explanation": "Hypo- denotes low or below normal."
+  },
+  {
+    "the qustion": "The prefix that means 'above normal' is:",
+    "a": "hypo-",
+    "b": "hyper-",
+    "c": "brady-",
+    "d": "tachy-",
+    "correct": "b",
+    "explanation": "Hyper- means high or above normal."
+  },
+  {
+    "the qustion": "The prefix that means 'many' is:",
+    "a": "mono-",
+    "b": "bi-",
+    "c": "poly-",
+    "d": "oligo-",
+    "correct": "c",
+    "explanation": "Poly- means many or multiple."
+  },
+  {
+    "the qustion": "The combining form 'gastr/o' refers to the:",
+    "a": "liver",
+    "b": "stomach",
+    "c": "kidney",
+    "d": "heart",
+    "correct": "b",
+    "explanation": "Gastr/o denotes the stomach."
+  },
+  {
+    "the qustion": "The combining form 'hepat/o' refers to the:",
+    "a": "bone",
+    "b": "liver",
+    "c": "muscle",
+    "d": "nerve",
+    "correct": "b",
+    "explanation": "Hepat/o denotes the liver."
+  },
+  {
+    "the qustion": "The combining form 'immun/o' refers to the:",
+    "a": "immune system",
+    "b": "inflammation",
+    "c": "muscle",
+    "d": "blood",
+    "correct": "a",
+    "explanation": "Immun/o pertains to immunity."
+  },
+  {
+    "the qustion": "The combining form 'oste/o' refers to the:",
+    "a": "kidney",
+    "b": "liver",
+    "c": "bone",
+    "d": "skin",
+    "correct": "c",
+    "explanation": "Oste/o denotes bone."
+  },
+  {
+    "the qustion": "Which suffix means 'pain'?",
+    "a": "-algia",
+    "b": "-itis",
+    "c": "-emia",
+    "d": "-oma",
+    "correct": "a",
+    "explanation": "-algia indicates pain in a structure."
+  },
+  {
+    "the qustion": "Which suffix means 'paralysis'?",
+    "a": "-paresis",
+    "b": "-plegia",
+    "c": "-pathy",
+    "d": "-penia",
+    "correct": "b",
+    "explanation": "-plegia denotes paralysis."
+  },
+  {
+    "the qustion": "Which suffix means 'abnormal condition'?",
+    "a": "-oma",
+    "b": "-osis",
+    "c": "-itis",
+    "d": "-logy",
+    "correct": "b",
+    "explanation": "-osis signifies a condition or disease."
+  },
+  {
+    "the qustion": "Which suffix means 'tumor'?",
+    "a": "-oma",
+    "b": "-algia",
+    "c": "-emia",
+    "d": "-osis",
+    "correct": "a",
+    "explanation": "-oma denotes a tumor or mass."
+  },
+  {
+    "the qustion": "Which suffix means 'narrowing'?",
+    "a": "-stenosis",
+    "b": "-constriction",
+    "c": "-megaly",
+    "d": "-rrhea",
+    "correct": "b",
+    "explanation": "Constriction denotes narrowing."
+  },
+  {
+    "the qustion": "Which suffix indicates 'recording'?",
+    "a": "-gram",
+    "b": "-graphy",
+    "c": "-scope",
+    "d": "-meter",
+    "correct": "a",
+    "explanation": "-gram refers to the record of data."
+  },
+  {
+    "the qustion": "Which suffix indicates 'instrument for recording'?",
+    "a": "-scope",
+    "b": "-graph",
+    "c": "-gram",
+    "d": "-meter",
+    "correct": "b",
+    "explanation": "-graph is the instrument that records."
+  },
+  {
+    "the qustion": "Which suffix indicates 'process of recording'?",
+    "a": "-gram",
+    "b": "-graphy",
+    "c": "-graph",
+    "d": "-scope",
+    "correct": "b",
+    "explanation": "-graphy denotes the process of recording."
+  },
+  {
+    "the qustion": "Which suffix indicates 'instrument for examining'?",
+    "a": "-scope",
+    "b": "-meter",
+    "c": "-gram",
+    "d": "-logy",
+    "correct": "a",
+    "explanation": "-scope is used to look inside structures."
+  },
+  {
+    "the qustion": "Which suffix indicates 'instrument for measuring'?",
+    "a": "-scope",
+    "b": "-meter",
+    "c": "-graph",
+    "d": "-emia",
+    "correct": "b",
+    "explanation": "-meter measures physical quantities."
+  },
+  {
+    "the qustion": "The root 'nephr' comes from the Greek word meaning:",
+    "a": "liver",
+    "b": "kidney",
+    "c": "skin",
+    "d": "mouth",
+    "correct": "b",
+    "explanation": "Nephr- denotes the kidney."
+  },
+  {
+    "the qustion": "The root 'derm' refers to:",
+    "a": "kidney",
+    "b": "skin",
+    "c": "blood",
+    "d": "heart",
+    "correct": "b",
+    "explanation": "Derm- denotes skin."
+  },
+  {
+    "the qustion": "The root 'ren' comes from a Latin word for:",
+    "a": "liver",
+    "b": "kidney",
+    "c": "heart",
+    "d": "lung",
+    "correct": "b",
+    "explanation": "Ren- also refers to kidney."
+  },
+  {
+    "the qustion": "The root 'or' refers to the:",
+    "a": "heart",
+    "b": "mouth",
+    "c": "bone",
+    "d": "skin",
+    "correct": "b",
+    "explanation": "Or- denotes mouth."
+  },
+  {
+    "the qustion": "Which word is NOT built from a combining form + suffix?",
+    "a": "dermatitis",
+    "b": "hyperglycemia",
+    "c": "cardiomegaly",
+    "d": "nephropexy",
+    "correct": "d",
+    "explanation": "Nephropexy uses a root + suffix not covered in this file."
+  },
+  {
+    "the qustion": "The term 'hyperglycemia' describes:",
+    "a": "high blood sugar",
+    "b": "low blood sugar",
+    "c": "sugar in the urine",
+    "d": "normal blood sugar",
+    "correct": "a",
+    "explanation": "Hyper- (high) + glyc- (sugar) + -emia (blood condition)."
+  },
+  {
+    "the qustion": "The term 'hypoglycemia' describes:",
+    "a": "high blood sugar",
+    "b": "low blood sugar",
+    "c": "sugar in the urine",
+    "d": "normal blood sugar",
+    "correct": "b",
+    "explanation": "Hypo- means low."
+  },
+  {
+    "the qustion": "A glucometer is used to measure:",
+    "a": "blood glucose",
+    "b": "blood pressure",
+    "c": "heart rate",
+    "d": "lung capacity",
+    "correct": "a",
+    "explanation": "Glucometer monitors blood sugar levels."
+  },
+  {
+    "the qustion": "The abbreviation GDM stands for:",
+    "a": "General diabetes mellitus",
+    "b": "Gestational diabetes mellitus",
+    "c": "Glycosylated diabetes measure",
+    "d": "Glucose disorder management",
+    "correct": "b",
+    "explanation": "GDM is gestational diabetes in pregnancy."
+  },
+  {
+    "the qustion": "The abbreviation HbA1c stands for:",
+    "a": "Hemoglobin A1c",
+    "b": "Blood glucose test",
+    "c": "Insulin measure",
+    "d": "Kidney function test",
+    "correct": "a",
+    "explanation": "HbA1c measures glycosylated hemoglobin."
+  },
+  {
+    "the qustion": "The abbreviation IFG means:",
+    "a": "Impaired fasting glucose",
+    "b": "Increased fasting glucose",
+    "c": "Intermittent glucose fluctuation",
+    "d": "Instant fasting glucose",
+    "correct": "a",
+    "explanation": "IFG is a prediabetic state of elevated fasting sugar."
+  },
+  {
+    "the qustion": "The abbreviation IGT means:",
+    "a": "Impaired glucose tolerance",
+    "b": "Immediate glucose test",
+    "c": "Increased glucose transfer",
+    "d": "Internal glucose tracking",
+    "correct": "a",
+    "explanation": "IGT is a prediabetic state on oral glucose tests."
+  },
+  {
+    "the qustion": "The abbreviation DKA stands for:",
+    "a": "Diabetic ketoacidosis",
+    "b": "Diabetes kidney association",
+    "c": "Daily ketone assessment",
+    "d": "Dual ketone analysis",
+    "correct": "a",
+    "explanation": "DKA is a serious complication of diabetes."
+  },
+  {
+    "the qustion": "Diabetic neuropathy refers to dysfunction of:",
+    "a": "kidneys",
+    "b": "nerves",
+    "c": "eyes",
+    "d": "heart",
+    "correct": "b",
+    "explanation": "Neuropathy affects peripheral nerves."
+  },
+  {
+    "the qustion": "Diabetic retinopathy refers to damage to the:",
+    "a": "retina",
+    "b": "kidneys",
+    "c": "liver",
+    "d": "pancreas",
+    "correct": "a",
+    "explanation": "Retinopathy affects the eye’s retina."
+  },
+  {
+    "the qustion": "Diabetic nephropathy refers to disease of the:",
+    "a": "eyes",
+    "b": "nerves",
+    "c": "kidneys",
+    "d": "heart",
+    "correct": "c",
+    "explanation": "Nephropathy affects renal function."
+  },
+  {
+    "the qustion": "Prediabetes is indicated by impaired:",
+    "a": "fasting glucose or glucose tolerance",
+    "b": "renal function",
+    "c": "cardiac output",
+    "d": "lung capacity",
+    "correct": "a",
+    "explanation": "Prediabetes includes IFG and/or IGT."
+  },
+  {
+    "the qustion": "Glycosuria refers to:",
+    "a": "sugar in the urine",
+    "b": "blood in the urine",
+    "c": "protein in the urine",
+    "d": "no urine output",
+    "correct": "a",
+    "explanation": "Glycosuria is sugar excretion."
+  },
+  {
+    "the qustion": "Gingivitis refers to inflammation of the:",
+    "a": "gums",
+    "b": "liver",
+    "c": "lungs",
+    "d": "skin",
+    "correct": "a",
+    "explanation": "-itis (inflammation) + gingiv- (gums)."
+  },
+  {
+    "the qustion": "Insulin resistance means:",
+    "a": "decreased response to insulin",
+    "b": "excessive insulin production",
+    "c": "complete lack of insulin",
+    "d": "normal insulin function",
+    "correct": "a",
+    "explanation": "Resistance is reduced cellular response."
+  },
+  {
+    "the qustion": "Ketoacidosis describes:",
+    "a": "metabolic acidosis with ketones",
+    "b": "low ketones",
+    "c": "high bicarbonate",
+    "d": "respiratory alkalosis",
+    "correct": "a",
+    "explanation": "Excess ketones cause acidosis."
+  },
+  {
+    "the qustion": "Hyperemia refers to an increase in:",
+    "a": "blood flow",
+    "b": "inflammation",
+    "c": "swelling",
+    "d": "infection",
+    "correct": "a",
+    "explanation": "Hyper- (excessive) + -emia (blood condition)."
+  },
+  {
+    "the qustion": "Which root means 'heat'?",
+    "a": "therm",
+    "b": "glyc",
+    "c": "neur",
+    "d": "oste",
+    "correct": "a",
+    "explanation": "Therm- relates to heat."
+  },
+  {
+    "the qustion": "Which root means 'muscle'?",
+    "a": "gastr",
+    "b": "hepat",
+    "c": "muscul",
+    "d": "cardi",
+    "correct": "c",
+    "explanation": "Muscul- denotes muscle."
+  },
+  {
+    "the qustion": "The prefix 'anti-' indicates:",
+    "a": "against",
+    "b": "before",
+    "c": "within",
+    "d": "many",
+    "correct": "a",
+    "explanation": "Anti- means against or opposing."
+  },
+  {
+    "the qustion": "The prefix 'a-' indicates absence of:",
+    "a": "lack or without",
+    "b": "many",
+    "c": "within",
+    "d": "pain",
+    "correct": "a",
+    "explanation": "A- or an- means without or not."
+  },
+  {
+    "the qustion": "In 'intramuscular', the suffix '-ar' means:",
+    "a": "relating to",
+    "b": "inflammation",
+    "c": "study of",
+    "d": "condition of",
+    "correct": "a",
+    "explanation": "-ar is an adjective ending meaning relating to."
+  },
+  {
+    "the qustion": "In 'gastric', the suffix '-ic' means:",
+    "a": "relating to",
+    "b": "inflammation",
+    "c": "study of",
+    "d": "blood condition",
+    "correct": "a",
+    "explanation": "-ic is an adjective ending meaning pertaining to."
+  },
+  {
+    "the qustion": "The combining vowel is most often:",
+    "a": "a",
+    "b": "e",
+    "c": "i",
+    "d": "o",
+    "correct": "d",
+    "explanation": "O is the primary combining vowel."
+  },
+  {
+    "the qustion": "Combining vowels can include:",
+    "a": "only 'o'",
+    "b": "'o', 'i', or 'e'",
+    "c": "'a' or 'u'",
+    "d": "'y' only",
+    "correct": "b",
+    "explanation": "Common vowels are o, and sometimes i or e."
+  },
+  {
+    "the qustion": "The suffix '-scope' originates from Greek meaning:",
+    "a": "to record",
+    "b": "to examine",
+    "c": "to measure",
+    "d": "to cut",
+    "correct": "b",
+    "explanation": "From 'skopein', meaning to look or examine."
+  },
+  {
+    "the qustion": "The suffix '-graph' originates from Greek meaning:",
+    "a": "to record",
+    "b": "to examine",
+    "c": "to cut",
+    "d": "to hear",
+    "correct": "a",
+    "explanation": "From 'graphein', meaning to write or record."
+  },
+  {
+    "the qustion": "The suffix '-genic' indicates:",
+    "a": "disease",
+    "b": "tumor",
+    "c": "origin or producing",
+    "d": "enlargement",
+    "correct": "c",
+    "explanation": "-genic means produced by or produced in."
+  },
+  {
+    "the qustion": "The suffix '-spasm' indicates:",
+    "a": "muscle contraction",
+    "b": "inflammation",
+    "c": "discharge",
+    "d": "study of",
+    "correct": "a",
+    "explanation": "-spasm means involuntary muscle contraction."
+  },
+  {
+    "the qustion": "The suffix '-pnea' indicates:",
+    "a": "inflammation",
+    "b": "breathing",
+    "c": "swelling",
+    "d": "tumor",
+    "correct": "b",
+    "explanation": "-pnea pertains to breathing."
+  },
+  {
+    "the qustion": "The suffix '-rrhage' indicates:",
+    "a": "bleeding",
+    "b": "pain",
+    "c": "inflammation",
+    "d": "narrowing",
+    "correct": "a",
+    "explanation": "-rrhage/-rrhagia means excessive discharge, typically bleeding."
+  },
+  {
+    "the qustion": "The suffix '-emia' indicates:",
+    "a": "blood condition",
+    "b": "inflammation",
+    "c": "tumor",
+    "d": "disease",
+    "correct": "a",
+    "explanation": "-emia refers specifically to a condition of the blood."
+  },
+  {
+    "the qustion": "The prefix 'neo-' means:",
+    "a": "new",
+    "b": "old",
+    "c": "large",
+    "d": "small",
+    "correct": "a",
+    "explanation": "Neo- means new or recent."
+  },
+  {
+    "the qustion": "The prefix 'retro-' means:",
+    "a": "forward",
+    "b": "backward",
+    "c": "again",
+    "d": "new",
+    "correct": "b",
+    "explanation": "Retro- denotes backward or behind."
+  },
+  {
+    "the qustion": "The prefix 'ante-' means:",
+    "a": "before",
+    "b": "after",
+    "c": "again",
+    "d": "within",
+    "correct": "a",
+    "explanation": "Ante- means before in time or position."
+  },
+  {
+    "the qustion": "The prefix 'chrono-' means:",
+    "a": "time",
+    "b": "space",
+    "c": "heart",
+    "d": "blood",
+    "correct": "a",
+    "explanation": "Chrono- relates to time."
+  },
+  {
+    "the qustion": "The prefix 'post-' means:",
+    "a": "before",
+    "b": "after",
+    "c": "again",
+    "d": "within",
+    "correct": "b",
+    "explanation": "Post- means after."
+  }
+]
