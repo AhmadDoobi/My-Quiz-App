@@ -1,22 +1,23 @@
 // quiz.js
 // UI elements
-const home         = document.getElementById('home');
-const selector     = document.getElementById('selector');
-const quizPage     = document.getElementById('quiz');
-const chapterList  = document.getElementById('chapter-list');
-const startBtn     = document.getElementById('start-quiz');
-const form         = document.getElementById('quiz-form');
-const nextBtn      = document.getElementById('next-btn');
-const restartBtn   = document.getElementById('restart-btn');
-const showWrongs   = document.getElementById('show-wrongs');
-const progress     = document.getElementById('progress');
-const selectorTitle= document.getElementById('selector-title');
+const home               = document.getElementById('home');
+const selector           = document.getElementById('selector');
+const quizPage           = document.getElementById('quiz');
+const chapterList        = document.getElementById('chapter-list');
+const startBtn           = document.getElementById('start-quiz');
+const form               = document.getElementById('quiz-form');
+const nextBtn            = document.getElementById('next-btn');
+const restartBtn         = document.getElementById('restart-btn');
+const showWrongs         = document.getElementById('show-wrongs');
+const progress           = document.getElementById('progress');
+const selectorTitle      = document.getElementById('selector-title');
 
-let allChapters   = [];   // from chapters.json
-let selectedFiles = [];   // files picked by user
-let quizData      = [];   // current batch of questions
-let wrongQs       = [];   // questions answered incorrectly
-let current       = 0;    // index of current question
+let allChapters         = [];   // from chapters.json
+let selectedFiles       = [];   // files picked by user
+let currentChapterTitle = '';   // for single-chapter display
+let quizData            = [];   // current batch of questions
+let wrongQs             = [];   // questions answered incorrectly
+let current             = 0;    // index of current question
 
 // Load chapters.json on startup
 fetch('chapters.json')
@@ -46,6 +47,15 @@ function enterSelector(multi) {
   selectorTitle.textContent = multi
     ? 'Choose Chapters (multiple)'
     : 'Choose One Chapter';
+
+  // Hide start button for single-chapter, show for multi
+  if (!multi) {
+    startBtn.classList.add('hidden');
+  } else {
+    startBtn.classList.remove('hidden');
+    currentChapterTitle = '';
+  }
+
   chapterList.innerHTML = '';
   allChapters.forEach(ch => {
     const lbl = document.createElement('label');
@@ -57,26 +67,42 @@ function enterSelector(multi) {
     lbl.append(` ${ch.title}`);
     chapterList.appendChild(lbl);
   });
-  startBtn.disabled = true;
 
-  chapterList.onchange = () => {
-    const chosen = Array.from(
-      chapterList.querySelectorAll('input:checked')
-    ).map(i => i.value);
-    if ((!multi && chosen.length === 1) || (multi && chosen.length >= 1)) {
-      selectedFiles = chosen;
-      startBtn.disabled = false;
-    } else {
-      startBtn.disabled = true;
-    }
-  };
-
-  startBtn.onclick = () => loadQuiz(selectedFiles);
+  if (!multi) {
+    // single-chapter: start immediately on selection
+    chapterList.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('change', () => {
+        if (inp.checked) {
+          selectedFiles = [inp.value];
+          // capture the chapter title
+          const chap = allChapters.find(c => c.file === inp.value);
+          currentChapterTitle = chap ? chap.title : '';
+          loadQuiz(selectedFiles);
+        }
+      });
+    });
+  } else {
+    // multi-chapter: enable Start button once at least one is checked
+    startBtn.disabled = true;
+    chapterList.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('change', () => {
+        const chosen = Array.from(
+          chapterList.querySelectorAll('input:checked')
+        ).map(i => i.value);
+        if (chosen.length >= 1) {
+          selectedFiles = chosen;
+          startBtn.disabled = false;
+        } else {
+          startBtn.disabled = true;
+        }
+      });
+    });
+    startBtn.onclick = () => loadQuiz(selectedFiles);
+  }
 }
 
 // LOAD + NORMALIZE + SELECT QUESTIONS
 async function loadQuiz(files) {
-  // fetch & normalize each chapter into its own list
   const chapterPools = await Promise.all(files.map(async f => {
     const data = await fetch(f).then(r => r.json());
     return data.map(item => ({
@@ -93,18 +119,18 @@ async function loadQuiz(files) {
     const pool = shuffle(chapterPools[0]);
     quizData = pool.slice(0, 30);
   } else {
-    // multiple chapters → 60 questions equally divided
+    // multiple chapters → 60 equally divided
     const total = 60;
     const perChap = Math.floor(total / files.length);
     chapterPools.forEach(pool => {
-      const sel = shuffle(pool).slice(0, perChap);
-      quizData = quizData.concat(sel);
+      quizData = quizData.concat(shuffle(pool).slice(0, perChap));
     });
-    // if any remainder (due to non-divisible), fill from first pool
-    const remainder = total - quizData.length;
-    if (remainder > 0) {
-      const extra = shuffle(chapterPools[0]).slice(perChap, perChap + remainder);
-      quizData = quizData.concat(extra);
+    // handle remainder
+    const rem = total - quizData.length;
+    if (rem > 0) {
+      quizData = quizData.concat(
+        shuffle(chapterPools[0]).slice(perChap, perChap + rem)
+      );
     }
     quizData = shuffle(quizData);
   }
@@ -119,7 +145,13 @@ async function loadQuiz(files) {
 function renderQuestion() {
   form.innerHTML = '';
   nextBtn.disabled = true;
-  progress.textContent = `${current + 1} / ${quizData.length}`;
+
+  // show chapter title only in single-chapter mode
+  if (selectedFiles.length === 1 && currentChapterTitle) {
+    progress.textContent = `${currentChapterTitle} — ${current + 1} / ${quizData.length}`;
+  } else {
+    progress.textContent = `${current + 1} / ${quizData.length}`;
+  }
 
   const q  = quizData[current];
   const fs = document.createElement('fieldset');
@@ -127,20 +159,19 @@ function renderQuestion() {
   lg.textContent = q.question;
   fs.appendChild(lg);
 
-  // Build options differently for True/False vs. multiple-choice
   let options;
   const texts = q.allTexts.map(txt => txt.trim());
   if (texts[0] && texts[1] && !texts[2] && !texts[3]) {
     // True/False
     options = [
-      { letter:'a', text:texts[0], isCorrect:texts[0]===q.correctText },
-      { letter:'b', text:texts[1], isCorrect:texts[1]===q.correctText }
+      { letter:'a', text:texts[0], isCorrect:texts[0] === q.correctText },
+      { letter:'b', text:texts[1], isCorrect:texts[1] === q.correctText }
     ];
   } else {
-    // Multiple-choice: shuffle texts but keep letters in order
-    const shuffledTexts = shuffle([...q.allTexts]);
+    // Multiple-choice: shuffle but keep letter order
+    const shuffled = shuffle([...q.allTexts]);
     const letters = ['a','b','c','d'];
-    options = shuffledTexts.map((txt,i) => ({
+    options = shuffled.map((txt, i) => ({
       letter:    letters[i],
       text:      txt,
       isCorrect: txt === q.correctText
@@ -183,19 +214,15 @@ function renderQuestion() {
 // CONTROLS
 nextBtn.onclick = () => {
   current++;
-  if (current < quizData.length) {
-    renderQuestion();
-  } else {
-    alert(`Quiz finished! You missed ${wrongQs.length} question(s).`);
-  }
+  if (current < quizData.length) renderQuestion();
+  else alert(`Quiz finished! You missed ${wrongQs.length} question(s).`);
 };
 restartBtn.onclick = () => loadQuiz(selectedFiles);
 showWrongs.onclick = () => {
-  if (wrongQs.length === 0) {
-    alert("You didn't miss any questions!");
-  } else {
+  if (!wrongQs.length) alert("You didn't miss any questions!");
+  else {
     alert(
-      'Questions you got wrong:\n\n' +
+      'You got these wrong:\n\n' +
       wrongQs.map((w,i) => `${i+1}. ${w.question}`).join('\n\n')
     );
   }
