@@ -2,5 +2,6 @@
   { "title": "Nutrition Essentials",       "file": "NutritionEssentials.json" },
   { "title": "Dyslipidemia Basics",     "file": "DyslipidemiaBasics.json" },
   { "title": "Hypertension Essentials", "file": "HypertensionEssentials.json" },
-  { "title": "Medical Terminology Fundamentals", "file": "MedicalTerminologyFundamentals.json" }
+  { "title": "Medical Terminology Fundamentals", "file": "MedicalTerminologyFundamentals.json" },
+  {"title": "Diabetes Mellitus — Core Diagnosis & Management", "file": "DiabetesMellitusDiagnosis&Management.json"}
 ]

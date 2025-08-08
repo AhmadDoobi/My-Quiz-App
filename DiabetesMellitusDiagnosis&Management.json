@@ -1,0 +1,858 @@
+[
+  {
+    "the qustion": "An A1C value ≥ 6.5% is diagnostic of diabetes mellitus.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Diagnostic criteria include A1C ≥ 6.5%.  [oai_citation:0‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A random plasma glucose ≥ 200 mg/dL with classic symptoms is sufficient to diagnose diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Random plasma glucose ≥200 mg/dL plus classic symptoms is diagnostic.  [oai_citation:1‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Fasting for the FPG test is defined as no caloric intake for at least 6 hours.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Fasting is at least 8 hours without caloric intake, not 6.  [oai_citation:2‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "In the absence of symptomatic hyperglycemia, a positive diabetes test should be confirmed by repeating the same test on another day.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Confirmation on a subsequent day is recommended if asymptomatic.  [oai_citation:3‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Prediabetes includes A1C values from 5.7% to 6.4%.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "A1C 5.7–6.4% is listed under prediabetes.  [oai_citation:4‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Impaired fasting glucose (IFG) is defined by FPG 110–125 mg/dL.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "IFG range given is 100–125 mg/dL.  [oai_citation:5‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Impaired glucose tolerance (IGT) corresponds to a 2-hour OGTT value of 140–199 mg/dL with a 75-g load.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "2-h OGTT 140–199 mg/dL defines IGT.  [oai_citation:6‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "For people with prediabetes, the recommended initial weight-loss target is 7–10% of body weight.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Action for prediabetes: weight loss 7–10%.  [oai_citation:7‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "For prediabetes, at least 150 minutes per week of physical activity is recommended.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "≥150 min/week is specified.  [oai_citation:8‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Metformin therapy should be considered for prediabetes particularly when BMI > 35 kg/m², age < 60 years, or in women with prior GDM.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These are the listed situations to consider metformin.  [oai_citation:9‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Annual monitoring for progression to diabetes is recommended for people with prediabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "At least annual monitoring is advised.  [oai_citation:10‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "In prediabetes, screening and treatment of modifiable cardiovascular risk factors should be done annually.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Annual CVD risk factor screening/treatment is recommended.  [oai_citation:11‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "The general A1C goal for most adults with diabetes is around or below 7%.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Lowering A1C to below or around 7% is advised.  [oai_citation:12‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A more stringent A1C target such as <6.5% may be suitable for patients with short diabetes duration, long life expectancy, and no significant CVD.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Those features support a lower A1C goal.  [oai_citation:13‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A higher A1C target such as about 8% may be appropriate in patients with history of severe hypoglycemia or limited life expectancy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Higher targets may be appropriate in such scenarios.  [oai_citation:14‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "HbA1c should be measured four times per year once glycemic control is achieved.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Four times/year until control reached, then twice/year.  [oai_citation:15‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "For most patients, the pre-meal glucose target is 80–130 mg/dL.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Premeal target 80–130 mg/dL.  [oai_citation:16‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "The recommended 2-hour postprandial glucose target is < 180 mg/dL.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Postprandial <180 mg/dL at 120 min.  [oai_citation:17‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Most patients are symptomatic at the time of diabetes diagnosis.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "The slide notes the majority are asymptomatic.  [oai_citation:18‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Unintentional weight loss is a typical feature of type 1 diabetes at presentation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Weight loss is mentioned with type 1.  [oai_citation:19‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Tingling or numbness in the hands/feet is more often noted in type 2 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Neuropathic symptoms listed with type 2.  [oai_citation:20‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Gestational diabetes is diabetes diagnosed in the first trimester of pregnancy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "GDM is defined as diagnosed in the 2nd or 3rd trimester.  [oai_citation:21‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Maturity-onset diabetes of the young (MODY) is an example of monogenic diabetes listed under specific types.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Monogenic diabetes (e.g., MODY) is a specific type.  [oai_citation:22‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Diseases of the exocrine pancreas, such as cystic fibrosis, are included among specific types of diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Exocrine pancreas diseases are listed.  [oai_citation:23‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Glucocorticoid use is associated with drug-induced diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Drug- or chemical-induced diabetes (e.g., glucocorticoids).  [oai_citation:24‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Smoking cessation is part of cardiovascular risk reduction in diabetes care.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Smoking cessation appears under CV risk reduction.  [oai_citation:25‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Aspirin therapy is not included in cardiovascular risk reduction measures for diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Aspirin therapy is listed as part of CV risk reduction.  [oai_citation:26‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Complications assessment in diabetes includes kidney disease, retinopathy, neuropathy, and foot care.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These areas are explicitly listed for assessment.  [oai_citation:27‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "For 2-hour postprandial monitoring, the timing is 60 minutes after the meal.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Target refers to 120 minutes after a meal.  [oai_citation:28‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Dietary strategies for prediabetes emphasize reduced calories and reduced dietary fat.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Reduced calories and dietary fat are recommended.  [oai_citation:29‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+
+  {
+    "the qustion": "Which of the following A1C values meets the diagnostic threshold for diabetes?",
+    "a": "6.3%",
+    "b": "6.5%",
+    "c": "6.0%",
+    "d": "5.7%",
+    "correct": "b",
+    "explanation": "A1C ≥ 6.5% is diagnostic.  [oai_citation:30‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A fasting plasma glucose (FPG) consistent with diabetes is:",
+    "a": "≥ 126 mg/dL after ≥8 hours fasting",
+    "b": "≥ 110 mg/dL after ≥6 hours fasting",
+    "c": "≥ 140 mg/dL after ≥4 hours fasting",
+    "d": "≥ 100 mg/dL after ≥8 hours fasting",
+    "correct": "a",
+    "explanation": "FPG ≥126 mg/dL with at least 8 hours fasting.  [oai_citation:31‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which 2-hour OGTT value (75-g load) is diagnostic for diabetes?",
+    "a": "≥ 140 mg/dL",
+    "b": "≥ 160 mg/dL",
+    "c": "≥ 180 mg/dL",
+    "d": "≥ 200 mg/dL",
+    "correct": "d",
+    "explanation": "2-h OGTT ≥200 mg/dL is diagnostic.  [oai_citation:32‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A patient with classic symptoms has a random plasma glucose of 210 mg/dL. What is the diagnosis?",
+    "a": "Normal",
+    "b": "Prediabetes",
+    "c": "Diabetes",
+    "d": "Requires OGTT only",
+    "correct": "c",
+    "explanation": "Random ≥200 mg/dL with symptoms is diagnostic of diabetes.  [oai_citation:33‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which best describes the next step for an asymptomatic patient with A1C 6.6%?",
+    "a": "Diagnose diabetes immediately without repeat testing",
+    "b": "Repeat the same test on a subsequent day for confirmation",
+    "c": "Perform only a random glucose test",
+    "d": "Wait 6 months and recheck",
+    "correct": "b",
+    "explanation": "Confirm on another day by repeating the same test if asymptomatic.  [oai_citation:34‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which fasting glucose range defines impaired fasting glucose (IFG)?",
+    "a": "80–99 mg/dL",
+    "b": "100–125 mg/dL",
+    "c": "126–139 mg/dL",
+    "d": "140–199 mg/dL",
+    "correct": "b",
+    "explanation": "IFG is FPG 100–125 mg/dL.  [oai_citation:35‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Impaired glucose tolerance (IGT) is defined by a 2-hour OGTT of:",
+    "a": "100–125 mg/dL",
+    "b": "126–139 mg/dL",
+    "c": "140–199 mg/dL",
+    "d": "≥ 200 mg/dL",
+    "correct": "c",
+    "explanation": "IGT: 2-h OGTT 140–199 mg/dL.  [oai_citation:36‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which A1C range is classified as prediabetes?",
+    "a": "5.0–5.6%",
+    "b": "5.7–6.4%",
+    "c": "6.5–6.9%",
+    "d": "4.5–5.4%",
+    "correct": "b",
+    "explanation": "A1C 5.7–6.4% indicates prediabetes.  [oai_citation:37‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is NOT an action recommended for prediabetes?",
+    "a": "Weight loss 7–10% of body weight",
+    "b": "At least 150 minutes/week of physical activity",
+    "c": "Increased dietary fat to raise HDL",
+    "d": "Reduced calories and reduced dietary fat",
+    "correct": "c",
+    "explanation": "Dietary advice is reduced calories and reduced fat, not increasing fat.  [oai_citation:38‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "In which situation is metformin especially considered for prediabetes?",
+    "a": "BMI 24 kg/m² and age 30 years",
+    "b": "BMI >35 kg/m²",
+    "c": "Age > 70 years",
+    "d": "Hypertriglyceridemia only",
+    "correct": "b",
+    "explanation": "Consider metformin when BMI >35 (also age <60 or prior GDM).  [oai_citation:39‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "The general A1C goal for most non-pregnant adults with diabetes is:",
+    "a": "< 6.0%",
+    "b": "Around or below 7%",
+    "c": "< 8.5%",
+    "d": "No specific target",
+    "correct": "b",
+    "explanation": "Lowering A1C to below/around 7% is advised.  [oai_citation:40‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A more stringent A1C goal (e.g., <6.5%) is most appropriate for which patient?",
+    "a": "Long-standing diabetes with multiple complications",
+    "b": "Short diabetes duration, long life expectancy, no significant CVD",
+    "c": "History of recurrent severe hypoglycemia",
+    "d": "Limited life expectancy",
+    "correct": "b",
+    "explanation": "These are the conditions supporting <6.5%.  [oai_citation:41‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "A higher A1C goal (around 8%) may be reasonable for a patient with:",
+    "a": "No comorbidities and newly diagnosed diabetes",
+    "b": "History of severe hypoglycemia",
+    "c": "No prior hypoglycemia and young age",
+    "d": "No complications and long life expectancy",
+    "correct": "b",
+    "explanation": "History of severe hypoglycemia warrants looser A1C goals.  [oai_citation:42‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "How often should HbA1c be checked before glycemic control is achieved?",
+    "a": "Once yearly",
+    "b": "Twice yearly",
+    "c": "Four times yearly",
+    "d": "Only if symptomatic",
+    "correct": "c",
+    "explanation": "Four times/year until control reached; then twice/year.  [oai_citation:43‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "The recommended pre-meal glucose target for most patients is:",
+    "a": "70–99 mg/dL",
+    "b": "80–130 mg/dL",
+    "c": "100–140 mg/dL",
+    "d": "140–180 mg/dL",
+    "correct": "b",
+    "explanation": "Premeal 80–130 mg/dL.  [oai_citation:44‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "The recommended 2-hour postprandial glucose target is:",
+    "a": "< 140 mg/dL",
+    "b": "< 160 mg/dL",
+    "c": "< 180 mg/dL",
+    "d": "< 200 mg/dL",
+    "correct": "c",
+    "explanation": "Postprandial <180 mg/dL at 120 minutes.  [oai_citation:45‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a common symptom listed for diabetes?",
+    "a": "Persistent cough",
+    "b": "Frequent urination",
+    "c": "Hair loss",
+    "d": "Photosensitivity",
+    "correct": "b",
+    "explanation": "Polyuria is a classic symptom.  [oai_citation:46‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which presentation is more often associated with type 1 diabetes?",
+    "a": "Weight loss at diagnosis",
+    "b": "Obesity and acanthosis nigricans",
+    "c": "Peripheral edema",
+    "d": "Rash on extensor surfaces",
+    "correct": "a",
+    "explanation": "Weight loss is mentioned with type 1.  [oai_citation:47‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following patients most closely matches the slide’s definition of GDM?",
+    "a": "Hyperglycemia detected in first trimester",
+    "b": "Diabetes diagnosed in the second or third trimester",
+    "c": "Any hyperglycemia during labor only",
+    "d": "Prediabetes identified before pregnancy",
+    "correct": "b",
+    "explanation": "GDM is diabetes diagnosed in 2nd or 3rd trimester.  [oai_citation:48‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is listed under specific types of diabetes?",
+    "a": "Neurogenic diabetes",
+    "b": "Monogenic diabetes (e.g., MODY)",
+    "c": "Autoimmune thyroiditis",
+    "d": "Adrenal crisis",
+    "correct": "b",
+    "explanation": "Monogenic diabetes is included under specific types.  [oai_citation:49‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which condition is cited as an exocrine pancreatic disease associated with diabetes?",
+    "a": "Celiac disease",
+    "b": "Cystic fibrosis",
+    "c": "Ulcerative colitis",
+    "d": "Graves’ disease",
+    "correct": "b",
+    "explanation": "Cystic fibrosis is listed under exocrine pancreas disease.  [oai_citation:50‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which medication class is named as a cause of drug-induced diabetes?",
+    "a": "Beta-blockers",
+    "b": "Glucocorticoids",
+    "c": "ACE inhibitors",
+    "d": "Calcium channel blockers",
+    "correct": "b",
+    "explanation": "Glucocorticoid use is cited.  [oai_citation:51‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is NOT part of the cardiovascular risk reduction list?",
+    "a": "Smoking cessation",
+    "b": "Hypertension treatment",
+    "c": "Dyslipidemia treatment",
+    "d": "Prolonged bed rest",
+    "correct": "d",
+    "explanation": "Smoking cessation, HTN and lipid management, aspirin, and exercise are listed.  [oai_citation:52‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which exercise target aligns with the recommendations mentioned?",
+    "a": "90 minutes/week moderate activity",
+    "b": "At least 150 minutes/week",
+    "c": "60 minutes/week vigorous activity only",
+    "d": "Daily high-intensity intervals only",
+    "correct": "b",
+    "explanation": "≥150 min/week is recommended.  [oai_citation:53‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which complication is specifically listed for assessment in diabetes care?",
+    "a": "Asthma",
+    "b": "Diabetic kidney disease",
+    "c": "Gallstones",
+    "d": "Migraine",
+    "correct": "b",
+    "explanation": "Kidney disease is named among complications to assess.  [oai_citation:54‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following clusters represents microvascular complications highlighted in the slides?",
+    "a": "Retinopathy, nephropathy, neuropathy",
+    "b": "Stroke, PAD, CAD",
+    "c": "COPD, asthma, pneumonia",
+    "d": "Dermatitis, psoriasis, eczema",
+    "correct": "a",
+    "explanation": "Retinopathy, kidney disease, neuropathy are listed.  [oai_citation:55‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which statement about symptoms is MOST accurate per the slides?",
+    "a": "Most patients present with ketoacidosis",
+    "b": "Most are asymptomatic at presentation",
+    "c": "Most present with severe weight gain",
+    "d": "Most present with hypoglycemia",
+    "correct": "b",
+    "explanation": "Majority asymptomatic is explicitly stated.  [oai_citation:56‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a classic hyperglycemia symptom mentioned?",
+    "a": "Polydipsia",
+    "b": "Hearing loss",
+    "c": "Photosensitivity",
+    "d": "Hives",
+    "correct": "a",
+    "explanation": "Thirst is included among classic symptoms.  [oai_citation:57‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which sign suggests chronic hyperglycemia per the slide list?",
+    "a": "Cyanosis",
+    "b": "Slow-healing cuts/bruises",
+    "c": "Clubbing",
+    "d": "Scleral icterus",
+    "correct": "b",
+    "explanation": "Slow healing is listed as a symptom/sign.  [oai_citation:58‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following BEST fits the prediabetes action plan?",
+    "a": "No lifestyle changes; metformin for all",
+    "b": "7–10% weight loss and ≥150 min/week activity",
+    "c": "Only follow up every 5 years",
+    "d": "Increase dietary fat to maintain weight",
+    "correct": "b",
+    "explanation": "Lifestyle targets are weight loss 7–10% and ≥150 min/week activity.  [oai_citation:59‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is TRUE regarding confirmation of diagnosis?",
+    "a": "Confirm by repeating any different test",
+    "b": "Confirm by repeating the same test on a later day if no symptoms",
+    "c": "No confirmation is ever needed",
+    "d": "Only random glucose can confirm",
+    "correct": "b",
+    "explanation": "Repeat the same test if asymptomatic.  [oai_citation:60‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which combination is correct for glucose targets?",
+    "a": "Premeal 100–160 mg/dL; 2-h PP < 200 mg/dL",
+    "b": "Premeal 80–130 mg/dL; 2-h PP < 180 mg/dL",
+    "c": "Premeal 70–99 mg/dL; 2-h PP < 140 mg/dL",
+    "d": "Premeal 90–150 mg/dL; 2-h PP < 160 mg/dL",
+    "correct": "b",
+    "explanation": "Targets are 80–130 (premeal) and <180 at 2 hours.  [oai_citation:61‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of these lifestyle components is explicitly listed under cardiovascular risk reduction?",
+    "a": "High-protein diet",
+    "b": "Smoking cessation",
+    "c": "Daily fasting",
+    "d": "Vitamin supplementation only",
+    "correct": "b",
+    "explanation": "Smoking cessation is cited.  [oai_citation:62‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "For a patient with long-standing diabetes and extensive comorbidities, an appropriate A1C goal may be:",
+    "a": "< 6.0%",
+    "b": "< 6.5%",
+    "c": "Around 8%",
+    "d": "No monitoring needed",
+    "correct": "c",
+    "explanation": "Higher goals (~8%) may be appropriate in such scenarios.  [oai_citation:63‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding postprandial glucose assessment in the slides?",
+    "a": "Measured 30 minutes after a meal; target <140 mg/dL",
+    "b": "Measured 60 minutes after a meal; target <160 mg/dL",
+    "c": "Measured 120 minutes after a meal; target <180 mg/dL",
+    "d": "Timing not specified",
+    "correct": "c",
+    "explanation": "2-hour timing with target <180 mg/dL.  [oai_citation:64‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a recommended dietary strategy in prediabetes?",
+    "a": "Increase saturated fat",
+    "b": "Reduce calories and dietary fat",
+    "c": "Avoid carbohydrates entirely",
+    "d": "Intermittent water-only fasting only",
+    "correct": "b",
+    "explanation": "Reduced calories and fat are recommended.  [oai_citation:65‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is an example of a neuropathic symptom highlighted on the slides?",
+    "a": "Dysphagia",
+    "b": "Numbness in feet",
+    "c": "Diplopia",
+    "d": "Tinnitus",
+    "correct": "b",
+    "explanation": "Tingling, pain or numbness in hands/feet (type 2).  [oai_citation:66‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of these is a classic hyperglycemia symptom per the list?",
+    "a": "Pruritus only",
+    "b": "Polyphagia (increased hunger)",
+    "c": "Night sweats",
+    "d": "Bradycardia",
+    "correct": "b",
+    "explanation": "Feeling very hungry is listed among common symptoms.  [oai_citation:67‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which screening/monitoring frequency is recommended for prediabetes progression?",
+    "a": "Every 5 years",
+    "b": "At least annually",
+    "c": "Only if symptomatic",
+    "d": "Every month",
+    "correct": "b",
+    "explanation": "At least annual monitoring is recommended.  [oai_citation:68‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following sets contains ONLY diabetes types listed on the slide?",
+    "a": "Type 1, Type 2, GDM, Monogenic",
+    "b": "Type 1, Type 2, LADA, Pituitary diabetes",
+    "c": "Gestational, Central, Nephrogenic",
+    "d": "Type 2, Steroid-resistant, Autoimmune thyroid",
+    "correct": "a",
+    "explanation": "Types listed include T1DM, T2DM, GDM, and specific types such as monogenic.  [oai_citation:69‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding fasting requirements for FPG testing?",
+    "a": "At least 8 hours without caloric intake",
+    "b": "At least 4 hours without fluids",
+    "c": "Only overnight is acceptable",
+    "d": "12 hours mandatory",
+    "correct": "a",
+    "explanation": "Fasting is no caloric intake for ≥8 hours.  [oai_citation:70‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which combination best reflects the slides’ lifestyle targets for prediabetes?",
+    "a": "Weight loss 3–5%; any activity",
+    "b": "Weight loss 7–10%; ≥150 min/week activity",
+    "c": "Weight gain to build muscle; vigorous only",
+    "d": "Maintain weight; no specific activity",
+    "correct": "b",
+    "explanation": "7–10% weight loss and ≥150 min/week activity.  [oai_citation:71‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is NOT listed as a domain to assess for complications?",
+    "a": "Diabetic retinopathy",
+    "b": "Diabetic kidney disease",
+    "c": "Neuropathy",
+    "d": "Chronic obstructive pulmonary disease",
+    "correct": "d",
+    "explanation": "Retina, kidney, neuropathy, and foot care are listed; COPD is not.  [oai_citation:72‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is TRUE about the symptomatic profile at presentation?",
+    "a": "Majority asymptomatic; symptoms include polydipsia/polyuria",
+    "b": "Majority with DKA",
+    "c": "Majority with seizures",
+    "d": "Majority with coma",
+    "correct": "a",
+    "explanation": "Slides note majority asymptomatic; classic symptoms listed.  [oai_citation:73‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which statement about confirmation of diagnosis is FALSE?",
+    "a": "If asymptomatic, repeat the same test another day",
+    "b": "If symptomatic with random ≥200 mg/dL, diagnosis can be made",
+    "c": "If asymptomatic, no confirmation is necessary",
+    "d": "Repetition is for the same test, not necessarily a different one",
+    "correct": "c",
+    "explanation": "Asymptomatic positive requires confirmation by repeating the same test.  [oai_citation:74‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which target pair is most consistent with the slides?",
+    "a": "Premeal 90–150 mg/dL; 2-h PP < 200 mg/dL",
+    "b": "Premeal 80–130 mg/dL; 2-h PP < 180 mg/dL",
+    "c": "Premeal 70–100 mg/dL; 2-h PP < 140 mg/dL",
+    "d": "Premeal 100–140 mg/dL; 2-h PP < 160 mg/dL",
+    "correct": "b",
+    "explanation": "80–130 and <180 at 2 h are given targets.  [oai_citation:75‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is included in cardiovascular risk reduction per the slide?",
+    "a": "Aspirin therapy consideration",
+    "b": "Vitamin C supplementation",
+    "c": "Ketogenic diet for all",
+    "d": "No exercise recommended",
+    "correct": "a",
+    "explanation": "Aspirin and exercise (≥150 min/week) are listed.  [oai_citation:76‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a classic symptom listed for diabetes?",
+    "a": "Extreme fatigue",
+    "b": "Hemoptysis",
+    "c": "Jaundice",
+    "d": "Tinnitus",
+    "correct": "a",
+    "explanation": "Extreme fatigue is included among common symptoms.  [oai_citation:77‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is the BEST description of the OGTT protocol referenced?",
+    "a": "100-g glucose load with 3-hour sampling",
+    "b": "75-g glucose load with 2-hour plasma glucose",
+    "c": "50-g glucose load with 1-hour sampling",
+    "d": "No standard load specified",
+    "correct": "b",
+    "explanation": "A 75-g load with 2-h value is specified.  [oai_citation:78‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which patient scenario warrants considering metformin for prediabetes per the slides?",
+    "a": "Age 65, BMI 24, normal OGTT",
+    "b": "Age 55, BMI 37, prior GDM",
+    "c": "Age 30, BMI 22, athlete",
+    "d": "Age 75, BMI 28, no risk factors",
+    "correct": "b",
+    "explanation": "BMI >35 and prior GDM (also age <60) are listed.  [oai_citation:79‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding the majority of initial presentations per the slides?",
+    "a": "They present with neuropathic pain only",
+    "b": "They are asymptomatic; hence screening is important",
+    "c": "They always present with DKA",
+    "d": "They present with coma",
+    "correct": "b",
+    "explanation": "Majority are asymptomatic at presentation.  [oai_citation:80‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is listed as part of routine assessment in ongoing diabetes care?",
+    "a": "Foot care evaluation",
+    "b": "Carotid ultrasound for all",
+    "c": "MRI brain screening",
+    "d": "Bone density for all",
+    "correct": "a",
+    "explanation": "Foot care is explicitly listed under assessment.  [oai_citation:81‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a listed classic symptom?",
+    "a": "Blurry vision",
+    "b": "Hematochezia",
+    "c": "Diplopia",
+    "d": "Nasal obstruction",
+    "correct": "a",
+    "explanation": "Blurry vision is listed among symptoms.  [oai_citation:82‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which statement best matches the slide’s glycemic goal framework?",
+    "a": "Single universal A1C goal for all",
+    "b": "Individualize; around <7% generally, <6.5% for selected, ~8% for complex cases",
+    "c": "Aim for A1C <5% in everyone",
+    "d": "Targets depend only on age",
+    "correct": "b",
+    "explanation": "Slides emphasize individualized goals.  [oai_citation:83‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which option is TRUE regarding HbA1c monitoring frequency after control is achieved?",
+    "a": "Continue four times per year",
+    "b": "Reduce to twice per year",
+    "c": "Stop monitoring",
+    "d": "Once every five years",
+    "correct": "b",
+    "explanation": "After control: twice/year.  [oai_citation:84‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following best describes the prediabetes definition using FPG and OGTT?",
+    "a": "FPG 100–125 mg/dL and/or 2-h OGTT 140–199 mg/dL",
+    "b": "FPG ≥126 mg/dL or 2-h OGTT ≥200 mg/dL",
+    "c": "FPG <100 mg/dL and 2-h OGTT <140 mg/dL",
+    "d": "Random ≥200 mg/dL with symptoms",
+    "correct": "a",
+    "explanation": "Those are the listed prediabetes thresholds.  [oai_citation:85‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which best completes the set of classic symptoms listed?",
+    "a": "Polyuria, polydipsia, polyphagia, extreme fatigue",
+    "b": "Cough, dyspnea, chest pain",
+    "c": "Rash, pruritus, urticaria",
+    "d": "Anxiety, tremor, palpitations",
+    "correct": "a",
+    "explanation": "These are listed among common symptoms.  [oai_citation:86‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is TRUE for postprandial target per slides?",
+    "a": "1-hour post-meal <180 mg/dL",
+    "b": "2-hour post-meal <180 mg/dL",
+    "c": "2-hour post-meal <200 mg/dL",
+    "d": "1-hour post-meal <140 mg/dL",
+    "correct": "b",
+    "explanation": "Target is at 120 minutes post-meal, <180 mg/dL.  [oai_citation:87‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding confirmation of diagnosis when asymptomatic?",
+    "a": "Repeat the same test on another day",
+    "b": "Repeat a different test only",
+    "c": "No repeat required",
+    "d": "Use only OGTT for confirmation",
+    "correct": "a",
+    "explanation": "Repeat the same test for confirmation.  [oai_citation:88‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which statement about prediabetes management is FALSE?",
+    "a": "Annual monitoring is suggested",
+    "b": "Focus on weight loss and physical activity",
+    "c": "Increase dietary fat to improve HDL universally",
+    "d": "Consider metformin for BMI >35, age <60, or prior GDM",
+    "correct": "c",
+    "explanation": "Dietary advice is reduced calories and fat; not increasing fat.  [oai_citation:89‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is listed as an assessment focus in diabetes visits?",
+    "a": "Diabetic retinopathy screening",
+    "b": "Routine chest CT",
+    "c": "Electroencephalogram",
+    "d": "Mammography for all ages",
+    "correct": "a",
+    "explanation": "Retinopathy is one of the complications to assess.  [oai_citation:90‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which sign is highlighted among the listed symptoms?",
+    "a": "Slow-healing cuts/bruises",
+    "b": "Hematemesis",
+    "c": "Urticaria",
+    "d": "Vertigo",
+    "correct": "a",
+    "explanation": "Slow healing is explicitly mentioned.  [oai_citation:91‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is an appropriate general A1C strategy per slides?",
+    "a": "Set identical target for all patients",
+    "b": "Individualize based on duration, comorbidities, hypoglycemia risk",
+    "c": "Avoid monitoring in older adults",
+    "d": "Prefer random glucose over A1C always",
+    "correct": "b",
+    "explanation": "Individualization is emphasized with examples for <6.5% vs ~8%.  [oai_citation:92‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which is TRUE about prediabetes cardiovascular risk management?",
+    "a": "No CVD screening is needed",
+    "b": "Annual screening and treatment of modifiable CVD risk factors",
+    "c": "Only lipid screening is needed",
+    "d": "Only BP screening is needed",
+    "correct": "b",
+    "explanation": "Annual CVD risk screening/treatment is listed.  [oai_citation:93‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  },
+  {
+    "the qustion": "Which of the following is a listed classic symptom that may prompt evaluation?",
+    "a": "Blurry vision",
+    "b": "Diplopia",
+    "c": "Hematuria",
+    "d": "Hematemesis",
+    "correct": "a",
+    "explanation": "Blurry vision appears on the symptom slide.  [oai_citation:94‡DM.pdf](file-service://file-AhejR1pwRRN2rt9CWMCerP)"
+  }
+]
