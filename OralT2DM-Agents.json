@@ -1,0 +1,1191 @@
+[
+  {
+    "the qustion": "Metformin is the preferred initial pharmacological agent for type 2 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Listed as the preferred initial drug. (Slide p. 2)"
+  },
+  {
+    "the qustion": "Dual therapy should be considered at diagnosis if A1C is more than 1.5% above the glycemic target.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Consider dual therapy when A1C is >1.5% above target. (Slide p. 2)"
+  },
+  {
+    "the qustion": "Therapy intensification should be delayed for at least one year if goals are not met.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Do not delay intensification when goals are not met. (Slide p. 3)"
+  },
+  {
+    "the qustion": "The medication regimen should be re-evaluated every 3–6 months and adjusted as needed.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Regular reassessment timeframe is 3–6 months. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Biguanides and thiazolidinediones are listed under insulin sensitizers.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Insulin sensitizers: biguanides and TZDs. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Sulfonylureas are classified as insulin sensitizers on the slide.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They are insulin secretagogues, not sensitizers. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Metformin activates AMP-kinase and reduces hepatic glucose production.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Mechanism includes AMPK activation and decreased hepatic glucose output. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Metformin increases intestinal glucose absorption.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "It decreases intestinal glucose absorption. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Metformin increases insulin sensitivity.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Mechanism includes increased insulin sensitivity. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Metformin typically reduces A1C by about 1–2 percentage points.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "A1C reduction of 1–2% is shown. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Metformin commonly causes weight gain.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Advantages include absence of weight gain; modest weight reduction in obesity. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Metformin has an absence of hypoglycemia when used alone.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Advantages include absence of hypoglycemia. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Gastrointestinal effects like metallic taste, nausea, and diarrhea are noted side effects of metformin.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "GI adverse effects are listed. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Lactic acidosis with metformin is common and expected.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Lactic acidosis is extremely uncommon and linked to predisposed conditions. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Vitamin B12 deficiency is a possible side effect of metformin.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "B12 deficiency is listed. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Metformin appears to decrease cardiovascular events in certain populations.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide notes favorable cardiovascular effects. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Observational data suggest metformin may decrease overall cancer incidence.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Meta-analyses suggest reduced cancer risk with metformin. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Thiazolidinediones act by activating the nuclear transcription factor PPAR-γ to increase insulin sensitivity.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Mechanism given for TZDs. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Thiazolidinediones have no effect on A1C.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They reduce A1C by ~0.5–1.4%. (Slide p. 16)"
+  },
+  {
+    "the qustion": "TZDs carry a black box warning for congestive heart failure and can cause fluid retention.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "CHF black box and fluid retention noted. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Weight gain is a disadvantage of TZDs.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Weight gain is listed among disadvantages. (Slide p. 16)"
+  },
+  {
+    "the qustion": "TZDs increase fracture risk.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Risk of bone fractures is listed. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Pioglitazone is linked to bladder cancer risk on the slide.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Bladder cancer (pioglitazone) is noted. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Rosiglitazone reduces LDL cholesterol.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Slide notes increased LDL with rosiglitazone. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Sulfonylureas increase insulin secretion by closing KATP channels on β-cell membranes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Mechanism is KATP channel closure. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Sulfonylureas only reduce postprandial glucose and have no effect on fasting glucose.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They affect both fasting and postprandial glucose. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Sulfonylureas typically lower A1C by about 1–2%.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "A1C reduction of 1–2% is shown. (Slide p. 18)"
+  },
+  {
+    "the qustion": "High efficacy is listed as an advantage of sulfonylureas.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "High efficacy is on the advantages slide. (Slide p. 19)"
+  },
+  {
+    "the qustion": "Hypoglycemia is the most common adverse effect of sulfonylureas.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Most common side effect is hypoglycemia. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Patients should be cautioned about sulfonylurea-induced hypoglycemia after exercise or a missed meal.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These situations increase risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Long-acting glyburide and chlorpropamide are associated with higher hypoglycemia risk.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Longer-acting agents increase risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Undernourished patients or those abusing alcohol may be at increased risk of sulfonylurea hypoglycemia.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These are cautions listed. (Slide p. 21)"
+  },
+  {
+    "the qustion": "DPP-4 inhibitors work by activating GLP-1 receptors directly.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They inhibit DPP-4, increasing incretin hormones (GLP-1, GIP). (Slide p. 22)"
+  },
+  {
+    "the qustion": "DPP-4 inhibitors have a mild effect on fasting and a moderate effect on postprandial glucose.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Effect profile is specified. (Slide p. 22)"
+  },
+  {
+    "the qustion": "DPP-4 inhibitors typically reduce A1C by about 0.5–1%.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Reduction range given. (Slide p. 22)"
+  },
+  {
+    "the qustion": "DPP-4 inhibitors have been associated with severe joint pain.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Severe joint pain is listed. (Slide p. 23)"
+  },
+  {
+    "the qustion": "Serious skin reactions have been associated with some DPP-4 inhibitors in preclinical studies.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Skin reactions with vildagliptin and saxagliptin are mentioned. (Slide p. 23)"
+  },
+  {
+    "the qustion": "An oral GLP-1 receptor agonist (semaglutide/Rybelsus) is referenced in the slides.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Oral GLP-1 RA Rybelsus is shown. (Slide p. 25)"
+  },
+  {
+    "the qustion": "α-Glucosidase inhibitors primarily slow glucose absorption from the intestine.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Mechanism: slow conversion to monosaccharides and absorption. (Slide p. 27)"
+  },
+  {
+    "the qustion": "α-Glucosidase inhibitors have their greatest effect on fasting hyperglycemia.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They mainly target postprandial hyperglycemia. (Slide p. 27)"
+  },
+  {
+    "the qustion": "SGLT2 inhibitors reduce A1C roughly 0.4–1.1% versus placebo.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Efficacy range is provided. (Slide p. 29)"
+  },
+  {
+    "the qustion": "Empagliflozin and canagliflozin decrease cardiovascular events in T2DM patients with established CVD.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "CV benefit noted. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Euglycemic diabetic ketoacidosis has been reported with SGLT2 inhibitor use.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Euglycemic DKA is listed. (Slide p. 33)"
+  },
+  {
+    "the qustion": "SGLT2 inhibitors are associated with increased vulvovaginal candidiasis and UTIs.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Genitourinary infections increased. (Slide p. 31)"
+  },
+  {
+    "the qustion": "SGLT2 inhibitors act primarily on the gastrointestinal tract.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They act upon the kidney (SGLT-2). (Slide p. 8)"
+  },
+  {
+    "the qustion": "α-Glucosidase inhibitors are categorized as agents that act upon the GI tract.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Classified under 'Act upon GI'. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Glinides are classified under insulin secretagogues on the slide.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Listed among insulin secretagogues. (Slide p. 16)"
+  },
+  {
+    "the qustion": "The CKM staging framework appears in this deck.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "CKM staging slide is present. (Slide p. 6)"
+  },
+  {
+    "the qustion": "All listed noninsulin agents in the deck are injectables only.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Multiple oral agents are covered; also an oral GLP-1 RA is shown. (Slide p. 8)"
+  },
+  {
+    "the qustion": "In individuals with obesity, metformin can promote modest weight reduction.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Weight loss benefit is noted among advantages. (Slide p. 12)"
+  },
+
+  {
+    "the qustion": "Which is the preferred initial pharmacologic agent for most patients with type 2 diabetes?",
+    "a": "Thiazolidinedione",
+    "b": "Metformin",
+    "c": "Sulfonylurea",
+    "d": "DPP-4 inhibitor",
+    "correct": "b",
+    "explanation": "Metformin is the preferred initial agent. (Slide p. 2)"
+  },
+  {
+    "the qustion": "At diagnosis, dual therapy should be considered when A1C is how far above the glycemic target?",
+    "a": "≥0.5% above target",
+    "b": ">1.5% above target",
+    "c": "≥3.0% above target",
+    "d": "Any elevation from target",
+    "correct": "b",
+    "explanation": "Consider dual therapy if A1C is more than 1.5% above goal. (Slide p. 2)"
+  },
+  {
+    "the qustion": "How often should the medication regimen be re-evaluated and adjusted as needed?",
+    "a": "Every 12 months",
+    "b": "Every 3–6 months",
+    "c": "Every 1–2 months",
+    "d": "Only when A1C rises",
+    "correct": "b",
+    "explanation": "Reassess at regular intervals of 3–6 months. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Metformin’s mechanism includes which of the following?",
+    "a": "Activation of AMPK with reduced hepatic glucose production",
+    "b": "Direct GLP-1 receptor agonism",
+    "c": "SGLT-2 inhibition",
+    "d": "Insulin receptor agonism",
+    "correct": "a",
+    "explanation": "Metformin activates AMPK and reduces hepatic glucose output. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Typical A1C reduction expected with metformin monotherapy is:",
+    "a": "0.2–0.5%",
+    "b": "1–2%",
+    "c": "2.5–3.5%",
+    "d": "≥4%",
+    "correct": "b",
+    "explanation": "Metformin lowers A1C by about 1–2%. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which advantage is listed for metformin?",
+    "a": "Promotes weight gain",
+    "b": "Absence of hypoglycemia",
+    "c": "Requires insulin co-therapy",
+    "d": "High risk of edema",
+    "correct": "b",
+    "explanation": "Advantages include absence of hypoglycemia and no weight gain. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Which side effect cluster is associated with metformin on the slides?",
+    "a": "Edema, fractures, CHF",
+    "b": "GI upset and metallic taste; B12 deficiency; rare lactic acidosis",
+    "c": "Euglycemic DKA",
+    "d": "Genitourinary infections",
+    "correct": "b",
+    "explanation": "GI effects, B12 deficiency, and rare lactic acidosis are listed. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Which statement about metformin’s cardiovascular or cancer effects matches the slides?",
+    "a": "Increases cardiovascular events",
+    "b": "Decreases cancer incidence in randomized trials",
+    "c": "Appears to decrease cardiovascular events; observational data suggest lower cancer incidence",
+    "d": "No data on either",
+    "correct": "c",
+    "explanation": "Slides note favorable CV signals and observational association with reduced cancer incidence. (Slides p. 13–14)"
+  },
+  {
+    "the qustion": "TZDs improve glycemia primarily by:",
+    "a": "Activating PPAR-γ to enhance insulin sensitivity",
+    "b": "Blocking α-glucosidase",
+    "c": "Increasing urinary glucose excretion",
+    "d": "Stimulating insulin secretion via KATP closure",
+    "correct": "a",
+    "explanation": "Mechanism is PPAR-γ activation. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which A1C reduction range is shown for TZDs?",
+    "a": "0.1–0.3%",
+    "b": "0.5–1.4%",
+    "c": "1.5–2.5%",
+    "d": "≥3%",
+    "correct": "b",
+    "explanation": "A1C reduction ~0.5–1.4% is cited. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which disadvantage is specifically listed for TZDs?",
+    "a": "Severe joint pain",
+    "b": "Bladder cancer risk (pioglitazone)",
+    "c": "Euglycemic DKA",
+    "d": "Vulvovaginal candidiasis",
+    "correct": "b",
+    "explanation": "Pioglitazone has a listed bladder cancer risk. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which lipid change is associated with rosiglitazone per the slides?",
+    "a": "Decreased LDL",
+    "b": "Increased LDL",
+    "c": "No change in LDL",
+    "d": "Increased HDL only",
+    "correct": "b",
+    "explanation": "Increase in LDL is noted for rosiglitazone. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding sulfonylurea mechanism?",
+    "a": "Open KATP channels to depolarize β-cells",
+    "b": "Close KATP channels to increase insulin secretion",
+    "c": "Activate PPAR-γ",
+    "d": "Inhibit DPP-4",
+    "correct": "b",
+    "explanation": "SU close KATP channels on β-cells. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Which A1C reduction is typical for sulfonylureas?",
+    "a": "0.2–0.6%",
+    "b": "0.5–1.0%",
+    "c": "1–2%",
+    "d": "≥3%",
+    "correct": "c",
+    "explanation": "SU reduce A1C by ~1–2%. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Which situation increases the risk of sulfonylurea-associated hypoglycemia according to the slide?",
+    "a": "After exercise or a missed meal",
+    "b": "With ACE inhibitors",
+    "c": "With DPP-4 inhibitors",
+    "d": "With alpha-blockers",
+    "correct": "a",
+    "explanation": "After exercise/missed meals are listed as risk contexts. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which sulfonylurea property is associated with higher hypoglycemia risk?",
+    "a": "Short-acting agents",
+    "b": "Long-acting drugs like glyburide/chlorpropamide",
+    "c": "Water solubility",
+    "d": "Enteric coating",
+    "correct": "b",
+    "explanation": "Longer-acting SUs increase hypoglycemia risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which patients should be cautioned due to higher hypoglycemia risk on SUs?",
+    "a": "Undernourished patients or those abusing alcohol",
+    "b": "Patients with allergic rhinitis",
+    "c": "Young athletes only",
+    "d": "Patients with high HDL",
+    "correct": "a",
+    "explanation": "Undernourished or alcohol misuse increases risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which effect profile is shown for DPP-4 inhibitors?",
+    "a": "Strong fasting effect; no postprandial effect",
+    "b": "Mild fasting and moderate postprandial effect",
+    "c": "No effect on glucose",
+    "d": "Only fasting effect",
+    "correct": "b",
+    "explanation": "Effect profile: mild fasting, moderate postprandial. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which A1C reduction range is given for DPP-4 inhibitors?",
+    "a": "0.1–0.3%",
+    "b": "0.5–1.0%",
+    "c": "1.5–2.5%",
+    "d": "≥3%",
+    "correct": "b",
+    "explanation": "DPP-4 inhibitors lower A1C by ~0.5–1%. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which adverse effect cluster is linked to DPP-4 inhibitors on the slide?",
+    "a": "Severe joint pain and serious skin reactions",
+    "b": "Bone fractures and CHF",
+    "c": "Genitourinary infections",
+    "d": "Lactic acidosis",
+    "correct": "a",
+    "explanation": "Severe joint pain and serious skin reactions are cited. (Slide p. 23)"
+  },
+  {
+    "the qustion": "The slide explicitly references which oral GLP-1 receptor agonist?",
+    "a": "Exenatide",
+    "b": "Oral semaglutide (Rybelsus)",
+    "c": "Liraglutide",
+    "d": "Dulaglutide",
+    "correct": "b",
+    "explanation": "Rybelsus (oral semaglutide) appears under oral GLP-1RA. (Slide p. 25)"
+  },
+  {
+    "the qustion": "α-Glucosidase inhibitors work by:",
+    "a": "Increasing renal glucose excretion",
+    "b": "Inhibiting conversion of complex carbohydrates into monosaccharides to slow absorption",
+    "c": "Blocking PPAR-γ",
+    "d": "Stimulating insulin secretion",
+    "correct": "b",
+    "explanation": "Mechanism: inhibit conversion, slowing absorption. (Slide p. 27)"
+  },
+  {
+    "the qustion": "Which glycemic pattern do α-glucosidase inhibitors primarily target?",
+    "a": "Fasting hyperglycemia",
+    "b": "Nocturnal hypoglycemia",
+    "c": "Postprandial hyperglycemia",
+    "d": "Dawn phenomenon",
+    "correct": "c",
+    "explanation": "They mainly address postprandial hyperglycemia. (Slide p. 27)"
+  },
+  {
+    "the qustion": "Mean A1C reductions with SGLT2 inhibitors versus placebo range approximately:",
+    "a": "0.1–0.3%",
+    "b": "0.4–1.1%",
+    "c": "1.5–2.5%",
+    "d": "≥3%",
+    "correct": "b",
+    "explanation": "Efficacy range listed is ~0.4–1.1%. (Slide p. 29)"
+  },
+  {
+    "the qustion": "Which SGLT2 inhibitor(s) have evidence of reducing CV events in T2DM with CVD per the slides?",
+    "a": "Empagliflozin and canagliflozin",
+    "b": "Sitagliptin only",
+    "c": "Acarbose and miglitol",
+    "d": "Rosiglitazone only",
+    "correct": "a",
+    "explanation": "Empa and Cana showed CV benefit on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which adverse effects are associated with SGLT2 inhibitors?",
+    "a": "Vulvovaginal candidiasis and urinary tract infections",
+    "b": "Severe joint pain",
+    "c": "Maculopathy",
+    "d": "Seizures",
+    "correct": "a",
+    "explanation": "Genitourinary infections (vulvovaginal candidiasis, UTIs) are increased. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Euglycemic DKA associated with SGLT2 inhibitors is characterized by plasma glucose typically:",
+    "a": "< 250 mg/dL",
+    "b": "200–300 mg/dL",
+    "c": "> 400 mg/dL",
+    "d": "> 600 mg/dL",
+    "correct": "a",
+    "explanation": "Euglycemic DKA defined with glucose often <250 mg/dL. (Slide p. 33)"
+  },
+  {
+    "the qustion": "Which of the following is classified on the slide as acting upon the kidney?",
+    "a": "DPP-4 inhibitors",
+    "b": "GLP-1 receptor agonists",
+    "c": "SGLT-2 inhibitors",
+    "d": "α-Glucosidase inhibitors",
+    "correct": "c",
+    "explanation": "SGLT-2 inhibitors act upon the kidney. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following drug-class pairings is CORRECT per the slide of examples?",
+    "a": "Acarbose — α-glucosidase inhibitor",
+    "b": "Linagliptin — sulfonylurea",
+    "c": "Rosiglitazone — α-glucosidase inhibitor",
+    "d": "Empagliflozin — DPP-4 inhibitor",
+    "correct": "a",
+    "explanation": "Acarbose is listed under α-glucosidase inhibitors. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is an insulin secretagogue?",
+    "a": "Glibenclamide",
+    "b": "Metformin",
+    "c": "Pioglitazone",
+    "d": "Acarbose",
+    "correct": "a",
+    "explanation": "Glibenclamide (a sulfonylurea) is an insulin secretagogue. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is an insulin sensitizer?",
+    "a": "Sitagliptin",
+    "b": "Linagliptin",
+    "c": "Metformin",
+    "d": "Glibenclamide",
+    "correct": "c",
+    "explanation": "Metformin is an insulin sensitizer (biguanide). (Slides p. 8–9)"
+  },
+  {
+    "the qustion": "Which class has a black box warning for CHF on the slide?",
+    "a": "Biguanides",
+    "b": "TZDs",
+    "c": "DPP-4 inhibitors",
+    "d": "SGLT-2 inhibitors",
+    "correct": "b",
+    "explanation": "TZDs list an FDA black box CHF warning. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which listed lipid effects are advantages of TZDs?",
+    "a": "↓HDL and ↑TG",
+    "b": "↑HDL and ↓TG",
+    "c": "↑LDL and ↓HDL",
+    "d": "No effect on any lipids",
+    "correct": "b",
+    "explanation": "Advantages include ↑HDL and ↓Triglycerides. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which of the following would you caution specifically for hypoglycemia on sulfonylureas?",
+    "a": "Patient admitted recently to the hospital",
+    "b": "Patient with high HDL",
+    "c": "Patient with allergic rhinitis",
+    "d": "Patient with kidney stone history only",
+    "correct": "a",
+    "explanation": "Post-hospitalization listed among cautions. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which pair best matches DPP-4 inhibitor adverse effects presented?",
+    "a": "Fractures; edema",
+    "b": "Skin reactions; severe joint pain",
+    "c": "Euglycemic DKA; GU infections",
+    "d": "Lactic acidosis; B12 deficiency",
+    "correct": "b",
+    "explanation": "Skin reactions in animals and severe joint pain were noted. (Slide p. 23)"
+  },
+  {
+    "the qustion": "Which α-glucosidase inhibitor is named on the slide?",
+    "a": "Saxagliptin",
+    "b": "Miglitol",
+    "c": "Canagliflozin",
+    "d": "Glyburide",
+    "correct": "b",
+    "explanation": "Miglitol is listed under α-glucosidase inhibitors. (Slide p. 27)"
+  },
+  {
+    "the qustion": "Which statement aligns with the slide’s overall treatment approach?",
+    "a": "Delay intensification until complications arise",
+    "b": "Re-evaluate therapy and adjust every 3–6 months",
+    "c": "Use dual therapy only when A1C is at goal",
+    "d": "Avoid metformin in most patients",
+    "correct": "b",
+    "explanation": "Re-evaluation every 3–6 months is recommended. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Which combination correctly pairs class and typical A1C lowering from the slides?",
+    "a": "Metformin — 1–2%",
+    "b": "DPP-4 inhibitors — 1.5–2.5%",
+    "c": "TZDs — ≥3%",
+    "d": "SGLT2 inhibitors — ≥3%",
+    "correct": "a",
+    "explanation": "Metformin ~1–2% reduction; others are lower than ≥3%. (Slides p. 11, 16, 22, 29)"
+  },
+  {
+    "the qustion": "Which best describes the glycemic effects of sulfonylureas as shown?",
+    "a": "They only affect fasting glucose",
+    "b": "They affect fasting and postprandial glucose",
+    "c": "They only affect postprandial glucose",
+    "d": "They have no effect on glycemia",
+    "correct": "b",
+    "explanation": "Both fasting and postprandial effects are stated. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Which scenario from the slide increases risk of SU hypoglycemia?",
+    "a": "Impaired renal or cardiac function",
+    "b": "High HDL level",
+    "c": "Mild allergic rhinitis",
+    "d": "Osteoarthritis",
+    "correct": "a",
+    "explanation": "Impaired renal/cardiac function is listed for caution. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which class is listed as acting upon the GI tract?",
+    "a": "SGLT-2 inhibitors",
+    "b": "α-Glucosidase inhibitors",
+    "c": "DPP-4 inhibitors",
+    "d": "Thiazolidinediones",
+    "correct": "b",
+    "explanation": "α-Glucosidase inhibitors act upon GI. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which option reflects the cardiovascular outcomes note for SGLT2 inhibitors on the slide?",
+    "a": "All SGLT2s reduce CV mortality in all patients",
+    "b": "Empagliflozin and canagliflozin show benefit in T2DM with overt CVD",
+    "c": "Only dapagliflozin reduces MI risk",
+    "d": "SGLT2s increase CV mortality",
+    "correct": "b",
+    "explanation": "CV benefit is highlighted for empagliflozin and canagliflozin in CVD. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which combination best matches class and exemplar agent from the slide?",
+    "a": "SGLT-2 — Empagliflozin",
+    "b": "DPP-4 — Exenatide",
+    "c": "GLP-1 RA — Acarbose",
+    "d": "TZD — Sitagliptin",
+    "correct": "a",
+    "explanation": "Empagliflozin is listed under SGLT-2 inhibitors. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which statement best matches metformin’s glucose effect profile on the slide?",
+    "a": "Strong postprandial effect only",
+    "b": "Moderate fasting effect and mild postprandial effect",
+    "c": "No effect on fasting glucose",
+    "d": "Exclusively nocturnal effect",
+    "correct": "b",
+    "explanation": "Metformin: moderate fasting, mild postprandial effect. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which of the following is listed as a metformin advantage?",
+    "a": "Favorable cost and general tolerability",
+    "b": "Requires dose titration due to edema",
+    "c": "Prominent hypoglycemia",
+    "d": "Universal weight gain",
+    "correct": "a",
+    "explanation": "Metformin advantages include tolerability and favorable cost. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Which pair is correctly matched (Class → Example) from the slide of antihyperglycemic therapy?",
+    "a": "GLP-1 receptor agonist → Liraglutide",
+    "b": "DPP-4 inhibitor → Empagliflozin",
+    "c": "SGLT-2 inhibitor → Sitagliptin",
+    "d": "α-Glucosidase inhibitor → Rosiglitazone",
+    "correct": "a",
+    "explanation": "Liraglutide appears under GLP-1 receptor agonists. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is a sulfonylurea listed in the slides?",
+    "a": "Glibenclamide",
+    "b": "Alogliptin",
+    "c": "Acarbose",
+    "d": "Pioglitazone",
+    "correct": "a",
+    "explanation": "Glibenclamide is a sulfonylurea. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is a DPP-4 inhibitor listed in the slides?",
+    "a": "Sitagliptin",
+    "b": "Exenatide",
+    "c": "Dulaglutide",
+    "d": "Acarbose",
+    "correct": "a",
+    "explanation": "Sitagliptin is a DPP-4 inhibitor. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is a TZD listed in the slides?",
+    "a": "Rosiglitazone",
+    "b": "Linagliptin",
+    "c": "Empagliflozin",
+    "d": "Acarbose",
+    "correct": "a",
+    "explanation": "Rosiglitazone is a TZD. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is an SGLT-2 inhibitor listed in the slides?",
+    "a": "Canagliflozin",
+    "b": "Saxagliptin",
+    "c": "Gliclazide",
+    "d": "Metformin",
+    "correct": "a",
+    "explanation": "Canagliflozin appears under SGLT-2 inhibitors. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is an α-glucosidase inhibitor listed in the slides?",
+    "a": "Acarbose",
+    "b": "Glibenclamide",
+    "c": "Sitagliptin",
+    "d": "Dapagliflozin",
+    "correct": "a",
+    "explanation": "Acarbose is an α-glucosidase inhibitor. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which two agents are named on the slide as SGLT2 inhibitors with cardiovascular benefit?",
+    "a": "Sitagliptin and vildagliptin",
+    "b": "Empagliflozin and canagliflozin",
+    "c": "Acarbose and miglitol",
+    "d": "Pioglitazone and rosiglitazone",
+    "correct": "b",
+    "explanation": "Empagliflozin and canagliflozin are cited for CV benefit. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which trial is cited on the slide for empagliflozin’s cardiovascular outcomes?",
+    "a": "LEADER",
+    "b": "EMPA-REG OUTCOMES (2015)",
+    "c": "CANVAS",
+    "d": "PROactive",
+    "correct": "b",
+    "explanation": "EMPA-REG OUTCOMES 2015 is named on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "The slide lists an increased incidence of vulvovaginal candidiasis with SGLT2 inhibitors of approximately:",
+    "a": "No increase",
+    "b": "Two- to four-fold",
+    "c": "Ten-fold",
+    "d": "Fifty percent increase only",
+    "correct": "b",
+    "explanation": "Vulvovaginal candidiasis increased two- to four-fold. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Which of the following musculoskeletal symptoms are reported with DPP-4 inhibitors on the slide?",
+    "a": "Myalgias and severe joint pain",
+    "b": "Tendon rupture only",
+    "c": "Rhabdomyolysis",
+    "d": "Spastic paralysis",
+    "correct": "a",
+    "explanation": "Severe joint pain and other MSK symptoms such as myalgias are noted. (Slide p. 23)"
+  },
+  {
+    "the qustion": "Which classification slide explicitly groups the following under insulin secretagogues?",
+    "a": "Sulfonylureas, glinides, incretin mimetics (GLP-1), DPP-4 inhibitors",
+    "b": "Biguanides and TZDs",
+    "c": "SGLT-2 inhibitors and α-glucosidase inhibitors",
+    "d": "Insulin and amylin analogs",
+    "correct": "a",
+    "explanation": "The slide labels these under ‘insulin secretagogues’. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which of the following is TRUE about TZDs from the slide?",
+    "a": "Require dose adjustment frequently",
+    "b": "No dose adjustment required",
+    "c": "Always cause hypoglycemia when used alone",
+    "d": "Reduce HDL levels",
+    "correct": "b",
+    "explanation": "‘No dose adjusted required’ is listed as an advantage. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which sulfonylurea counseling point appears on the slide?",
+    "a": "Caution after exercise or missed meals",
+    "b": "Restrict fluids to avoid hyponatremia",
+    "c": "Avoid leafy vegetables",
+    "d": "Take at bedtime only",
+    "correct": "a",
+    "explanation": "Caution is advised after exercise or missed meals to avoid hypoglycemia. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which best completes: DPP-4 inhibitors ______ incretin hormone levels leading to increased insulin secretion.",
+    "a": "decrease",
+    "b": "stabilize by direct receptor agonism of GLP-1",
+    "c": "increase by inhibiting DPP-4",
+    "d": "have no effect on",
+    "correct": "c",
+    "explanation": "They inhibit DPP-4, increasing GLP-1 and GIP. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which class has the most pronounced effect on postprandial glucose per the slides?",
+    "a": "α-Glucosidase inhibitors",
+    "b": "TZDs",
+    "c": "SGLT2 inhibitors",
+    "d": "Sulfonylureas",
+    "correct": "a",
+    "explanation": "α-Glucosidase inhibitors target postprandial hyperglycemia. (Slide p. 27)"
+  },
+  {
+    "the qustion": "Which of the following is an incretin-based therapy listed on the slides?",
+    "a": "Exenatide",
+    "b": "Glyburide",
+    "c": "Rosiglitazone",
+    "d": "Canagliflozin",
+    "correct": "a",
+    "explanation": "Exenatide appears in the GLP-1 receptor agonist list. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following is a listed DPP-4 inhibitor?",
+    "a": "Alogliptin",
+    "b": "Empagliflozin",
+    "c": "Acarbose",
+    "d": "Pioglitazone",
+    "correct": "a",
+    "explanation": "Alogliptin is among the named DPP-4 inhibitors. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which of the following statements about SGLT2 inhibitor efficacy is correct per the slides?",
+    "a": "A1C reductions are constant regardless of baseline hyperglycemia",
+    "b": "Mean A1C reductions range ~0.4–1.1% depending on baseline hyperglycemia",
+    "c": "They raise A1C in low baselines",
+    "d": "They have no effect on A1C",
+    "correct": "b",
+    "explanation": "Efficacy depends on baseline hyperglycemia; range ~0.4–1.1%. (Slide p. 29)"
+  },
+  {
+    "the qustion": "Which patient profile aligns with SGLT2 inhibitor genitourinary side effects on the slide?",
+    "a": "Two- to four-fold increased vulvovaginal candidiasis",
+    "b": "Increased risk of severe joint pain",
+    "c": "Bladder cancer",
+    "d": "Lactic acidosis",
+    "correct": "a",
+    "explanation": "Genitourinary infections are emphasized; severe joint pain is for DPP-4. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Which set is correctly matched (Class → example) as listed?",
+    "a": "TZD → Pioglitazone",
+    "b": "DPP-4 → Exenatide",
+    "c": "α-Glucosidase inhibitor → Linagliptin",
+    "d": "SGLT-2 → Liraglutide",
+    "correct": "a",
+    "explanation": "Pioglitazone is the TZD example. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which is listed as an advantage of sulfonylureas?",
+    "a": "High efficacy",
+    "b": "Weight loss",
+    "c": "No hypoglycemia",
+    "d": "CV mortality reduction",
+    "correct": "a",
+    "explanation": "High efficacy is shown as an advantage. (Slide p. 19)"
+  },
+  {
+    "the qustion": "Which condition is a listed caution context for sulfonylurea hypoglycemia?",
+    "a": "Impaired renal function",
+    "b": "Myopia",
+    "c": "Allergic rhinitis",
+    "d": "Anemia only",
+    "correct": "a",
+    "explanation": "Impaired renal function is on the caution list. (Slide p. 21)"
+  },
+  {
+    "the qustion": "In the classification table, which class acts upon the GI tract?",
+    "a": "GLP-1 receptor agonists",
+    "b": "α-Glucosidase inhibitors",
+    "c": "SGLT-2 inhibitors",
+    "d": "DPP-4 inhibitors",
+    "correct": "b",
+    "explanation": "α-Glucosidase inhibitors. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which is an example of a GLP-1 receptor agonist shown on the classification slide?",
+    "a": "Dulaglutide",
+    "b": "Vildagliptin",
+    "c": "Glyburide",
+    "d": "Miglitol",
+    "correct": "a",
+    "explanation": "Dulaglutide is listed under GLP-1 RAs. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which of the following combinations is CORRECT per the slide?",
+    "a": "DPP-4 inhibitor → Saxagliptin",
+    "b": "SGLT-2 inhibitor → Saxagliptin",
+    "c": "TZD → Linagliptin",
+    "d": "α-Glucosidase inhibitor → Canagliflozin",
+    "correct": "a",
+    "explanation": "Saxagliptin is a DPP-4 inhibitor. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which pair is CORRECT per the slide on SU cautions?",
+    "a": "Undernourished — higher hypo risk",
+    "b": "Obesity — higher hypo risk",
+    "c": "High HDL — higher hypo risk",
+    "d": "Athletes — no need for caution",
+    "correct": "a",
+    "explanation": "Undernourished status increases hypoglycemia risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which statement about TZD lipid effects is TRUE per the slide?",
+    "a": "Decrease HDL and raise TG",
+    "b": "Increase HDL and decrease TG",
+    "c": "No changes in lipids",
+    "d": "Increase LDL and HDL equally",
+    "correct": "b",
+    "explanation": "Increase HDL and decrease TG is listed under advantages. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which of the following is CORRECT regarding rosiglitazone from the slide?",
+    "a": "Decreases LDL cholesterol",
+    "b": "Increases LDL cholesterol",
+    "c": "Causes universal weight loss",
+    "d": "Contraindicated due to lactic acidosis",
+    "correct": "b",
+    "explanation": "Increase in LDL is noted. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which statement matches the CKM slide title?",
+    "a": "Cardiovascular–Kidney–Metabolic staging",
+    "b": "Cardiometabolic–Keratin–Muscle staging",
+    "c": "Cognitive–Kidney–Metabolic staging",
+    "d": "Cardiovascular–Ketone–Muscle staging",
+    "correct": "a",
+    "explanation": "CKM stands for Cardiovascular–Kidney–Metabolic. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Which class is associated with a black box warning for CHF on the slides?",
+    "a": "DPP-4 inhibitors",
+    "b": "SGLT-2 inhibitors",
+    "c": "TZDs",
+    "d": "α-Glucosidase inhibitors",
+    "correct": "c",
+    "explanation": "CHF black box warning is listed for TZDs. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which of the following pairs best matches class and primary organ of action as per the classification slide?",
+    "a": "SGLT-2 inhibitors — Kidney",
+    "b": "α-Glucosidase inhibitors — Kidney",
+    "c": "GLP-1 receptor agonists — Kidney",
+    "d": "DPP-4 inhibitors — GI brush border",
+    "correct": "a",
+    "explanation": "SGLT-2 act on the kidney; α-Glucosidase act on GI. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which SU example appears on the slide?",
+    "a": "Glimepiride",
+    "b": "Empagliflozin",
+    "c": "Alogliptin",
+    "d": "Miglitol",
+    "correct": "a",
+    "explanation": "Glimepiride is listed among SU. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which DPP-4 example appears on the slide?",
+    "a": "Vildagliptin",
+    "b": "Dulaglutide",
+    "c": "Empagliflozin",
+    "d": "Acarbose",
+    "correct": "a",
+    "explanation": "Vildagliptin is listed. (Slides p. 22, 8)"
+  },
+  {
+    "the qustion": "Which GLP-1 RA appears on the classification slide?",
+    "a": "Exenatide",
+    "b": "Alogliptin",
+    "c": "Canagliflozin",
+    "d": "Glipizide",
+    "correct": "a",
+    "explanation": "Exenatide is listed. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which SGLT-2 example appears on the slide?",
+    "a": "Dapagliflozin",
+    "b": "Alogliptin",
+    "c": "Glibenclamide",
+    "d": "Pioglitazone",
+    "correct": "a",
+    "explanation": "Dapagliflozin appears under SGLT-2. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which α-glucosidase inhibitor example appears on the slide?",
+    "a": "Miglitol",
+    "b": "Saxagliptin",
+    "c": "Linagliptin",
+    "d": "Rosiglitazone",
+    "correct": "a",
+    "explanation": "Miglitol is listed. (Slide p. 27)"
+  },
+  {
+    "the qustion": "Which SU counseling caution is listed?",
+    "a": "After hospitalization",
+    "b": "Avoid dairy products",
+    "c": "Increase vitamin D",
+    "d": "Use at bedtime only",
+    "correct": "a",
+    "explanation": "After hospitalization is listed among cautions. (Slide p. 21)"
+  }
+]
