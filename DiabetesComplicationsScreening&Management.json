@@ -1,0 +1,894 @@
+[
+  {
+    "the qustion": "DM complications are strongly related to diabetes duration and level of glycemic control.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Complication risk relates to duration and control; early detection/intervention can prevent or slow progression. (Slide p. 2)"
+  },
+  {
+    "the qustion": "Early detection and timely interventions can prevent or slow the progression of diabetes complications.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide emphasizes prevention or slowing progression with early detection and intervention. (Slide p. 2)"
+  },
+  {
+    "the qustion": "ASCVD is not a major cause of morbidity and mortality in people with diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "ASCVD is stated as the leading cause of morbidity and mortality in diabetes. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Blood pressure should be measured at every routine clinical visit for patients with diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "BP measurement at every routine visit is recommended. (Slide p. 6)"
+  },
+  {
+    "the qustion": "A single clinic BP reading >140/90 mmHg is sufficient to diagnose hypertension in all patients.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Elevated BP should be confirmed with multiple readings; single-visit diagnosis is reserved for very high BP with CVD. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Patients with BP >180/110 mmHg and cardiovascular disease may be diagnosed with hypertension at a single visit.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide specifies single-visit diagnosis for >180/110 with CVD. (Slide p. 6)"
+  },
+  {
+    "the qustion": "For diabetics with established ASCVD or 10-year ASCVD risk >15%, a BP target <130/80 mmHg is recommended.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Higher-risk patients have a lower BP target <130/80. (Slide p. 7)"
+  },
+  {
+    "the qustion": "For lower-risk diabetics, a BP target <120/70 mmHg is recommended.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Target for others is <140/90, not <120/70. (Slide p. 7)"
+  },
+  {
+    "the qustion": "In adults <40 years not on statins, a fasting lipid profile should be obtained at diagnosis and then every 5 years.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide states at diagnosis and every 5 years thereafter. (Slide p. 10)"
+  },
+  {
+    "the qustion": "In adults 40–75 years, lipid profile is checked only at statin initiation and never repeated.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Recheck 4–12 weeks after initiation or dose change, then annually. (Slide p. 10)"
+  },
+  {
+    "the qustion": "For adults 40–75 years with diabetes and no ASCVD, at least moderate-intensity statin therapy is recommended.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Moderate-intensity statin for 40–75 without ASCVD. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Adults 20–39 years with additional ASCVD risk factors may reasonably start a moderate-intensity statin.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide allows moderate-intensity statin for 20–39 with risk factors. (Slide p. 11)"
+  },
+  {
+    "the qustion": "For patients aged 50–70 with multiple ASCVD risk factors, high-intensity statin therapy may be appropriate.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Higher risk esp. age 50–70 with multiple risk factors → high-intensity. (Slide p. 11)"
+  },
+  {
+    "the qustion": "If 10-year ASCVD risk ≥20%, adding ezetimibe to statin may be considered to reduce LDL by ≥50%.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Ezetimibe addition when 10-year risk is ≥20%. (Slide p. 11)"
+  },
+  {
+    "the qustion": "All diabetic patients with established ASCVD should be on high-intensity statin therapy for secondary prevention.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "High-intensity statin for all with ASCVD. (Slide p. 13)"
+  },
+  {
+    "the qustion": "If a patient cannot tolerate high-intensity statin, therapy should be stopped entirely.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Use maximally tolerated statin dose, not stop. (Slide p. 13)"
+  },
+  {
+    "the qustion": "For fasting triglycerides >500 mg/dL, a fibrate is recommended to reduce pancreatitis risk.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Fibrate for TG >500 to reduce pancreatitis risk. (Slide p. 14)"
+  },
+  {
+    "the qustion": "For triglycerides 175–499 mg/dL, statin therapy is the treatment of choice and combination statin+fibrate improves ASCVD outcomes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Statin is first-line; statin+fibrate has not shown ASCVD benefit. (Slide p. 14)"
+  },
+  {
+    "the qustion": "For secondary prevention, aspirin 75–162 mg daily is recommended; clopidogrel 75 mg is an alternative if aspirin-allergic.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide lists aspirin dose and clopidogrel alternative. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Dual antiplatelet therapy for one year is reasonable after an acute coronary syndrome.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "DAPT for one year after ACS is reasonable. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Beta-blockers should be discontinued immediately after myocardial infarction.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Continue beta-blockers for 3 years post-MI. (Slide p. 16)"
+  },
+  {
+    "the qustion": "SGLT2 inhibitors and GLP-1 receptor agonists have demonstrated ASCVD benefit in patients with established ASCVD or kidney disease.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide states demonstrated benefit. (Slide p. 16)"
+  },
+  {
+    "the qustion": "In type 2 diabetes, the first dilated eye examination should occur at the time of diagnosis.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "T2DM screening at diagnosis. (Slide p. 20)"
+  },
+  {
+    "the qustion": "In type 1 diabetes, the first dilated eye examination is recommended within 5 years after onset.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "T1DM within 5 years. (Slide p. 20)"
+  },
+  {
+    "the qustion": "If no retinopathy and diabetes is well controlled, eye exams every 1–2 years may be considered.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Every 1–2 years if no retinopathy and good control. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Women with preexisting diabetes should aim for A1C <6.5% before conception to reduce retinopathy progression risk.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Preconception A1C <6.5% advised. (Slide p. 21)"
+  },
+  {
+    "the qustion": "During pregnancy, eye examinations are recommended before or in the first trimester, each trimester, and about 1 year postpartum as indicated.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Pregnancy eye exam schedule. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Diabetic neuropathy includes both peripheral and autonomic forms.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide lists DPN and autonomic neuropathy. (Slide p. 22)"
+  },
+  {
+    "the qustion": "For DPN pain, pregabalin, duloxetine, or gabapentin are listed options.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "These are listed under pain treatment. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Tricyclic antidepressants and venlafaxine are FDA-approved first-line treatments for DPN pain.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "They may be effective but are not approved; listed as not approved. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Midodrine and droxidopa are FDA-approved for orthostatic hypotension due to autonomic neuropathy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Both are approved for orthostatic hypotension. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Nonpharmacologic therapy for gastroparesis includes low-fiber, low-fat, small-particle, frequent meals with more liquid calories.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Dietary measures as listed. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Metoclopramide should generally not be used for more than 12 weeks in gastroparesis.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Duration limit specified. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Medications that can worsen gastroparesis include opioids, anticholinergics, TCAs, GLP-1 RAs, pramlintide, and DPP-4 inhibitors.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Slide lists these medications. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Screening for CKD should occur at diagnosis in type 2 diabetes and after 5 years of type 1 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Timing of CKD testing given. (Slide p. 32)"
+  },
+  {
+    "the qustion": "Annual screening for albuminuria using ACR in a random spot urine and eGFR calculation is recommended.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Annual ACR and eGFR. (Slide p. 33)"
+  },
+  {
+    "the qustion": "To confirm microalbuminuria, repeat ACR 1–2 times within 3 months; diagnosis requires at least two of three positive tests.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Confirmation protocol described. (Slide p. 35)"
+  },
+  {
+    "the qustion": "In men, American guidance defines microalbuminuria ACR range as 2.5–25 mg/mmol; in women 3.5–35 mg/mmol.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "American guideline ranges listed. (Slide p. 34)"
+  },
+  {
+    "the qustion": "Normotensive patients with diabetes and albuminuria should receive an ACE inhibitor or ARB.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "ACEi/ARB recommended even if normotensive. (Slide p. 39)"
+  },
+
+  {
+    "the qustion": "Which of the following is TRUE regarding blood pressure assessment in diabetes?",
+    "a": "Measure at every routine clinical visit",
+    "b": "Measure only if symptomatic",
+    "c": "Measure annually",
+    "d": "Measure only when starting antihypertensives",
+    "correct": "d",
+    "explanation": "BP should be measured at every routine visit. (Slide p. 6)"
+  },
+  {
+    "the qustion": "A patient with diabetes has clinic BP 146/92 mmHg today. According to the slide, what should you do next?",
+    "a": "Diagnose hypertension immediately",
+    "b": "Confirm with multiple readings on separate occasions",
+    "c": "Ignore unless SBP ≥180",
+    "d": "Start beta-blocker only",
+    "correct": "c",
+    "explanation": "Elevated BP (>140/90) should be confirmed using multiple readings. (Slide p. 6)"
+  },
+  {
+    "the qustion": "At what threshold can a patient with CVD be diagnosed with hypertension at a single visit?",
+    "a": ">160/100 mmHg",
+    "b": ">150/95 mmHg",
+    "c": ">180/110 mmHg",
+    "d": ">170/105 mmHg",
+    "correct": "c",
+    "explanation": "Single-visit diagnosis allowed for >180/110 with CVD. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Choose the correct BP target pairing from the slide:",
+    "a": "High-risk (ASCVD or risk >15%): <130/80; Others: <140/90",
+    "b": "High-risk: <140/90; Others: <130/80",
+    "c": "All patients: <120/70",
+    "d": "High-risk: <150/90; Others: <140/90",
+    "correct": "a",
+    "explanation": "High risk gets a lower target <130/80; otherwise <140/90. (Slide p. 7)"
+  },
+  {
+    "the qustion": "For adults <40 years not on statins, when should a lipid profile be obtained?",
+    "a": "At diagnosis and every 5 years",
+    "b": "Only at age 39",
+    "c": "Annually",
+    "d": "Only when LDL >160",
+    "correct": "c",
+    "explanation": "Obtain at diagnosis, then every 5 years. (Slide p. 10)"
+  },
+  {
+    "the qustion": "After starting a statin in a 55-year-old with diabetes, when should lipids be rechecked according to the slide?",
+    "a": "1–2 weeks later",
+    "b": "4–12 weeks later",
+    "c": "6 months later",
+    "d": "Never recheck",
+    "correct": "b",
+    "explanation": "Recheck 4–12 weeks after initiation or dose change, then annually. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Which patient is an appropriate candidate for moderate-intensity statin per primary prevention guidance?",
+    "a": "45-year-old with diabetes and no ASCVD",
+    "b": "22-year-old with diabetes and no other risks",
+    "c": "38-year-old with diabetes and additional ASCVD risk factors",
+    "d": "All of the above",
+    "correct": "d",
+    "explanation": "Moderate-intensity statin for 40–75 without ASCVD; 20–39 with additional risk factors may reasonably start. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which scenario supports high-intensity statin therapy?",
+    "a": "50–70 years with multiple ASCVD risk factors",
+    "b": "Age 25 with no risk factors",
+    "c": "Age 42 with controlled BP and no risks",
+    "d": "Any patient with triglycerides <150 mg/dL",
+    "correct": "a",
+    "explanation": "Higher-risk, especially ages 50–70 with multiple risk factors, may need high-intensity statin. (Slide p. 11)"
+  },
+  {
+    "the qustion": "When might ezetimibe be added to a statin for primary prevention?",
+    "a": "10-year ASCVD risk ≥20% to achieve ≥50% LDL reduction",
+    "b": "Any LDL <70 mg/dL",
+    "c": "Triglycerides <150 mg/dL",
+    "d": "A1C <7%",
+    "correct": "d",
+    "explanation": "Addition considered at ≥20% 10-year risk to reach ≥50% LDL reduction. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which of the following are listed ASCVD risk factors on the slide?",
+    "a": "LDL >100 mg/dL, CKD, albuminuria",
+    "b": "Anemia, gout, psoriasis",
+    "c": "Vitamin D deficiency, COPD, anemia",
+    "d": "GERD, asthma, migraine",
+    "correct": "a",
+    "explanation": "LDL>100, CKD, and albuminuria are listed risk factors. (Slide p. 12)"
+  },
+  {
+    "the qustion": "For patients with diabetes and established ASCVD, which statement is correct?",
+    "a": "Use high-intensity statin therapy",
+    "b": "Avoid statins due to diabetes",
+    "c": "Use low-intensity statin only",
+    "d": "Statins have no role",
+    "correct": "b",
+    "explanation": "High-intensity statin therapy is recommended in secondary prevention. (Slide p. 13)"
+  },
+  {
+    "the qustion": "In very-high-risk ASCVD, what is the LDL-C target and add-on strategy?",
+    "a": "LDL <70 mg/dL; consider ezetimibe/PCSK9 if above goal",
+    "b": "LDL <130 mg/dL; add fibrate if needed",
+    "c": "LDL <100 mg/dL; add niacin if needed",
+    "d": "No LDL target specified",
+    "correct": "a",
+    "explanation": "Aim for <70; add ezetimibe or PCSK9 if LDL remains above goal. (Slide p. 13)"
+  },
+  {
+    "the qustion": "If a patient cannot tolerate the intended statin intensity, what should be done?",
+    "a": "Stop statins entirely",
+    "b": "Use the maximally tolerated statin dose",
+    "c": "Switch to niacin only",
+    "d": "No lipid therapy needed",
+    "correct": "b",
+    "explanation": "Use maximally tolerated statin dose rather than stopping. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which statement about hypertriglyceridemia is TRUE?",
+    "a": ">500 mg/dL: consider fibrate to reduce pancreatitis risk",
+    "b": "175–499 mg/dL: fibrate is first-line",
+    "c": "Statin + fibrate combination clearly reduces ASCVD events",
+    "d": "Nonfasting samples are preferred",
+    "correct": "c",
+    "explanation": "Fibrate for TG >500 to reduce pancreatitis risk; 175–499 → evaluate factors and statin is treatment of choice; combo therapy has not improved ASCVD outcomes. (Slide p. 14)"
+  },
+  {
+    "the qustion": "For triglycerides 175–499 mg/dL, the slide recommends:",
+    "a": "Lifestyle/secondary factor evaluation and statin as treatment of choice",
+    "b": "Immediate fibrate plus niacin",
+    "c": "Omega-3 only",
+    "d": "Stopping statins",
+    "correct": "b",
+    "explanation": "Evaluate causes and use statin as primary treatment. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which is recommended for secondary prevention in diabetes?",
+    "a": "Aspirin 75–162 mg daily",
+    "b": "Clopidogrel 300 mg daily",
+    "c": "Routine DAPT for life in all",
+    "d": "No antiplatelet therapy",
+    "correct": "d",
+    "explanation": "Aspirin 75–162 mg daily; clopidogrel 75 mg if aspirin-allergic. (Slide p. 16)"
+  },
+  {
+    "the qustion": "How long is dual antiplatelet therapy (DAPT) considered reasonable after an ACS event?",
+    "a": "1 month",
+    "b": "6 months",
+    "c": "1 year",
+    "d": "Indefinitely for everyone",
+    "correct": "c",
+    "explanation": "DAPT is reasonable for a year after ACS; longer in select high-ischemic/low-bleeding risk with prior interventions. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which therapy pair has demonstrated ASCVD benefit in diabetes with established ASCVD or kidney disease?",
+    "a": "SGLT2 inhibitors and GLP-1 receptor agonists",
+    "b": "DPP-4 inhibitors and alpha-glucosidase inhibitors",
+    "c": "Meglitinides and sulfonylureas",
+    "d": "Thiazolidinediones alone",
+    "correct": "a",
+    "explanation": "SGLT2is and GLP-1 RAs show ASCVD benefit per slide. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Beta-blockers should be continued for how long after a myocardial infarction event (per slide)?",
+    "a": "6 months",
+    "b": "1 year",
+    "c": "3 years",
+    "d": "Lifelong in all cases",
+    "correct": "c",
+    "explanation": "Continue beta-blockers for 3 years post-MI. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which statement about metformin in CVD/heart failure context matches the slide?",
+    "a": "Continue metformin if eGFR remains >30; avoid in unstable or hospitalized HF",
+    "b": "Stop metformin in all with any HF history",
+    "c": "Use metformin only if eGFR >60",
+    "d": "Metformin has no restrictions",
+    "correct": "a",
+    "explanation": "Slide notes continuation if eGFR >30; avoid in unstable or hospitalized heart failure. (Slide p. 16)"
+  },
+  {
+    "the qustion": "For type 2 diabetes, when should retinopathy screening start?",
+    "a": "At diagnosis",
+    "b": "5 years after diagnosis",
+    "c": "At age 50",
+    "d": "Only if vision changes",
+    "correct": "b",
+    "explanation": "T2DM screening starts at diagnosis. (Slide p. 20)"
+  },
+  {
+    "the qustion": "For type 1 diabetes, initial retinopathy screening is recommended:",
+    "a": "At diagnosis",
+    "b": "Within 5 years after onset",
+    "c": "After 10 years",
+    "d": "Only in pregnancy",
+    "correct": "b",
+    "explanation": "T1DM: within 5 years after onset. (Slide p. 20)"
+  },
+  {
+    "the qustion": "If no retinopathy and diabetes is well controlled, follow-up eye exams may be scheduled:",
+    "a": "Every 1–2 years",
+    "b": "Every 5 years",
+    "c": "Monthly",
+    "d": "Never again",
+    "correct": "a",
+    "explanation": "Every 1–2 years may be considered; otherwise annually or more often. (Slide p. 20)"
+  },
+  {
+    "the qustion": "For women with preexisting diabetes planning pregnancy, which is recommended?",
+    "a": "Aim for A1C <6.5% before conception",
+    "b": "Avoid eye exams during pregnancy",
+    "c": "Start DAPT during pregnancy",
+    "d": "Stop all antihypertensives",
+    "correct": "a",
+    "explanation": "Preconception A1C <6.5% to reduce retinopathy progression risk. (Slide p. 21)"
+  },
+  {
+    "the qustion": "During pregnancy in women with preexisting diabetes, eye examination timing should be:",
+    "a": "First trimester only",
+    "b": "Before or in first trimester, every trimester, and ~1 year postpartum as indicated",
+    "c": "Only postpartum",
+    "d": "Only if symptoms develop",
+    "correct": "b",
+    "explanation": "Comprehensive schedule given on the slide. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which of the following is a form of diabetic autonomic neuropathy listed on the slide?",
+    "a": "Cardiovascular autonomic neuropathy (CAN)",
+    "b": "Optic neuritis",
+    "c": "Bell’s palsy",
+    "d": "Radiculopathy",
+    "correct": "d",
+    "explanation": "CAN is specifically mentioned under autonomic neuropathies. (Slide p. 22)"
+  },
+  {
+    "the qustion": "Which set contains medications listed for DPN pain management?",
+    "a": "Pregabalin, duloxetine, gabapentin",
+    "b": "Metformin, pioglitazone, sitagliptin",
+    "c": "Hydrochlorothiazide, amlodipine, lisinopril",
+    "d": "Aspirin, clopidogrel, prasugrel",
+    "correct": "a",
+    "explanation": "These are listed as pain options for DPN. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding tricyclic antidepressants (TCAs) for DPN pain per the slide?",
+    "a": "They are FDA-approved first-line therapy",
+    "b": "They are not approved but may be effective",
+    "c": "They are contraindicated in all diabetics",
+    "d": "They worsen neuropathic pain",
+    "correct": "b",
+    "explanation": "TCAs, venlafaxine, carbamazepine, capsaicin are not approved but may help. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which of the following is approved for treating orthostatic hypotension due to autonomic neuropathy?",
+    "a": "Midodrine and droxidopa",
+    "b": "Atenolol and verapamil",
+    "c": "Nitroglycerin and isosorbide",
+    "d": "Furosemide and spironolactone",
+    "correct": "c",
+    "explanation": "Midodrine and droxidopa are approved. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which nonpharmacologic gastroparesis strategy is listed?",
+    "a": "High-fiber, high-fat meals twice daily",
+    "b": "Low-fiber, low-fat, small-particle frequent meals with more liquid calories",
+    "c": "Intermittent fasting only",
+    "d": "No dietary modification",
+    "correct": "b",
+    "explanation": "Diet plan per slide. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Which medication should generally be limited to ≤12 weeks for gastroparesis?",
+    "a": "Metoclopramide",
+    "b": "Domperidone",
+    "c": "Erythromycin",
+    "d": "Prucalopride",
+    "correct": "b",
+    "explanation": "Metoclopramide is not used more than 12 weeks. (Slide p. 31)"
+  },
+  {
+    "the qustion": "Which drugs may worsen gastroparesis and should be withdrawn when possible?",
+    "a": "Opioids, anticholinergics, TCAs, GLP-1 RAs, pramlintide, DPP-4 inhibitors",
+    "b": "ACE inhibitors and ARBs",
+    "c": "Statins and ezetimibe",
+    "d": "Insulin and metformin",
+    "correct": "a",
+    "explanation": "These agents impair GI motility. (Slide p. 31)"
+  },
+  {
+    "the qustion": "When should CKD testing be performed in diabetes?",
+    "a": "At T2DM diagnosis; 5 years after onset in T1DM",
+    "b": "Only when creatinine is high",
+    "c": "Only in symptomatic patients",
+    "d": "At age 65 only",
+    "correct": "a",
+    "explanation": "Timing per slide. (Slide p. 32)"
+  },
+  {
+    "the qustion": "Preferred screening for microalbuminuria is:",
+    "a": "Albumin-to-creatinine ratio (ACR) in a random spot urine",
+    "b": "24-hour urine volume",
+    "c": "Dipstick glucose",
+    "d": "Serum albumin",
+    "correct": "d",
+    "explanation": "Use random spot ACR; calculate eGFR; screen annually. (Slide p. 33)"
+  },
+  {
+    "the qustion": "How is microalbuminuria confirmed per the slide?",
+    "a": "One positive ACR is sufficient",
+    "b": "Repeat ACR 1–2 times within 3 months; ≥2 of 3 positive",
+    "c": "Wait one year and repeat",
+    "d": "Use only 24-hour urine collection",
+    "correct": "b",
+    "explanation": "Confirmation requires 2 of 3 positive within 3 months. (Slide p. 35)"
+  },
+  {
+    "the qustion": "According to the American guidance on the slide, what ACR range defines microalbuminuria in men?",
+    "a": "2.5–25 mg/mmol",
+    "b": "3.5–35 mg/mmol",
+    "c": "30–300 mg/g",
+    "d": "0–2.0 mg/mmol",
+    "correct": "a",
+    "explanation": "American: men 2.5–25; women 3.5–35 mg/mmol. (Slide p. 34)"
+  },
+  {
+    "the qustion": "According to the British (NICE) guidance on the slide, what is the upper ACR limit for women?",
+    "a": "25 mg/mmol",
+    "b": "30 mg/mmol",
+    "c": "35 mg/mmol",
+    "d": "20 mg/mmol",
+    "correct": "b",
+    "explanation": "NICE: men 2.5–30; women 3.5–30 mg/mmol. (Slide p. 34)"
+  },
+  {
+    "the qustion": "Which statement about ACE inhibitors/ARBs in diabetic nephropathy matches the slide?",
+    "a": "Give ACEi/ARB even if normotensive when albuminuria is present",
+    "b": "Use ACEi/ARB only if hypertensive",
+    "c": "Avoid ACEi/ARB if albuminuria",
+    "d": "ACEi/ARB have no role",
+    "correct": "a",
+    "explanation": "ACEi/ARB recommended in normotensive patients with albuminuria. (Slide p. 39)"
+  },
+  {
+    "the qustion": "How often should a comprehensive foot evaluation be performed at minimum?",
+    "a": "Every visit",
+    "b": "Annually",
+    "c": "Every 5 years",
+    "d": "Only if ulcer develops",
+    "correct": "b",
+    "explanation": "Comprehensive foot evaluation at least annually. (Slide p. 40)"
+  },
+  {
+    "the qustion": "At every clinic visit, whose feet should be inspected according to the slide?",
+    "a": "All patients",
+    "b": "Only those with sensory loss or prior ulcer/amputation",
+    "c": "Only those with neuropathy symptoms",
+    "d": "Only those with PAD",
+    "correct": "b",
+    "explanation": "Inspect at every visit if sensory loss or prior ulcer/amputation. (Slide p. 40)"
+  },
+  {
+    "the qustion": "Which of the following is part of prophylactic foot care advice?",
+    "a": "Go barefoot at home to toughen soles",
+    "b": "Test water temperature and wash/check feet daily",
+    "c": "Wear tight shoes to prevent friction",
+    "d": "Change socks weekly",
+    "correct": "b",
+    "explanation": "Advice includes testing water temperature, daily foot checks, proper shoe/sock fit. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which factor listed increases risk for foot ulcers or amputation?",
+    "a": "Preulcerative callus or corn",
+    "b": "High HDL cholesterol",
+    "c": "Myopia",
+    "d": "Seasonal allergies",
+    "correct": "d",
+    "explanation": "Preulcerative callus/corn is on the risk list. (Slide p. 40)"
+  },
+  {
+    "the qustion": "ASCVD in diabetes includes which of the following conditions?",
+    "a": "Coronary heart disease, cerebrovascular disease, peripheral arterial disease",
+    "b": "COPD, asthma, bronchiectasis",
+    "c": "Ulcerative colitis, Crohn’s disease, IBS",
+    "d": "Dermatitis, psoriasis, acne",
+    "correct": "a",
+    "explanation": "ASCVD definition per slide. (Slide p. 4)"
+  },
+  {
+    "the qustion": "What is the leading cause of morbidity and mortality in individuals with diabetes per the slide?",
+    "a": "ASCVD",
+    "b": "Infections",
+    "c": "Cancer",
+    "d": "Hypoglycemia",
+    "correct": "a",
+    "explanation": "ASCVD is the leading cause. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Which trio is emphasized as determinants of complication risk?",
+    "a": "Duration of diabetes, level of control, early detection/intervention",
+    "b": "Age, sex, ethnicity",
+    "c": "BMI, height, eye color",
+    "d": "Diet alone",
+    "correct": "a",
+    "explanation": "These determine risk and progression; early detection can prevent/slow complications. (Slide p. 2)"
+  },
+  {
+    "the qustion": "Which of the following is an acceptable retinopathy screening approach listed on the slide?",
+    "a": "Dilated comprehensive eye exam or retinal photography by an ophthalmologist/optometrist",
+    "b": "Snellen chart only",
+    "c": "Selfie camera with flash",
+    "d": "No screening is needed",
+    "correct": "a",
+    "explanation": "Either dilated exam or retinal photography by eye care professional is acceptable. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Which factors are listed as increasing the risk of retinopathy?",
+    "a": "Nephropathy, hypertension, dyslipidemia",
+    "b": "Allergic rhinitis, acne, eczema",
+    "c": "Anemia, gout, psoriasis",
+    "d": "Migraine, GERD, IBS",
+    "correct": "a",
+    "explanation": "These are cited as associated with increased retinopathy risk. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Long-term DAPT beyond 1 year may be considered in which patient profile?",
+    "a": "Prior coronary intervention with high ischemic and low bleeding risk",
+    "b": "Any patient without ASCVD",
+    "c": "All patients with diabetes regardless of risk",
+    "d": "Only if LDL <70 mg/dL",
+    "correct": "a",
+    "explanation": "Consider long-term DAPT for prior intervention, high ischemic risk, and low bleeding risk. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which therapy is specifically highlighted for established HFrEF in diabetes?",
+    "a": "SGLT2 inhibitor",
+    "b": "DPP-4 inhibitor",
+    "c": "Acarbose",
+    "d": "Meglitinide",
+    "correct": "a",
+    "explanation": "SGLT2 inhibitors are noted for established heart failure with reduced ejection fraction. (Slide p. 16)"
+  },
+  {
+    "the qustion": "For patients with ASCVD, which class is recommended per the slide?",
+    "a": "ACE inhibitor or ARB",
+    "b": "Loop diuretic only",
+    "c": "Alpha blocker",
+    "d": "Calcium supplement",
+    "correct": "a",
+    "explanation": "ACEi/ARB recommended in ASCVD context on the slide. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which is the correct alternative antiplatelet and dose for aspirin allergy per the slide?",
+    "a": "Clopidogrel 75 mg daily",
+    "b": "Clopidogrel 300 mg daily",
+    "c": "Ticagrelor 180 mg daily",
+    "d": "Prasugrel 60 mg daily",
+    "correct": "a",
+    "explanation": "Clopidogrel 75 mg is listed as an alternative. (Slide p. 16)"
+  },
+  {
+    "the qustion": "After statin initiation or dose change in a 60-year-old, which follow-up is recommended?",
+    "a": "Lipid profile in 4–12 weeks, then annually",
+    "b": "No further lipid checks",
+    "c": "Daily lipid checks for a week",
+    "d": "Recheck only after 5 years",
+    "correct": "a",
+    "explanation": "Recheck 4–12 weeks after changes, then annually. (Slide p. 10)"
+  },
+  {
+    "the qustion": "Which eGFR equations are mentioned on the slide for CKD assessment?",
+    "a": "CKD-EPI creatinine equation and MDRD",
+    "b": "Cockcroft-Gault only",
+    "c": "Schwartz formula",
+    "d": "No equations were listed",
+    "correct": "a",
+    "explanation": "CKD-EPI and MDRD are both named. (Slide p. 37)"
+  },
+  {
+    "the qustion": "CKD staging on the slide describes stage 1 as:",
+    "a": "eGFR ≥90 mL/min/1.73 m²",
+    "b": "eGFR 60–89 mL/min/1.73 m²",
+    "c": "eGFR 45–59 mL/min/1.73 m²",
+    "d": "eGFR <15 mL/min/1.73 m²",
+    "correct": "a",
+    "explanation": "Stage 1 CKD: eGFR 90 or greater. (Slide p. 37)"
+  },
+  {
+    "the qustion": "CKD staging on the slide describes stage 2 as:",
+    "a": "eGFR 60–89 mL/min/1.73 m²",
+    "b": "eGFR ≥90 mL/min/1.73 m²",
+    "c": "eGFR 30–44 mL/min/1.73 m²",
+    "d": "eGFR <15 mL/min/1.73 m²",
+    "correct": "a",
+    "explanation": "Stage 2 CKD: eGFR 60–89. (Slide p. 37)"
+  },
+  {
+    "the qustion": "Which of the following is part of foot-care risk stratification listed on the slide?",
+    "a": "Peripheral arterial disease (PAD)",
+    "b": "High HDL-C",
+    "c": "Scoliosis",
+    "d": "Nearsightedness",
+    "correct": "a",
+    "explanation": "PAD is listed as a risk factor for ulcers/amputation. (Slide p. 40)"
+  },
+  {
+    "the qustion": "Which advice is consistent with the slide's foot-care guidance?",
+    "a": "Avoid going barefoot and ensure shoes are snug but not tight",
+    "b": "Use very hot water for foot baths",
+    "c": "Trim cuticles regularly",
+    "d": "Change socks weekly",
+    "correct": "a",
+    "explanation": "Avoid barefoot walking; proper footwear fit; daily sock changes. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which of the following combinations correctly matches screening frequency on the slide?",
+    "a": "ACR/eGFR: annually in diabetes",
+    "b": "A1C: once every 5 years",
+    "c": "Eye exam: never if asymptomatic",
+    "d": "Foot exam: every 10 years",
+    "correct": "a",
+    "explanation": "Annual ACR and eGFR are recommended. (Slide p. 33)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding retinal photography per the slide?",
+    "a": "It can be an appropriate screening strategy when performed by an eye care professional",
+    "b": "It replaces all dilated exams for life",
+    "c": "It is recommended as a self-test",
+    "d": "It is contraindicated in diabetes",
+    "correct": "a",
+    "explanation": "Retinal photography by an ophthalmologist/optometrist can be appropriate. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Which of the following secondary causes of hypertriglyceridemia are listed?",
+    "a": "Diabetes, chronic liver or kidney disease, hypothyroidism; plus medications",
+    "b": "Psoriasis, vitiligo, alopecia",
+    "c": "Sickle cell disease only",
+    "d": "Seasonal allergies only",
+    "correct": "a",
+    "explanation": "Slide lists secondary conditions and medications that raise TG. (Slide p. 14)"
+  }
+]
