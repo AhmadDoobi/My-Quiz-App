@@ -1,0 +1,705 @@
+[
+  {
+    "the qustion": "Initiating an injectable GLP-1 receptor agonist is often preferred before starting insulin in most adults with type 2 diabetes who are not at target.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Preferred prior to insulin in many patients because of weight loss and low hypoglycemia risk. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Immediate insulin initiation is reasonable if the patient has catabolic symptoms (weight loss, polyuria/polydipsia), very high A1C, very high glucose, or ketonuria.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Insulin is indicated promptly in symptomatic or markedly uncontrolled hyperglycemia. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Therapy should be re-evaluated regularly, and intensification should not be delayed if goals are missed.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Treat-to-target approach; avoid clinical inertia. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Basal insulin targets fasting hyperglycemia and is usually the first insulin introduced in type 2 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Basal-first strategy is standard to address fasting glucose. (Slide p. 6)"
+  },
+  {
+    "the qustion": "If A1C remains above goal despite adequately titrated basal insulin, adding prandial insulin to the largest meal is an accepted next step.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Basal-plus strategy: add mealtime insulin to largest/most problematic meal. (Slide p. 13)"
+  },
+  {
+    "the qustion": "When ‘overbasalization’ is suspected (high basal dose with fasting at target but A1C above goal), simply pushing basal insulin higher is preferred over addressing postprandial glucose.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Address postprandial hyperglycemia (add GLP-1 RA or prandial insulin) instead of escalating basal indefinitely. (Slide p. 7)"
+  },
+  {
+    "the qustion": "Premixed insulin offers fewer injections but less flexibility and a greater need for consistent meal timing.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Premix trades convenience for flexibility and requires regular meals. (Slide p. 14)"
+  },
+  {
+    "the qustion": "GLP-1 receptor agonists commonly cause early gastrointestinal effects (e.g., nausea) that can be minimized by slow dose escalation and meal counseling.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Start low, go slow; dietary tips reduce GI symptoms. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Compared with prandial insulin add-on, combining a GLP-1 receptor agonist with basal insulin can lower hypoglycemia risk and body weight.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Basal + GLP-1 RA is an effective alternative to basal–bolus with weight and hypo benefits. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Tirzepatide (GIP/GLP-1 dual incretin) is a non-insulin injectable that can significantly lower A1C with weight loss benefits.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Dual incretin therapy is highlighted for potent glycemic and weight effects. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Insulin injection technique and site rotation are unimportant once the correct dose is found.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Technique and rotation prevent lipohypertrophy and variable absorption. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Basal insulin titration is typically guided by fasting glucose monitoring patterns rather than single values.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Use patterns over days to titrate safely. (Slide p. 6)"
+  },
+  {
+    "the qustion": "A history of severe gastroparesis may influence the choice of GLP-1 receptor agonist therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "GLP-1 RAs can exacerbate gastric emptying delay; assess symptoms. (Slide p. 10)"
+  },
+  {
+    "the qustion": "GLP-1 receptor agonists have a high intrinsic risk of hypoglycemia when used without insulin or sulfonylureas.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Low intrinsic hypoglycemia risk unless combined with insulin/SU. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Some GLP-1 receptor agonists have demonstrated cardiovascular benefit in high-risk patients with type 2 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Cardiovascular outcome data support certain GLP-1 RAs. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Weight neutrality or weight loss is typical for GLP-1 receptor agonists, in contrast to the weight gain often seen with insulin intensification.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Class effect includes weight reduction; insulin can increase weight. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Basal–bolus (MDI) regimens allow the greatest flexibility in meal timing and carbohydrate intake but require more injections and education.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "MDI is flexible but resource-intensive. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Premixed insulin regimens are best suited for patients with highly variable meal schedules and unpredictable eating patterns.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Premix works better with consistent meal patterns. (Slide p. 14)"
+  },
+  {
+    "the qustion": "When adding a GLP-1 receptor agonist to basal insulin, it may be reasonable to reduce the basal dose modestly to avoid hypoglycemia if fasting values are already near goal.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Combination can lower glucose; consider cautious basal adjustment. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Insulin should be stored appropriately; extreme temperatures can impair potency and glycemic control.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Storage matters to maintain insulin effectiveness. (Slide p. 17)"
+  },
+  {
+    "the qustion": "For many adults with T2D not at target on oral therapy, starting with premixed insulin is universally preferred over basal insulin or GLP-1 RA.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Basal or GLP-1 RA is usually preferred first; premix is selective. (Slide p. 4)"
+  },
+  {
+    "the qustion": "A GLP-1 receptor agonist can be considered in patients with obesity and suboptimal control because of its weight benefit and low hypoglycemia risk.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Weight and hypo profile favor GLP-1 RA in appropriate patients. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Adding small prandial insulin doses to the largest meal (‘basal-plus’) is one step toward full basal–bolus if A1C remains above goal.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Structured stepwise intensification. (Slide p. 13)"
+  },
+  {
+    "the qustion": "If fasting glucose is consistently controlled but A1C remains elevated, postprandial hyperglycemia is unlikely to be a contributor.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Elevated A1C with good fasting often reflects high postprandials. (Slide p. 7)"
+  },
+  {
+    "the qustion": "Sick-day rules are irrelevant for patients on insulin because doses are stable during illness.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "Illness can raise glucose/ketones; education is essential. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Educating patients on hypoglycemia symptoms and management is a key part of initiating insulin therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Safety education accompanies insulin starts. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Pen devices can improve accuracy and convenience of insulin administration for many patients compared with vials/syringes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Device selection influences adherence and technique. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Long-acting basal analog insulin typically has a lower nocturnal hypoglycemia risk than NPH for many patients.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Profile and variability differ vs NPH; analogs often reduce nocturnal hypo. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Non-insulin injectables include GLP-1 receptor agonists and dual incretin therapies; SGLT2 inhibitors are oral agents, not injectables.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Clarifies classes and routes of administration. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Some injectable therapies may confer renal and cardiovascular risk reduction in appropriate high-risk patients with type 2 diabetes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "Benefits highlighted for select agents/classes. (Slide p. 11)"
+  },
+
+  {
+    "the qustion": "In a newly diagnosed patient with T2D and catabolic symptoms and very high glucose, the best next step is typically:",
+    "a": "Start GLP-1 RA and wait 6 months",
+    "b": "Begin insulin promptly",
+    "c": "Add a DPP-4 inhibitor only",
+    "d": "Delay therapy and recheck later",
+    "correct": "b",
+    "explanation": "Immediate insulin when symptomatic/markedly uncontrolled. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which strategy best targets fasting hyperglycemia first in T2D?",
+    "a": "Premixed insulin twice daily",
+    "b": "Basal insulin titrated to fasting targets",
+    "c": "Prandial insulin before lunch only",
+    "d": "GLP-1 RA given post-dinner",
+    "correct": "b",
+    "explanation": "Basal insulin addresses fasting glucose. (Slide p. 6)"
+  },
+  {
+    "the qustion": "A patient on adequately titrated basal insulin still has A1C above target with near-goal fasting glucose. Next best option?",
+    "a": "Keep increasing basal insulin indefinitely",
+    "b": "Add mealtime insulin to the largest meal (basal-plus)",
+    "c": "Stop insulin and add TZD instead",
+    "d": "No change; repeat A1C in a year",
+    "correct": "b",
+    "explanation": "Address postprandial excursions; basal-plus or GLP-1 RA. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which is an advantage of starting a GLP-1 RA before insulin in many patients?",
+    "a": "Lower hypoglycemia risk and weight loss",
+    "b": "Immediate reversal of ketoacidosis",
+    "c": "Guaranteed A1C ≤6.0% in 2 weeks",
+    "d": "Requires no titration or education",
+    "correct": "a",
+    "explanation": "Favorable weight and hypoglycemia profile. (Slide p. 4)"
+  },
+  {
+    "the qustion": "A patient on basal insulin is gaining weight and reports frequent late-evening hypos despite fasting glucose near target. Which change best fits ‘overbasalization’?",
+    "a": "Reduce basal and add GLP-1 RA or small prandial dose",
+    "b": "Double the basal insulin",
+    "c": "Stop all monitoring",
+    "d": "Switch to premix with no meal planning",
+    "correct": "a",
+    "explanation": "Shift focus to postprandial coverage/GLP-1 RA. (Slide p. 7)"
+  },
+  {
+    "the qustion": "Which pairing is CORRECT about regimen characteristics?",
+    "a": "Basal–bolus: most flexible but more injections/education",
+    "b": "Premix: most flexible with minimal meal planning",
+    "c": "Basal-only: primarily covers post-meal spikes",
+    "d": "GLP-1 RA: universally causes hypoglycemia alone",
+    "correct": "a",
+    "explanation": "MDI is flexible; premix needs consistent meals; GLP-1 RA has low hypo risk alone. (Slides p. 9, 13–14)"
+  },
+  {
+    "the qustion": "Which statement about premixed insulin is TRUE?",
+    "a": "Ideal when meals are erratic and unpredictable",
+    "b": "Fewer injections but less flexibility; meals should be consistent",
+    "c": "Eliminates the need for SMBG",
+    "d": "Always preferred before GLP-1 RA",
+    "correct": "b",
+    "explanation": "Premix trades flexibility for convenience and routine. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which adverse effect cluster is MOST typical when starting GLP-1 RA therapy?",
+    "a": "Nausea and early GI intolerance that improves with slow titration",
+    "b": "Severe hypoglycemia in monotherapy",
+    "c": "Immediate weight gain",
+    "d": "Bronchospasm",
+    "correct": "a",
+    "explanation": "GI effects early; low intrinsic hypoglycemia risk. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Adding which therapy to basal insulin often results in less weight gain and hypoglycemia than moving straight to basal–bolus insulin?",
+    "a": "DPP-4 inhibitor",
+    "b": "GLP-1 receptor agonist",
+    "c": "Alpha-glucosidase inhibitor",
+    "d": "SGLT2 inhibitor",
+    "correct": "b",
+    "explanation": "Basal + GLP-1 RA is an effective intensification option. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which patient scenario favors starting insulin now rather than GLP-1 RA first?",
+    "a": "A1C just above target with no symptoms",
+    "b": "Marked hyperglycemia with catabolic symptoms or ketonuria",
+    "c": "Well-controlled fasting with mild post-lunch spikes",
+    "d": "Preference to try once-weekly noninsulin injectable",
+    "correct": "b",
+    "explanation": "Insulin promptly when very uncontrolled/symptomatic. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which of the following is an appropriate first mealtime insulin intensification step in a patient on basal insulin?",
+    "a": "Add a small dose to the largest meal (‘basal-plus’)",
+    "b": "Stop basal insulin immediately",
+    "c": "Use prandial insulin only at bedtime",
+    "d": "Give premix once weekly",
+    "correct": "a",
+    "explanation": "Add to largest meal; escalate stepwise as needed. (Slide p. 13)"
+  },
+  {
+    "the qustion": "A patient starting tirzepatide is concerned about hypoglycemia while not using insulin or SU. Best response?",
+    "a": "High risk of hypoglycemia is expected",
+    "b": "Low intrinsic hypoglycemia risk without insulin/SU, but monitor",
+    "c": "Always discontinue all other agents",
+    "d": "Tirzepatide is an insulin product",
+    "correct": "b",
+    "explanation": "Dual incretin therapy has low hypo risk alone. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which principle of basal insulin titration is emphasized?",
+    "a": "Increase based on a single fasting value",
+    "b": "Adjust using several days of fasting glucose patterns",
+    "c": "Titrate only once a year",
+    "d": "Never change dose without lab A1C",
+    "correct": "b",
+    "explanation": "Patterns, not isolated values, guide safe titration. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Which education point should be covered when starting insulin?",
+    "a": "Hypoglycemia recognition and treatment",
+    "b": "No need for SMBG",
+    "c": "Do not rotate sites to avoid bruising",
+    "d": "Room temperature extremes don’t affect insulin",
+    "correct": "a",
+    "explanation": "Safety and technique training are essential. (Slides p. 15–17)"
+  },
+  {
+    "the qustion": "Which statement about GLP-1 RA and weight is correct?",
+    "a": "Associated with weight loss or neutrality",
+    "b": "Always causes weight gain",
+    "c": "Weight is unchanged with any dose",
+    "d": "Causes edema uniformly",
+    "correct": "a",
+    "explanation": "Weight benefit is a core reason to prefer GLP-1 RA in many. (Slide p. 9)"
+  },
+  {
+    "the qustion": "A patient’s fasting values are controlled, but post-dinner readings are high and A1C is above goal. Which step fits best?",
+    "a": "Increase basal insulin only",
+    "b": "Add a small prandial insulin dose before dinner",
+    "c": "Stop all injectables",
+    "d": "Use bedtime prandial insulin",
+    "correct": "b",
+    "explanation": "Target the meal producing the largest excursion. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which regimen typically requires the most structured patient education but offers greatest meal flexibility?",
+    "a": "Basal-only",
+    "b": "Premixed twice daily",
+    "c": "Basal–bolus (MDI)",
+    "d": "No injectables",
+    "correct": "c",
+    "explanation": "MDI offers flexibility at the cost of complexity. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which is a reasonable reason to reduce basal insulin slightly when adding GLP-1 RA?",
+    "a": "To intentionally raise fasting glucose",
+    "b": "To prevent hypoglycemia if fasting is already near goal",
+    "c": "To avoid weight loss",
+    "d": "Because GLP-1 RA works only on fasting values",
+    "correct": "b",
+    "explanation": "Combination can lower glucose; adjust to avoid hypos. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which statement about injection sites is correct?",
+    "a": "Rotate within and between sites to avoid lipohypertrophy",
+    "b": "Always use the exact same spot",
+    "c": "Abdomen should never be used",
+    "d": "Site rotation does not affect absorption",
+    "correct": "a",
+    "explanation": "Rotation prevents tissue changes and erratic absorption. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which best distinguishes premix vs basal–bolus?",
+    "a": "Premix: fewer injections; less flexible meals",
+    "b": "Premix: more injections; more flexible meals",
+    "c": "Basal–bolus: fewer injections and fixed meals",
+    "d": "Basal–bolus: no SMBG required",
+    "correct": "a",
+    "explanation": "Premix simplifies injections but needs predictable meals. (Slide p. 14)"
+  },
+  {
+    "the qustion": "A patient with obesity, ASCVD risk factors, and suboptimal control on oral agents asks about injectables. Which option aligns with weight/CV considerations?",
+    "a": "GLP-1 receptor agonist",
+    "b": "Immediate premix only",
+    "c": "Basal–bolus without education",
+    "d": "No change—recheck next year",
+    "correct": "a",
+    "explanation": "GLP-1 RAs can aid weight and some have CV benefit. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which is TRUE about GLP-1 RA GI effects?",
+    "a": "Often transient and dose-related; slow titration helps",
+    "b": "Permanent and dose-independent",
+    "c": "Worsen with smaller meals",
+    "d": "Improve by stopping rotation of sites",
+    "correct": "a",
+    "explanation": "Start low, go slow; diet counsel helps. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which scenario BEST calls for insulin now?",
+    "a": "Mild A1C elevation, asymptomatic",
+    "b": "Very high glucose with dehydration and ketonuria",
+    "c": "Stable fasting, mild post-lunch spikes",
+    "d": "Patient prefers once-weekly therapy",
+    "correct": "b",
+    "explanation": "Prompt insulin in symptomatic, marked hyperglycemia. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which statement about SMBG with insulin use is correct?",
+    "a": "Pattern monitoring guides safe titration",
+    "b": "Not necessary with basal insulin",
+    "c": "Only needed during illness",
+    "d": "Replaced entirely by A1C checks",
+    "correct": "a",
+    "explanation": "Glucose patterns drive dose changes and safety. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Education for hypoglycemia should include all EXCEPT:",
+    "a": "Typical symptoms and rapid treatment",
+    "b": "Factors that precipitate hypo",
+    "c": "Ignoring recurrent hypos as expected",
+    "d": "When to adjust doses or seek help",
+    "correct": "c",
+    "explanation": "Recurrent hypos need addressing, not ignoring. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Which is MOST consistent with the role of basal insulin?",
+    "a": "Blunting fasting hepatic glucose output overnight",
+    "b": "Covering only one meal spike",
+    "c": "Replacing mealtime boluses entirely",
+    "d": "Used only in type 1 diabetes",
+    "correct": "a",
+    "explanation": "Basal suppresses hepatic output; prandial covers meals. (Slide p. 6)"
+  },
+  {
+    "the qustion": "Which regimen is LEAST flexible for variable shift-work meals?",
+    "a": "Basal–bolus (MDI)",
+    "b": "Basal + GLP-1 RA",
+    "c": "Premixed insulin twice daily",
+    "d": "Basal-only",
+    "correct": "c",
+    "explanation": "Premix needs fixed meal timing. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which statement about storage is TRUE?",
+    "a": "Avoid extreme heat/cold; follow device-specific storage advice",
+    "b": "Freezing improves insulin potency",
+    "c": "Sunlight exposure is recommended",
+    "d": "Opened pens never expire",
+    "correct": "a",
+    "explanation": "Temperature and handling affect potency. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Which next step is reasonable when fasting is near goal but post-meal spikes persist on basal insulin?",
+    "a": "Add GLP-1 RA or small prandial dose at the largest meal",
+    "b": "Double basal insulin dose",
+    "c": "Stop basal and start premix once weekly",
+    "d": "No change",
+    "correct": "a",
+    "explanation": "Target postprandial hyperglycemia specifically. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding dual incretin therapy (e.g., tirzepatide)?",
+    "a": "It is an insulin formulation",
+    "b": "Low intrinsic hypoglycemia risk without insulin/SU",
+    "c": "Always causes weight gain",
+    "d": "Used only in type 1 diabetes",
+    "correct": "b",
+    "explanation": "GLP-1/GIP agonism lowers glucose with weight benefit. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which counseling point for premix is MOST accurate?",
+    "a": "Meals can be skipped freely",
+    "b": "Mealtime regularity and carbohydrate consistency are important",
+    "c": "Premix cannot cause hypoglycemia",
+    "d": "Premix eliminates the need for education",
+    "correct": "b",
+    "explanation": "Consistent meals reduce hypo/variability risk. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which is an appropriate reason to choose basal–bolus over premix?",
+    "a": "Need for maximal meal timing flexibility",
+    "b": "Desire for the fewest possible injections",
+    "c": "Strong preference to avoid carb counting",
+    "d": "Irregular SMBG patterns are acceptable",
+    "correct": "a",
+    "explanation": "MDI favors flexibility but needs more engagement. (Slide p. 13)"
+  },
+  {
+    "the qustion": "When first adding a mealtime insulin in basal-plus, which meal is generally targeted?",
+    "a": "The meal with the highest postprandial excursion",
+    "b": "Breakfast only, regardless of readings",
+    "c": "Any meal chosen at random",
+    "d": "Bedtime snack",
+    "correct": "a",
+    "explanation": "Start where the biggest spike occurs. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Which of the following best describes clinical inertia?",
+    "a": "Timely intensification when goals are missed",
+    "b": "Delays in adjusting therapy despite not meeting targets",
+    "c": "Rapid overescalation of doses",
+    "d": "Frequent SMBG adjustments",
+    "correct": "b",
+    "explanation": "Avoid delaying intensification; reassess regularly. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Which is MOST consistent with patient selection for GLP-1 RA first?",
+    "a": "Obesity, low hypo tolerance, desire to avoid insulin if possible",
+    "b": "Diabetic ketoacidosis at presentation",
+    "c": "Severe dehydration with ketonuria",
+    "d": "Acute hyperglycemic emergency",
+    "correct": "a",
+    "explanation": "Weight/hypo profile favors GLP-1 RA unless insulin is urgently indicated. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Which statement about insulin pens is correct?",
+    "a": "They may improve dosing accuracy and convenience for many patients",
+    "b": "They are less accurate than syringes in all cases",
+    "c": "They eliminate the need for injection technique",
+    "d": "They are not suitable for older adults",
+    "correct": "a",
+    "explanation": "Pens can support accuracy and adherence. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which education item belongs in sick-day guidance for insulin users?",
+    "a": "Monitor more frequently and never stop basal insulin; seek help with ketones",
+    "b": "Stop all insulin during fever",
+    "c": "Only check glucose weekly",
+    "d": "Avoid fluids to prevent hypo",
+    "correct": "a",
+    "explanation": "Illness raises glucose/ketones—monitor and continue basal. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Which is TRUE regarding hypoglycemia education at initiation?",
+    "a": "Discuss symptoms, precipitants, rapid treatment, and dose adjustments",
+    "b": "Avoid discussing hypos to reduce anxiety",
+    "c": "Teach to withhold carbs after hypos",
+    "d": "Treat hypos with water only",
+    "correct": "a",
+    "explanation": "Comprehensive safety counseling is essential. (Slide p. 15)"
+  },
+  {
+    "the qustion": "A patient on basal insulin with good fasting results prefers fewer injections but struggles with lunch and dinner spikes. Which regimen fits their preference?",
+    "a": "Premixed insulin twice daily with meal planning",
+    "b": "Basal–bolus with three mealtime doses",
+    "c": "Stop insulin entirely",
+    "d": "Add bedtime prandial dose only",
+    "correct": "a",
+    "explanation": "Premix cuts injections but requires regular meals. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which best summarizes the role of GLP-1 RA vs insulin intensification?",
+    "a": "GLP-1 RA often prior to prandial insulin due to weight and hypo benefits",
+    "b": "GLP-1 RA always after full basal–bolus failure",
+    "c": "GLP-1 RA reserved for T1D only",
+    "d": "Insulin preferred for mild hyperglycemia",
+    "correct": "a",
+    "explanation": "Class positioning emphasizes benefits before prandial insulin in many. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Which is the BEST teaching point before first insulin injection?",
+    "a": "Demonstrate pen priming, angle, depth, and site rotation",
+    "b": "Instruct to skip rotation for consistency",
+    "c": "Avoid discussing sharps disposal",
+    "d": "Use boiling water to clean needles",
+    "correct": "a",
+    "explanation": "Proper technique reduces complications and variability. (Slide p. 16)"
+  },
+  {
+    "the qustion": "Which factor would push you toward insulin sooner rather than later?",
+    "a": "Mild fasting elevations only",
+    "b": "Marked hyperglycemia with symptoms/ketones",
+    "c": "Preference to avoid needles",
+    "d": "Stable A1C at goal",
+    "correct": "b",
+    "explanation": "Urgent control needed in symptomatic or ketotic patients. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which combination best pairs regimen with an expected trade-off?",
+    "a": "Basal–bolus: more flexibility but more injections/education",
+    "b": "Premix: more flexibility with fewer injections",
+    "c": "Basal-only: covers all postprandial spikes reliably",
+    "d": "GLP-1 RA: high hypoglycemia risk alone",
+    "correct": "a",
+    "explanation": "Know trade-offs to tailor therapy. (Slides p. 9, 13–14)"
+  },
+  {
+    "the qustion": "Which patient is LEAST suited for premixed insulin?",
+    "a": "Highly variable daily meal timing",
+    "b": "Consistent breakfast and dinner times",
+    "c": "Need to reduce number of daily injections",
+    "d": "Prefers set routine",
+    "correct": "a",
+    "explanation": "Premix fits regular, predictable meals. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Which statement about GLP-1 RA is TRUE?",
+    "a": "Low intrinsic hypoglycemia risk when not combined with insulin/SU",
+    "b": "Should be injected intramuscularly",
+    "c": "Always causes dehydration with use",
+    "d": "Cannot be combined with basal insulin",
+    "correct": "a",
+    "explanation": "Safety and combinations covered in slides. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which practical step helps mitigate early GLP-1 RA nausea?",
+    "a": "Rapid dose escalation",
+    "b": "Eat very large meals quickly",
+    "c": "Gradual up-titration with meal size guidance",
+    "d": "Rotate injection sites less often",
+    "correct": "c",
+    "explanation": "Start low, go slow; dietary tips provided. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which of the following is the BEST rationale to choose basal + GLP-1 RA instead of moving straight to basal–bolus?",
+    "a": "Desire to minimize hypoglycemia and weight gain",
+    "b": "Need absolute maximum flexibility immediately",
+    "c": "Patient cannot self-inject",
+    "d": "All targets already met",
+    "correct": "a",
+    "explanation": "Basal + GLP-1 RA often achieves goals with fewer side effects. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which choice best reflects a stepwise insulin intensification pathway?",
+    "a": "Basal → basal-plus (one meal) → basal–bolus as needed",
+    "b": "Basal → stop insulin → oral agents only",
+    "c": "Basal → premix → stop SMBG",
+    "d": "Basal → random prandial doses without data",
+    "correct": "a",
+    "explanation": "Structured progression is recommended. (Slide p. 13)"
+  }
+]
