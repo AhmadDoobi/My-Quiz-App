@@ -1,1358 +1,1352 @@
-{
-  "chapter": "Hypertension — Screening, Treatment & Special Situations",
-  "count_total": 150,
-  "count_true_false": 60,
-  "count_mcq": 90,
-  "questions": [
-    {
-      "the qustion": "Confirming hypertension should include out-of-office measurements before starting treatment when feasible.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
-    },
-    {
-      "the qustion": "Home BP values ≥135/85 mmHg are considered elevated.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
-    },
-    {
-      "the qustion": "On ABPM, daytime mean >135/85 mmHg and nighttime mean >125/75 mmHg support a diagnosis of hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
-    },
-    {
-      "the qustion": "Masked hypertension has cardiovascular risk similar to sustained hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Masked HTN carries CVD risk similar to sustained HTN; actively detect and treat. (Slide p. 43)"
-    },
-    {
-      "the qustion": "White-coat hypertension carries minimal to slightly increased cardiovascular risk compared with normotension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — White‑coat HTN has minimal to slightly increased CVD risk versus normotension; confirm and monitor. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Hypertensive urgency is severe BP elevation with acute end-organ damage.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — Hypertensive urgency = severe BP without acute end‑organ damage; adjust oral therapy. (Slide p. 147)"
-    },
-    {
-      "the qustion": "Hypertensive emergency is severe BP elevation with evidence of acute end-organ damage.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 147)"
-    },
-    {
-      "the qustion": "Isolated systolic hypertension is defined as SBP ≥140 mmHg with DBP <90 mmHg.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 11)"
-    },
-    {
-      "the qustion": "Isolated diastolic hypertension is defined as SBP <140 mmHg with DBP >90 mmHg.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Isolated diastolic HTN: DBP elevated with normal SBP; monitor and treat by overall risk. (Slide p. 11)"
-    },
-    {
-      "the qustion": "Primary (essential) hypertension accounts for the clear minority of cases.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 13)"
-    },
-    {
-      "the qustion": "Secondary hypertension accounts for roughly 5–10% of cases and can be potentially reversible.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 15)"
-    },
-    {
-      "the qustion": "Obesity, excess alcohol, and high sodium intake promote the development of essential hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Limit alcohol; moderation is part of BP control. (Slide p. 14)"
-    },
-    {
-      "the qustion": "Smoking is a non-modifiable risk factor for hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
-    },
-    {
-      "the qustion": "DASH eating pattern emphasizes fruits, vegetables, whole grains, and low-fat dairy, with reduced saturated fat.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
-    },
-    {
-      "the qustion": "Routine supplementation with potassium, calcium, and magnesium is recommended to prevent hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 64)"
-    },
-    {
-      "the qustion": "In patients with elevated office BP (e.g., ≥130/80), diagnosis may be confirmed with out-of-office measurements or repeated office visits.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
-    },
-    {
-      "the qustion": "USPSTF recommends confirming elevated office BP with measurements outside the clinic before treatment.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
-    },
-    {
-      "the qustion": "ACE inhibitors are contraindicated in pregnancy.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACE inhibitors/ARBs are teratogenic; avoid in pregnancy and switch to safer agents. (Slide p. 79)"
-    },
-    {
-      "the qustion": "ACE inhibitors commonly cause cough and can cause angioedema.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 78)"
-    },
-    {
-      "the qustion": "ARBs are a reasonable alternative in ACE-inhibitor–induced cough, when otherwise appropriate.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 73)"
-    },
-    {
-      "the qustion": "Both dihydropyridine and non-dihydropyridine CCBs can cause gingival hyperplasia.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Both dihydropyridine and non‑dihydropyridine CCBs may cause gingival hyperplasia. (Slide p. 72)"
-    },
-    {
-      "the qustion": "Thiazide diuretics may be favorable in osteoporosis and in isolated systolic hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Thiazide diuretics are contraindicated in gout or significant hyponatremia.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Avoid or use caution with thiazides in gout or significant hyponatremia. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Spironolactone may be useful for resistant hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Add low‑dose spironolactone for resistant HTN after optimizing a thiazide‑like diuretic. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Loop diuretics are preferred in CKD for volume control and BP management.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Loop diuretics are preferred for volume control in CKD; thiazides lose efficacy with low GFR. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Evaluate resistant hypertension for secondary causes such as primary aldosteronism, CKD, renal artery stenosis, pheochromocytoma, and OSA.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 143)"
-    },
-    {
-      "the qustion": "Obstructive sleep apnea is a recognized secondary cause of hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 18)"
-    },
-    {
-      "the qustion": "Methyldopa has an established safety profile for use in pregnancy.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "ACE inhibitors and ARBs are acceptable first-line options during pregnancy.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — ACE inhibitors/ARBs are teratogenic; avoid in pregnancy and switch to safer agents. (Slide p. 114)"
-    },
-    {
-      "the qustion": "In African American patients without CKD/HF, initial therapy often includes a thiazide diuretic or a CCB.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — DHP CCBs lower BP via vasodilation; watch for edema and reflex tachycardia. (Slide p. 158)"
-    },
-    {
-      "the qustion": "ACEi/ARB are still recommended in CKD or heart failure regardless of race.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
-    },
-    {
-      "the qustion": "Bilateral renal artery stenosis is a contraindication to ACE inhibitors and ARBs.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Pheochromocytoma can present with episodic headache, diaphoresis, palpitations, and hypertension.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Pheochromocytoma causes episodic headache, palpitations, sweating with hypertension. (Slide p. 17)"
-    },
-    {
-      "the qustion": "Primary aldosteronism may present with nocturia and paresthesias due to hypokalemia.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 18)"
-    },
-    {
-      "the qustion": "Hypothyroidism is associated with lethargy, constipation, weight gain, and depression.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
-    },
-    {
-      "the qustion": "Hyperthyroidism may present with heat intolerance, sweating, palpitations, and weight loss.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
-    },
-    {
-      "the qustion": "Immediate-release or sublingual nifedipine is recommended in pregnancy for chronic BP control.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "Hydralazine can be used in pregnancy but may cause reflex tachycardia and fluid retention.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 161)"
-    },
-    {
-      "the qustion": "Thiazide diuretics may be continued in pregnancy for women who were taking them prior to conception, per some guidance.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 161)"
-    },
-    {
-      "the qustion": "Hypertensive emergencies most commonly include presentations like acute stroke and pulmonary edema in classification studies.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 148)"
-    },
-    {
-      "the qustion": "Eclampsia and aortic dissection are among the least common hypertensive emergencies.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 148)"
-    },
-    {
-      "the qustion": "Lifestyle modification, including diet and activity changes, is a core part of hypertension management.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
-    },
-    {
-      "the qustion": "High sodium intake is unrelated to blood pressure.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 14)"
-    },
-    {
-      "the qustion": "Regular aerobic exercise has no role in BP reduction.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — Regular aerobic activity lowers BP and improves cardiometabolic health. (Slide p. 59)"
-    },
-    {
-      "the qustion": "Alcohol moderation is part of non-pharmacological BP control.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Limit alcohol; moderation is part of BP control. (Slide p. 51)"
-    },
-    {
-      "the qustion": "Home BP monitoring should use duplicate morning and evening measurements over 7 days, excluding the first day.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
-    },
-    {
-      "the qustion": "On ABPM, measurements are taken every 15–30 minutes when awake and 30–60 minutes during sleep.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
-    },
-    {
-      "the qustion": "Delaying therapy intensification is encouraged even when BP remains above target.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
-    },
-    {
-      "the qustion": "Non-dihydropyridine CCBs may be contraindicated in systolic heart failure and when combined with beta blockers.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Beta blockers are particularly favored post–myocardial infarction and for angina.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "ACE inhibitors can increase serum creatinine; a rise >30% warrants re-evaluation or discontinuation.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACEi/ARB can raise creatinine and potassium; monitor and re‑evaluate if creatinine rises >30%. (Slide p. 78)"
-    },
-    {
-      "the qustion": "ACE inhibitors tend to lower potassium.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — ACEi/ARB can raise creatinine and potassium; monitor and re‑evaluate if creatinine rises >30%. (Slide p. 78)"
-    },
-    {
-      "the qustion": "DASH diet ensures adequate potassium, magnesium, and calcium from foods rather than supplements.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
-    },
-    {
-      "the qustion": "Masked hypertension is defined by high office BP and normal out-of-office BP.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
-    },
-    {
-      "the qustion": "White-coat hypertension is diagnosed when out-of-office BP is normal despite elevated clinic BP.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Referral is appropriate for suspected secondary hypertension or persistent uncontrolled BP despite therapy.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
-    },
-    {
-      "the qustion": "Loop diuretics are first-line agents for all newly diagnosed uncomplicated hypertension cases.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "b",
-      "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Resistant hypertension often requires a thiazide-like diuretic at optimal dose before adding other agents.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
-    },
-    {
-      "the qustion": "In African American patients, thiazide diuretics were more effective than ACE inhibitors for improving heart failure and cardiovascular outcomes in ALLHAT.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
-    },
-    {
-      "the qustion": "In African American patients, CCBs were more effective than ACE inhibitors for reducing strokes.",
-      "a": "True",
-      "b": "False",
-      "c": "",
-      "d": "",
-      "correct": "a",
-      "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
-    },
-    {
-      "the qustion": "Which out-of-office threshold is used to define elevated home blood pressure (HBPM)?",
-      "a": "≥130/80 mmHg",
-      "b": "≥140/90 mmHg",
-      "c": "≥125/75 mmHg",
-      "d": "≥135/85 mmHg",
-      "correct": "d",
-      "explanation": "Correct: ≥135/85 mmHg. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
-    },
-    {
-      "the qustion": "For ABPM, which mean values support a diagnosis of hypertension?",
-      "a": "Daytime >125/75 and Night >135/85",
-      "b": "Daytime >140/90 and Night >130/80",
-      "c": "Daytime >130/80 and Night >120/70",
-      "d": "Daytime >135/85 and Night >125/75",
-      "correct": "d",
-      "explanation": "Correct: Daytime >135/85 and Night >125/75. ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
-    },
-    {
-      "the qustion": "Which statement best describes masked hypertension?",
-      "a": "High office and high out-of-office BP",
-      "b": "Normal office and normal out-of-office BP",
-      "c": "Normal office BP, high out-of-office BP",
-      "d": "High office BP, normal out-of-office BP",
-      "correct": "c",
-      "explanation": "Correct: Normal office BP, high out-of-office BP. Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which is TRUE about white-coat hypertension?",
-      "a": "Normal office and normal out-of-office BP",
-      "b": "High office BP, normal out-of-office BP",
-      "c": "Normal office BP, high out-of-office BP",
-      "d": "High office and high out-of-office BP",
-      "correct": "b",
-      "explanation": "Correct: High office BP, normal out-of-office BP. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which finding distinguishes hypertensive emergency from urgency?",
-      "a": "Systolic BP >160 mmHg",
-      "b": "Presence of acute end-organ damage",
-      "c": "Headache",
-      "d": "Tachycardia",
-      "correct": "b",
-      "explanation": "Correct: Presence of acute end-organ damage. Emergencies have acute end‑organ damage; urgencies do not. Treat accordingly. (Slide p. 147)"
-    },
-    {
-      "the qustion": "Which definition matches isolated systolic hypertension?",
-      "a": "SBP <140 with DBP >90 mmHg",
-      "b": "SBP <120 with DBP <80 mmHg",
-      "c": "SBP ≥130 with DBP ≥80 mmHg",
-      "d": "SBP ≥140 with DBP <90 mmHg",
-      "correct": "d",
-      "explanation": "Correct: SBP ≥140 with DBP <90 mmHg. Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 11)"
-    },
-    {
-      "the qustion": "Which of the following is a modifiable risk factor for essential hypertension?",
-      "a": "Excess dietary sodium",
-      "b": "Male sex",
-      "c": "Age",
-      "d": "Family history",
-      "correct": "a",
-      "explanation": "Correct: Excess dietary sodium. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
-    },
-    {
-      "the qustion": "Which lifestyle pattern is emphasized for BP lowering?",
-      "a": "High red meat and saturated fat",
-      "b": "DASH diet rich in fruits, vegetables, low-fat dairy",
-      "c": "High-protein ketogenic diet",
-      "d": "Juice-only diet",
-      "correct": "b",
-      "explanation": "Correct: DASH diet rich in fruits, vegetables, low-fat dairy. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
-    },
-    {
-      "the qustion": "What is the recommendation regarding routine mineral supplementation for BP prevention?",
-      "a": "Supplement only K",
-      "b": "Routinely supplement K, Ca, Mg",
-      "c": "Use Ca and Mg only",
-      "d": "Not recommended routinely due to insufficient evidence",
-      "correct": "d",
-      "explanation": "Correct: Not recommended routinely due to insufficient evidence. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 64)"
-    },
-    {
-      "the qustion": "According to USPSTF, how should elevated clinic BP be confirmed before initiating treatment?",
-      "a": "By CT angiography",
-      "b": "With invasive arterial line monitoring",
-      "c": "By repeating BP after 12 months",
-      "d": "With out-of-office BP measurements",
-      "correct": "d",
-      "explanation": "Correct: With out-of-office BP measurements. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
-    },
-    {
-      "the qustion": "A patient has elevated office BP (≥130/80) with no end-organ damage. What is an acceptable diagnostic approach?",
-      "a": "24-hour urine sodium only",
-      "b": "Start therapy immediately without confirmation",
-      "c": "Out-of-office BP measurement or repeated office readings over 3 visits",
-      "d": "Perform renal biopsy",
-      "correct": "c",
-      "explanation": "Correct: Out-of-office BP measurement or repeated office readings over 3 visits. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
-    },
-    {
-      "the qustion": "Which drug class is contraindicated in pregnancy?",
-      "a": "Labetalol",
-      "b": "ACE inhibitors",
-      "c": "Methyldopa",
-      "d": "Long-acting nifedipine",
-      "correct": "b",
-      "explanation": "Correct: ACE inhibitors. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which agent has an established safety profile in pregnancy for chronic hypertension?",
-      "a": "Enalapril",
-      "b": "Ramipril",
-      "c": "Aliskiren",
-      "d": "Methyldopa",
-      "correct": "d",
-      "explanation": "Correct: Methyldopa. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "In pregnancy, which formulation is NOT recommended due to risk of rapid hypotension?",
-      "a": "Long-acting nifedipine",
-      "b": "Methyldopa",
-      "c": "Immediate-release/sub-lingual nifedipine",
-      "d": "Labetalol",
-      "correct": "c",
-      "explanation": "Correct: Immediate-release/sub-lingual nifedipine. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "Which adverse effect is commonly associated with ACE inhibitors?",
-      "a": "Hirsutism",
-      "b": "Severe constipation",
-      "c": "Dry cough",
-      "d": "Gingival hyperplasia",
-      "correct": "c",
-      "explanation": "Correct: Dry cough. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
-    },
-    {
-      "the qustion": "If a patient develops ACE-inhibitor–induced cough, which change is most appropriate?",
-      "a": "Increase ACE inhibitor dose",
-      "b": "Add a loop diuretic",
-      "c": "Start clonidine",
-      "d": "Switch to an ARB",
-      "correct": "d",
-      "explanation": "Correct: Switch to an ARB. ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 73)"
-    },
-    {
-      "the qustion": "Which classes can cause gingival hyperplasia?",
-      "a": "Loop diuretics",
-      "b": "ACE inhibitors only",
-      "c": "ARBs only",
-      "d": "Both dihydropyridine and non-dihydropyridine CCBs",
-      "correct": "d",
-      "explanation": "Correct: Both dihydropyridine and non-dihydropyridine CCBs. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 72)"
-    },
-    {
-      "the qustion": "Which pair is CORRECT regarding thiazide diuretics?",
-      "a": "Contraindicated in osteoporosis",
-      "b": "Cause hyperkalemia",
-      "c": "May be useful in isolated systolic HTN",
-      "d": "Favored in gout",
-      "correct": "c",
-      "explanation": "Correct: May be useful in isolated systolic HTN. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which is a contraindication to ACE inhibitor or ARB therapy?",
-      "a": "Type 2 diabetes",
-      "b": "Obesity",
-      "c": "Bilateral renal artery stenosis",
-      "d": "Dyslipidemia",
-      "correct": "c",
-      "explanation": "Correct: Bilateral renal artery stenosis. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which condition is an indication favoring beta blockers?",
-      "a": "Peripheral vasospasm",
-      "b": "Post–myocardial infarction",
-      "c": "Severe asthma",
-      "d": "First-degree heart block",
-      "correct": "b",
-      "explanation": "Correct: Post–myocardial infarction. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which nonpharmacologic intervention typically yields the greatest SBP reduction among options listed in the slide example?",
-      "a": "Losing 3–4 kg only",
-      "b": "Exercise alone",
-      "c": "Alcohol moderation",
-      "d": "DASH eating plan",
-      "correct": "d",
-      "explanation": "Correct: DASH eating plan. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 59)"
-    },
-    {
-      "the qustion": "Which combination is MOST appropriate initial therapy in African American patients without CKD/HF?",
-      "a": "Alpha blocker",
-      "b": "ACE inhibitor",
-      "c": "Thiazide diuretic or CCB",
-      "d": "ARB",
-      "correct": "c",
-      "explanation": "Correct: Thiazide diuretic or CCB. Initial therapy often favors thiazide or CCB unless CKD/HF—then ACEi/ARB per indications. (Slide p. 158)"
-    },
-    {
-      "the qustion": "Which class is recommended in CKD with hypertension for renal protection?",
-      "a": "Alpha blocker",
-      "b": "Short-acting nifedipine",
-      "c": "Beta-2 agonist",
-      "d": "ACE inhibitor or ARB",
-      "correct": "d",
-      "explanation": "Correct: ACE inhibitor or ARB. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which presentation suggests pheochromocytoma as a secondary cause?",
-      "a": "Episodic headaches, palpitations, diaphoresis",
-      "b": "Hair loss and cold intolerance",
-      "c": "Bradycardia and constipation",
-      "d": "Polyuria with nocturia only",
-      "correct": "a",
-      "explanation": "Correct: Episodic headaches, palpitations, diaphoresis. Pheochromocytoma causes episodic headache, palpitations, sweating with hypertension. (Slide p. 17)"
-    },
-    {
-      "the qustion": "Primary aldosteronism screening involves which test?",
-      "a": "Aldosterone-to-renin ratio",
-      "b": "24-hour urine cortisol only",
-      "c": "Thyroid-stimulating hormone only",
-      "d": "Plasma metanephrines only",
-      "correct": "a",
-      "explanation": "Correct: Aldosterone-to-renin ratio. Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 143)"
-    },
-    {
-      "the qustion": "Which finding raises suspicion for renal artery stenosis?",
-      "a": "Athlete with bradycardia",
-      "b": "Patient with eczema",
-      "c": "Elderly with isolated systolic HTN",
-      "d": "Young female with refractory HTN",
-      "correct": "d",
-      "explanation": "Correct: Young female with refractory HTN. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 143)"
-    },
-    {
-      "the qustion": "Which symptom cluster suggests obstructive sleep apnea contributing to HTN?",
-      "a": "Dry cough after ACE inhibitor",
-      "b": "Snoring, witnessed apneas, excessive daytime sleepiness",
-      "c": "Polyuria and polydipsia",
-      "d": "Night sweats and weight loss",
-      "correct": "b",
-      "explanation": "Correct: Snoring, witnessed apneas, excessive daytime sleepiness. OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 143)"
-    },
-    {
-      "the qustion": "Which is an appropriate step in resistant hypertension management?",
-      "a": "Use beta blocker alone",
-      "b": "Add low-dose spironolactone",
-      "c": "Stop all diuretics",
-      "d": "Avoid referral",
-      "correct": "b",
-      "explanation": "Correct: Add low-dose spironolactone. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which diuretic strategy is preferred in CKD with hypertension?",
-      "a": "Loop diuretic for volume control",
-      "b": "No diuretics",
-      "c": "High-dose thiazide only",
-      "d": "Potassium-sparing diuretic only",
-      "correct": "a",
-      "explanation": "Correct: Loop diuretic for volume control. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which is the BEST next step when BP remains uncontrolled after thorough optimization and evaluation?",
-      "a": "Wait 6–12 months",
-      "b": "Refer to a hypertension specialist",
-      "c": "Add herbal supplements",
-      "d": "Stop all drugs",
-      "correct": "b",
-      "explanation": "Correct: Refer to a hypertension specialist. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 145)"
-    },
-    {
-      "the qustion": "Which pair correctly matches a thiazide(-like) diuretic example?",
-      "a": "Chlorthalidone — thiazide(-like)",
-      "b": "Hydrochlorothiazide — loop diuretic",
-      "c": "Furosemide — thiazide",
-      "d": "Amiloride — thiazide",
-      "correct": "a",
-      "explanation": "Correct: Chlorthalidone — thiazide(-like). Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
-    },
-    {
-      "the qustion": "Which class is favored in post-MI patients with hypertension (per compelling indications)?",
-      "a": "Direct vasodilators only",
-      "b": "Alpha blockers only",
-      "c": "Dihydropyridine CCBs only",
-      "d": "Beta blockers and ACE inhibitors",
-      "correct": "d",
-      "explanation": "Correct: Beta blockers and ACE inhibitors. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which combination should generally be avoided due to risk of heart block/worsening HF?",
-      "a": "Non-dihydropyridine CCB with beta blocker",
-      "b": "CCB with thiazide",
-      "c": "Thiazide with ACE inhibitor",
-      "d": "ARB with thiazide",
-      "correct": "a",
-      "explanation": "Correct: Non-dihydropyridine CCB with beta blocker. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which statement about hypertensive emergency epidemiology is TRUE per the slide?",
-      "a": "Eclampsia accounts for ~20%",
-      "b": "Aortic dissection is the most common emergency",
-      "c": "Hypertensive emergencies are never neurologic",
-      "d": "Stroke and pulmonary edema are among the most common",
-      "correct": "d",
-      "explanation": "Correct: Stroke and pulmonary edema are among the most common. Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 148)"
-    },
-    {
-      "the qustion": "Which of the following is an indicated reason to perform ABPM?",
-      "a": "Assess peripheral edema",
-      "b": "Suspected white-coat or masked hypertension",
-      "c": "Measure body mass index",
-      "d": "Confirm normotension only",
-      "correct": "b",
-      "explanation": "Correct: Suspected white-coat or masked hypertension. ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 40)"
-    },
-    {
-      "the qustion": "Home BP monitoring protocol recommends:",
-      "a": "Single reading every morning",
-      "b": "Hourly readings",
-      "c": "Duplicate morning and evening readings for 7 days, discarding day 1",
-      "d": "Readings only before sleep",
-      "correct": "c",
-      "explanation": "Correct: Duplicate morning and evening readings for 7 days, discarding day 1. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
-    },
-    {
-      "the qustion": "Which new diagnosis approach is acceptable for elevated office BP without target organ damage?",
-      "a": "Immediate IV therapy",
-      "b": "Renal biopsy",
-      "c": "Out-of-office measurement or repeated office readings",
-      "d": "No follow-up necessary",
-      "correct": "c",
-      "explanation": "Correct: Out-of-office measurement or repeated office readings. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
-    },
-    {
-      "the qustion": "Which drug class pairing fits gingival hyperplasia risk?",
-      "a": "Losartan/valsartan (ARBs)",
-      "b": "Furosemide/bumetanide (loops)",
-      "c": "Lisinopril/ramipril (ACEIs)",
-      "d": "Amlodipine/verapamil (both CCBs)",
-      "correct": "d",
-      "explanation": "Correct: Amlodipine/verapamil (both CCBs). This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 72)"
-    },
-    {
-      "the qustion": "Which is the BEST initial pharmacologic choice favored in osteoporosis with hypertension?",
-      "a": "Alpha blocker",
-      "b": "Thiazide diuretic",
-      "c": "Loop diuretic",
-      "d": "Central alpha-2 agonist",
-      "correct": "b",
-      "explanation": "Correct: Thiazide diuretic. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which one is a common ACE inhibitor adverse effect requiring a switch?",
-      "a": "Dry cough",
-      "b": "Gingival hyperplasia",
-      "c": "Severe constipation",
-      "d": "Hypertrichosis",
-      "correct": "a",
-      "explanation": "Correct: Dry cough. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
-    },
-    {
-      "the qustion": "Which intervention is emphasized to avoid clinical inertia?",
-      "a": "Timely intensification and periodic reassessment",
-      "b": "Avoid SMBP",
-      "c": "Annual BP check only",
-      "d": "Delay adjustments indefinitely",
-      "correct": "a",
-      "explanation": "Correct: Timely intensification and periodic reassessment. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
-    },
-    {
-      "the qustion": "In pregnancy, which medication is generally considered safe for chronic hypertension?",
-      "a": "Ramipril",
-      "b": "Methyldopa",
-      "c": "Enalapril",
-      "d": "Aliskiren",
-      "correct": "b",
-      "explanation": "Correct: Methyldopa. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "Which statement about immediate-release nifedipine in pregnancy is correct?",
-      "a": "Preferred over long-acting formulations",
-      "b": "Required during labor",
-      "c": "Safe sublingually for chronic BP",
-      "d": "Not recommended due to risk of rapid hypotension",
-      "correct": "d",
-      "explanation": "Correct: Not recommended due to risk of rapid hypotension. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "Which agent can be used in pregnancy but may cause reflex tachycardia and fluid retention?",
-      "a": "Clonidine patch",
-      "b": "Aliskiren",
-      "c": "Hydralazine",
-      "d": "Spironolactone",
-      "correct": "c",
-      "explanation": "Correct: Hydralazine. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 161)"
-    },
-    {
-      "the qustion": "Which of the following drugs/classes is listed as a cause of secondary hypertension?",
-      "a": "Metformin",
-      "b": "Statins",
-      "c": "Proton pump inhibitors",
-      "d": "NSAIDs and corticosteroids",
-      "correct": "d",
-      "explanation": "Correct: NSAIDs and corticosteroids. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
-    },
-    {
-      "the qustion": "Which symptom cluster fits Cushing syndrome as a secondary cause?",
-      "a": "Episodic headache, palpitations, sweating",
-      "b": "Depression, weight gain, central obesity, easy bruising",
-      "c": "Heat intolerance, weight loss, tremor",
-      "d": "Cold intolerance, bradycardia, weight gain",
-      "correct": "b",
-      "explanation": "Correct: Depression, weight gain, central obesity, easy bruising. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
-    },
-    {
-      "the qustion": "Which is the MOST appropriate initial lifestyle advice for a sedentary patient with high sodium intake?",
-      "a": "No change needed",
-      "b": "Start herbal supplements",
-      "c": "Encourage regular physical activity and adopt DASH diet",
-      "d": "Begin high-protein ketogenic diet",
-      "correct": "c",
-      "explanation": "Correct: Encourage regular physical activity and adopt DASH diet. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
-    },
-    {
-      "the qustion": "Which statement about ACE inhibitors is TRUE?",
-      "a": "May increase potassium and creatinine",
-      "b": "Always safe in pregnancy",
-      "c": "Decrease potassium and cause hypokalemia",
-      "d": "Cause gingival hyperplasia",
-      "correct": "a",
-      "explanation": "Correct: May increase potassium and creatinine. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
-    },
-    {
-      "the qustion": "Which of the following is an appropriate indication to refer a patient with hypertension?",
-      "a": "Resistant hypertension",
-      "b": "New eczema",
-      "c": "Asymptomatic varicose veins",
-      "d": "BMI 24 kg/m²",
-      "correct": "a",
-      "explanation": "Correct: Resistant hypertension. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
-    },
-    {
-      "the qustion": "Which description best fits white-coat hypertension?",
-      "a": "Elevated clinic and elevated out-of-office BP",
-      "b": "Normal clinic with elevated out-of-office BP",
-      "c": "Normal clinic and normal out-of-office BP",
-      "d": "Elevated clinic BP with normal HBPM/ABPM",
-      "correct": "d",
-      "explanation": "Correct: Elevated clinic BP with normal HBPM/ABPM. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which description best fits masked hypertension?",
-      "a": "Elevated clinic and elevated out-of-office BP",
-      "b": "Elevated clinic BP with normal out-of-office BP",
-      "c": "Normal clinic and normal out-of-office BP",
-      "d": "Normal clinic BP with elevated out-of-office BP",
-      "correct": "d",
-      "explanation": "Correct: Normal clinic BP with elevated out-of-office BP. Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which is an appropriate first pharmacologic add-on for resistant hypertension after optimizing thiazide-like diuretic therapy?",
-      "a": "Hydralazine only",
-      "b": "Low-dose spironolactone",
-      "c": "Alpha blocker only",
-      "d": "Short-acting nifedipine",
-      "correct": "b",
-      "explanation": "Correct: Low-dose spironolactone. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which pair is correctly matched (thiazide-like diuretic → example)?",
-      "a": "Torsemide → thiazide-like",
-      "b": "Amiloride → thiazide-like",
-      "c": "Indapamide → thiazide-like",
-      "d": "Furosemide → thiazide-like",
-      "correct": "c",
-      "explanation": "Correct: Indapamide → thiazide-like. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
-    },
-    {
-      "the qustion": "Which of the following is a listed compelling indication for ACE inhibitor use?",
-      "a": "BPH only",
-      "b": "Acute gout",
-      "c": "Asthma",
-      "d": "Post-MI, DM, CKD, LV dysfunction",
-      "correct": "d",
-      "explanation": "Correct: Post-MI, DM, CKD, LV dysfunction. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which is a contraindication to non-dihydropyridine CCBs?",
-      "a": "Second- or third-degree AV block, or concurrent beta blocker in CHF",
-      "b": "Raynaud phenomenon",
-      "c": "Peripheral arterial disease",
-      "d": "Supraventricular tachycardia",
-      "correct": "a",
-      "explanation": "Correct: Second- or third-degree AV block, or concurrent beta blocker in CHF. Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which diuretic class is preferred to manage volume in CKD with HTN?",
-      "a": "Thiazide diuretics",
-      "b": "Loop diuretics",
-      "c": "Carbonic anhydrase inhibitors",
-      "d": "Osmotic diuretics",
-      "correct": "b",
-      "explanation": "Correct: Loop diuretics. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which best describes appropriate confirmation of elevated office BP (per JNC/USPSTF content on slide)?",
-      "a": "Only ABPM",
-      "b": "Single reading at one visit",
-      "c": "Only HBPM",
-      "d": "Initial visit plus 2 follow-ups with multiple readings",
-      "correct": "d",
-      "explanation": "Correct: Initial visit plus 2 follow-ups with multiple readings. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
-    },
-    {
-      "the qustion": "Which antihypertensive class pairing is MOST appropriate for African American patients initially (per JNC 8 summary on slide)?",
-      "a": "Thiazide or CCB",
-      "b": "BB only",
-      "c": "ACE inhibitor only",
-      "d": "ARB only",
-      "correct": "a",
-      "explanation": "Correct: Thiazide or CCB. Initial therapy often favors thiazide or CCB unless CKD/HF—then ACEi/ARB per indications. (Slide p. 158)"
-    },
-    {
-      "the qustion": "Which symptom set points to hyperthyroidism as a secondary HTN cause?",
-      "a": "Snoring, daytime sleepiness",
-      "b": "Heat intolerance, palpitations, weight loss",
-      "c": "Cold intolerance, weight gain",
-      "d": "Central obesity, easy bruising",
-      "correct": "b",
-      "explanation": "Correct: Heat intolerance, palpitations, weight loss. Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
-    },
-    {
-      "the qustion": "Which office vs out-of-office pattern defines white-coat hypertension risk profile on the slide?",
-      "a": "No relation to CVD risk",
-      "b": "Minimal to slightly increased CVD risk",
-      "c": "Dramatic risk reduction",
-      "d": "Increased CVD risk similar to sustained HTN",
-      "correct": "b",
-      "explanation": "Correct: Minimal to slightly increased CVD risk. White‑coat HTN has minimal to slightly increased CVD risk versus normotension; confirm and monitor. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which office vs out-of-office pattern defines masked hypertension risk profile on the slide?",
-      "a": "No relation to risk",
-      "b": "Lower risk than normotension",
-      "c": "Minimal risk",
-      "d": "Similar risk to sustained HTN",
-      "correct": "d",
-      "explanation": "Correct: Similar risk to sustained HTN. Masked HTN carries CVD risk similar to sustained HTN; actively detect and treat. (Slide p. 43)"
-    },
-    {
-      "the qustion": "Which is TRUE about dihydropyridine vs non-dihydropyridine CCBs regarding gingival hyperplasia?",
-      "a": "Only dihydropyridines cause it",
-      "b": "Neither class causes it",
-      "c": "Both classes can cause it",
-      "d": "Only non-dihydropyridines cause it",
-      "correct": "c",
-      "explanation": "Correct: Both classes can cause it. Both dihydropyridine and non‑dihydropyridine CCBs may cause gingival hyperplasia. (Slide p. 72)"
-    },
-    {
-      "the qustion": "Which is a listed modifiable risk factor for essential hypertension?",
-      "a": "Sex",
-      "b": "Excess dietary sodium",
-      "c": "Ethnicity",
-      "d": "Age",
-      "correct": "b",
-      "explanation": "Correct: Excess dietary sodium. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
-    },
-    {
-      "the qustion": "Which drug class is favored for a patient with osteoporosis and isolated systolic hypertension?",
-      "a": "Central alpha-2 agonist",
-      "b": "Loop diuretic",
-      "c": "Thiazide diuretic",
-      "d": "Direct renin inhibitor",
-      "correct": "c",
-      "explanation": "Correct: Thiazide diuretic. Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which is the MOST appropriate general step when treating resistant hypertension?",
-      "a": "Avoid checking for secondary causes",
-      "b": "Stop all meds temporarily",
-      "c": "Add low-dose spironolactone after optimizing diuretic",
-      "d": "Use short-acting nifedipine",
-      "correct": "c",
-      "explanation": "Correct: Add low-dose spironolactone after optimizing diuretic. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which pregnancy-safe agent is correctly paired with a caution?",
-      "a": "Labetalol — caution in asthma/heart disease/CHF",
-      "b": "Long-acting nifedipine — avoid due to hypotension risk",
-      "c": "ACE inhibitors — preferred",
-      "d": "Methyldopa — avoid due to poor safety profile",
-      "correct": "a",
-      "explanation": "Correct: Labetalol — caution in asthma/heart disease/CHF. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
-    },
-    {
-      "the qustion": "Which of the following is an indicated reason for specialist referral?",
-      "a": "Resistant HTN, suspected secondary HTN, or HTN emergency",
-      "b": "Mild prehypertension only",
-      "c": "Controlled BP on two agents",
-      "d": "Patient request alone",
-      "correct": "a",
-      "explanation": "Correct: Resistant HTN, suspected secondary HTN, or HTN emergency. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
-    },
-    {
-      "the qustion": "Which of the following agents/classes is most associated with cough and angioedema?",
-      "a": "Thiazides",
-      "b": "ACE inhibitors",
-      "c": "ARBs",
-      "d": "Dihydropyridine CCBs",
-      "correct": "b",
-      "explanation": "Correct: ACE inhibitors. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 78)"
-    },
-    {
-      "the qustion": "Which element is part of the DASH-style pattern emphasized on the slide?",
-      "a": "High saturated fat",
-      "b": "Zero carbohydrates",
-      "c": "Fruits, vegetables, whole grains, low-fat dairy",
-      "d": "High red meat and sweets",
-      "correct": "c",
-      "explanation": "Correct: Fruits, vegetables, whole grains, low-fat dairy. DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
-    },
-    {
-      "the qustion": "Which of the following drugs can contribute to secondary hypertension?",
-      "a": "Metformin and statins",
-      "b": "Oral contraceptives and NSAIDs",
-      "c": "Antihistamines only",
-      "d": "GLP-1 agonists",
-      "correct": "b",
-      "explanation": "Correct: Oral contraceptives and NSAIDs. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
-    },
-    {
-      "the qustion": "Which combination is a compelling indication pairing for ARBs similar to ACEIs?",
-      "a": "DM, CKD, LV dysfunction, post-MI",
-      "b": "Only migraine",
-      "c": "Only BPH",
-      "d": "Only Raynaud",
-      "correct": "a",
-      "explanation": "Correct: DM, CKD, LV dysfunction, post-MI. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which is the BEST answer about HBPM protocol timing?",
-      "a": "Random readings at work",
-      "b": "Nighttime only",
-      "c": "Twice daily (morning/evening), duplicate readings, 7 days, discard day 1",
-      "d": "Only once weekly",
-      "correct": "c",
-      "explanation": "Correct: Twice daily (morning/evening), duplicate readings, 7 days, discard day 1. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
-    },
-    {
-      "the qustion": "Which of the following is the BEST lifestyle recommendation to pair with meds in a sedentary, high-sodium diet patient?",
-      "a": "No changes needed",
-      "b": "Begin high-protein keto diet",
-      "c": "Use mineral supplements only",
-      "d": "Adopt DASH diet and increase regular activity",
-      "correct": "d",
-      "explanation": "Correct: Adopt DASH diet and increase regular activity. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
-    },
-    {
-      "the qustion": "Which definition correctly describes hypertensive urgency?",
-      "a": "Any BP ≥140/90",
-      "b": "Severe BP with end-organ damage",
-      "c": "BP ≥160/100 with symptoms",
-      "d": ">180/120 mmHg without acute end-organ damage",
-      "correct": "d",
-      "explanation": "Correct: >180/120 mmHg without acute end-organ damage. Hypertensive urgency = severe BP without acute end‑organ damage; adjust oral therapy. (Slide p. 147)"
-    },
-    {
-      "the qustion": "Which definition correctly describes hypertensive emergency?",
-      "a": "SBP ≥140 with DBP <90",
-      "b": ">180/120 mmHg with acute end-organ damage",
-      "c": "Any BP ≥180/100 without damage",
-      "d": "Normal BP with headache",
-      "correct": "b",
-      "explanation": "Correct: >180/120 mmHg with acute end-organ damage. Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 147)"
-    },
-    {
-      "the qustion": "Which is a practical next step when BP remains above goal after appropriate therapy and work-up?",
-      "a": "Refer to a specialist after ~6 months uncontrolled",
-      "b": "Stop diuretics early",
-      "c": "Add herbal mixtures",
-      "d": "Delay changes 12 months",
-      "correct": "a",
-      "explanation": "Correct: Refer to a specialist after ~6 months uncontrolled. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 145)"
-    },
-    {
-      "the qustion": "Which set of thiazide(-like) examples appears on the slide?",
-      "a": "Acetazolamide, mannitol, urea",
-      "b": "Furosemide, torsemide, bumetanide",
-      "c": "Spironolactone, eplerenone, amiloride",
-      "d": "Hydrochlorothiazide, chlorthalidone, indapamide",
-      "correct": "d",
-      "explanation": "Correct: Hydrochlorothiazide, chlorthalidone, indapamide. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
-    },
-    {
-      "the qustion": "Which patient factor favors initiating thiazide or CCB as first-line (per JNC 8 African American guidance on slide)?",
-      "a": "Active gout",
-      "b": "African American ethnicity without CKD/HF",
-      "c": "Bilateral renal artery stenosis",
-      "d": "History of ACEI cough but CKD present",
-      "correct": "b",
-      "explanation": "Correct: African American ethnicity without CKD/HF. DHP CCBs lower BP via vasodilation; watch for edema and reflex tachycardia. (Slide p. 158)"
-    },
-    {
-      "the qustion": "Which screening is reasonable in a patient with suspected primary aldosteronism?",
-      "a": "D-dimer",
-      "b": "TSH only",
-      "c": "ANA",
-      "d": "Aldosterone-to-renin ratio",
-      "correct": "d",
-      "explanation": "Correct: Aldosterone-to-renin ratio. Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 143)"
-    },
-    {
-      "the qustion": "Which is the MOST appropriate reason to choose a loop diuretic over thiazide in HTN management?",
-      "a": "Preference only",
-      "b": "CKD with volume overload",
-      "c": "Prevention of gout",
-      "d": "Need for potassium sparing",
-      "correct": "b",
-      "explanation": "Correct: CKD with volume overload. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
-    },
-    {
-      "the qustion": "Which patient characteristic favors an alpha-blocker as add-on therapy?",
-      "a": "Migraine prophylaxis",
-      "b": "Active peptic ulcer disease",
-      "c": "Benign prostatic hyperplasia",
-      "d": "Chronic urticaria",
-      "correct": "c",
-      "explanation": "Correct: Benign prostatic hyperplasia. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which adverse effect is most associated with alpha-blockers in hypertension management?",
-      "a": "Hyperkalemia",
-      "b": "Constipation",
-      "c": "Orthostatic hypotension",
-      "d": "Dry cough",
-      "correct": "c",
-      "explanation": "Correct: Orthostatic hypotension. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which rhythm indication favors non-dihydropyridine CCBs (when not contraindicated)?",
-      "a": "Sinus bradycardia",
-      "b": "Atrial standstill",
-      "c": "Supraventricular tachycardia",
-      "d": "Ventricular fibrillation",
-      "correct": "c",
-      "explanation": "Correct: Supraventricular tachycardia. Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which comorbidity often cautions against nonselective beta blocker initiation?",
-      "a": "GERD",
-      "b": "Asthma with bronchospasm",
-      "c": "Vitamin D deficiency",
-      "d": "Iron deficiency anemia",
-      "correct": "b",
-      "explanation": "Correct: Asthma with bronchospasm. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
-    },
-    {
-      "the qustion": "Which is an additional ABPM indication listed on the slide besides white-coat/masked HTN?",
-      "a": "Screening for anemia",
-      "b": "Diagnosing diabetes",
-      "c": "Suspected episodic hypertension",
-      "d": "Assessing sodium intake directly",
-      "correct": "c",
-      "explanation": "Correct: Suspected episodic hypertension. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 40)"
-    },
-    {
-      "the qustion": "Which set includes modifiable risk factors for essential hypertension?",
-      "a": "Left-handedness, eye color",
-      "b": "Family history, age, sex",
-      "c": "Obesity, excess sodium, sedentary lifestyle, alcohol",
-      "d": "Age, sex, ethnicity",
-      "correct": "c",
-      "explanation": "Correct: Obesity, excess sodium, sedentary lifestyle, alcohol. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
-    },
-    {
-      "the qustion": "Which out-of-office strategy is RECOMMENDED to confirm diagnosis before treatment per USPSTF?",
-      "a": "Echocardiogram for all",
-      "b": "Sleep study for all",
-      "c": "Coronary angiography",
-      "d": "HBPM and/or ABPM",
-      "correct": "d",
-      "explanation": "Correct: HBPM and/or ABPM. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
-    },
-    {
-      "the qustion": "Which BP pattern warrants out-of-office confirmation or serial office visits according to the slide?",
-      "a": "Normal office BP <120/80",
-      "b": "Any normal home BP",
-      "c": "Elevated office BP ≥130/80 without target organ damage",
-      "d": "Only BP ≥200/120",
-      "correct": "c",
-      "explanation": "Correct: Elevated office BP ≥130/80 without target organ damage. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
-    },
-    {
-      "the qustion": "Which medication class is explicitly listed as contraindicated in pregnancy on the slide?",
-      "a": "Long-acting nifedipine",
-      "b": "Hydralazine",
-      "c": "ACE inhibitors/ARBs",
-      "d": "Thiazides",
-      "correct": "c",
-      "explanation": "Correct: ACE inhibitors/ARBs. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 114)"
-    },
-    {
-      "the qustion": "Which diuretic list contains thiazide(-like) examples shown on the slide?",
-      "a": "Hydrochlorothiazide, chlorthalidone, indapamide",
-      "b": "Mannitol, urea, glycerol",
-      "c": "Furosemide, torsemide, bumetanide",
-      "d": "Spironolactone, eplerenone, amiloride",
-      "correct": "a",
-      "explanation": "Correct: Hydrochlorothiazide, chlorthalidone, indapamide. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
-    }
-  ]
-}
+[
+  {
+    "the qustion": "Confirming hypertension should include out-of-office measurements before starting treatment when feasible.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Home BP values ≥135/85 mmHg are considered elevated.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
+  },
+  {
+    "the qustion": "On ABPM, daytime mean >135/85 mmHg and nighttime mean >125/75 mmHg support a diagnosis of hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
+  },
+  {
+    "the qustion": "Masked hypertension has cardiovascular risk similar to sustained hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Masked HTN carries CVD risk similar to sustained HTN; actively detect and treat. (Slide p. 43)"
+  },
+  {
+    "the qustion": "White-coat hypertension carries minimal to slightly increased cardiovascular risk compared with normotension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — White‑coat HTN has minimal to slightly increased CVD risk versus normotension; confirm and monitor. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Hypertensive urgency is severe BP elevation with acute end-organ damage.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — Hypertensive urgency = severe BP without acute end‑organ damage; adjust oral therapy. (Slide p. 147)"
+  },
+  {
+    "the qustion": "Hypertensive emergency is severe BP elevation with evidence of acute end-organ damage.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 147)"
+  },
+  {
+    "the qustion": "Isolated systolic hypertension is defined as SBP ≥140 mmHg with DBP <90 mmHg.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Isolated diastolic hypertension is defined as SBP <140 mmHg with DBP >90 mmHg.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Isolated diastolic HTN: DBP elevated with normal SBP; monitor and treat by overall risk. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Primary (essential) hypertension accounts for the clear minority of cases.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 13)"
+  },
+  {
+    "the qustion": "Secondary hypertension accounts for roughly 5–10% of cases and can be potentially reversible.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 15)"
+  },
+  {
+    "the qustion": "Obesity, excess alcohol, and high sodium intake promote the development of essential hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Limit alcohol; moderation is part of BP control. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Smoking is a non-modifiable risk factor for hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
+  },
+  {
+    "the qustion": "DASH eating pattern emphasizes fruits, vegetables, whole grains, and low-fat dairy, with reduced saturated fat.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
+  },
+  {
+    "the qustion": "Routine supplementation with potassium, calcium, and magnesium is recommended to prevent hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 64)"
+  },
+  {
+    "the qustion": "In patients with elevated office BP (e.g., ≥130/80), diagnosis may be confirmed with out-of-office measurements or repeated office visits.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
+  },
+  {
+    "the qustion": "USPSTF recommends confirming elevated office BP with measurements outside the clinic before treatment.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "ACE inhibitors are contraindicated in pregnancy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACE inhibitors/ARBs are teratogenic; avoid in pregnancy and switch to safer agents. (Slide p. 79)"
+  },
+  {
+    "the qustion": "ACE inhibitors commonly cause cough and can cause angioedema.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 78)"
+  },
+  {
+    "the qustion": "ARBs are a reasonable alternative in ACE-inhibitor–induced cough, when otherwise appropriate.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 73)"
+  },
+  {
+    "the qustion": "Both dihydropyridine and non-dihydropyridine CCBs can cause gingival hyperplasia.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Both dihydropyridine and non‑dihydropyridine CCBs may cause gingival hyperplasia. (Slide p. 72)"
+  },
+  {
+    "the qustion": "Thiazide diuretics may be favorable in osteoporosis and in isolated systolic hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Thiazide diuretics are contraindicated in gout or significant hyponatremia.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Avoid or use caution with thiazides in gout or significant hyponatremia. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Spironolactone may be useful for resistant hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Add low‑dose spironolactone for resistant HTN after optimizing a thiazide‑like diuretic. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Loop diuretics are preferred in CKD for volume control and BP management.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Loop diuretics are preferred for volume control in CKD; thiazides lose efficacy with low GFR. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Evaluate resistant hypertension for secondary causes such as primary aldosteronism, CKD, renal artery stenosis, pheochromocytoma, and OSA.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 143)"
+  },
+  {
+    "the qustion": "Obstructive sleep apnea is a recognized secondary cause of hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 18)"
+  },
+  {
+    "the qustion": "Methyldopa has an established safety profile for use in pregnancy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "ACE inhibitors and ARBs are acceptable first-line options during pregnancy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — ACE inhibitors/ARBs are teratogenic; avoid in pregnancy and switch to safer agents. (Slide p. 114)"
+  },
+  {
+    "the qustion": "In African American patients without CKD/HF, initial therapy often includes a thiazide diuretic or a CCB.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — DHP CCBs lower BP via vasodilation; watch for edema and reflex tachycardia. (Slide p. 158)"
+  },
+  {
+    "the qustion": "ACEi/ARB are still recommended in CKD or heart failure regardless of race.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
+  },
+  {
+    "the qustion": "Bilateral renal artery stenosis is a contraindication to ACE inhibitors and ARBs.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Pheochromocytoma can present with episodic headache, diaphoresis, palpitations, and hypertension.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Pheochromocytoma causes episodic headache, palpitations, sweating with hypertension. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Primary aldosteronism may present with nocturia and paresthesias due to hypokalemia.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 18)"
+  },
+  {
+    "the qustion": "Hypothyroidism is associated with lethargy, constipation, weight gain, and depression.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
+  },
+  {
+    "the qustion": "Hyperthyroidism may present with heat intolerance, sweating, palpitations, and weight loss.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
+  },
+  {
+    "the qustion": "Immediate-release or sublingual nifedipine is recommended in pregnancy for chronic BP control.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "Hydralazine can be used in pregnancy but may cause reflex tachycardia and fluid retention.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 161)"
+  },
+  {
+    "the qustion": "Thiazide diuretics may be continued in pregnancy for women who were taking them prior to conception, per some guidance.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 161)"
+  },
+  {
+    "the qustion": "Hypertensive emergencies most commonly include presentations like acute stroke and pulmonary edema in classification studies.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 148)"
+  },
+  {
+    "the qustion": "Eclampsia and aortic dissection are among the least common hypertensive emergencies.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 148)"
+  },
+  {
+    "the qustion": "Lifestyle modification, including diet and activity changes, is a core part of hypertension management.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
+  },
+  {
+    "the qustion": "High sodium intake is unrelated to blood pressure.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 14)"
+  },
+  {
+    "the qustion": "Regular aerobic exercise has no role in BP reduction.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — Regular aerobic activity lowers BP and improves cardiometabolic health. (Slide p. 59)"
+  },
+  {
+    "the qustion": "Alcohol moderation is part of non-pharmacological BP control.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Limit alcohol; moderation is part of BP control. (Slide p. 51)"
+  },
+  {
+    "the qustion": "Home BP monitoring should use duplicate morning and evening measurements over 7 days, excluding the first day.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
+  },
+  {
+    "the qustion": "On ABPM, measurements are taken every 15–30 minutes when awake and 30–60 minutes during sleep.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
+  },
+  {
+    "the qustion": "Delaying therapy intensification is encouraged even when BP remains above target.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
+  },
+  {
+    "the qustion": "Non-dihydropyridine CCBs may be contraindicated in systolic heart failure and when combined with beta blockers.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Beta blockers are particularly favored post–myocardial infarction and for angina.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "ACE inhibitors can increase serum creatinine; a rise >30% warrants re-evaluation or discontinuation.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACEi/ARB can raise creatinine and potassium; monitor and re‑evaluate if creatinine rises >30%. (Slide p. 78)"
+  },
+  {
+    "the qustion": "ACE inhibitors tend to lower potassium.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — ACEi/ARB can raise creatinine and potassium; monitor and re‑evaluate if creatinine rises >30%. (Slide p. 78)"
+  },
+  {
+    "the qustion": "DASH diet ensures adequate potassium, magnesium, and calcium from foods rather than supplements.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
+  },
+  {
+    "the qustion": "Masked hypertension is defined by high office BP and normal out-of-office BP.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
+  },
+  {
+    "the qustion": "White-coat hypertension is diagnosed when out-of-office BP is normal despite elevated clinic BP.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Referral is appropriate for suspected secondary hypertension or persistent uncontrolled BP despite therapy.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
+  },
+  {
+    "the qustion": "Loop diuretics are first-line agents for all newly diagnosed uncomplicated hypertension cases.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Resistant hypertension often requires a thiazide-like diuretic at optimal dose before adding other agents.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
+  },
+  {
+    "the qustion": "In African American patients, thiazide diuretics were more effective than ACE inhibitors for improving heart failure and cardiovascular outcomes in ALLHAT.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
+  },
+  {
+    "the qustion": "In African American patients, CCBs were more effective than ACE inhibitors for reducing strokes.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 158)"
+  },
+  {
+    "the qustion": "Which out-of-office threshold is used to define elevated home blood pressure (HBPM)?",
+    "a": "≥130/80 mmHg",
+    "b": "≥140/90 mmHg",
+    "c": "≥125/75 mmHg",
+    "d": "≥135/85 mmHg",
+    "correct": "d",
+    "explanation": "Correct: ≥135/85 mmHg. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
+  },
+  {
+    "the qustion": "For ABPM, which mean values support a diagnosis of hypertension?",
+    "a": "Daytime >125/75 and Night >135/85",
+    "b": "Daytime >140/90 and Night >130/80",
+    "c": "Daytime >130/80 and Night >120/70",
+    "d": "Daytime >135/85 and Night >125/75",
+    "correct": "d",
+    "explanation": "Correct: Daytime >135/85 and Night >125/75. ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 42)"
+  },
+  {
+    "the qustion": "Which statement best describes masked hypertension?",
+    "a": "High office and high out-of-office BP",
+    "b": "Normal office and normal out-of-office BP",
+    "c": "Normal office BP, high out-of-office BP",
+    "d": "High office BP, normal out-of-office BP",
+    "correct": "c",
+    "explanation": "Correct: Normal office BP, high out-of-office BP. Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which is TRUE about white-coat hypertension?",
+    "a": "Normal office and normal out-of-office BP",
+    "b": "High office BP, normal out-of-office BP",
+    "c": "Normal office BP, high out-of-office BP",
+    "d": "High office and high out-of-office BP",
+    "correct": "b",
+    "explanation": "Correct: High office BP, normal out-of-office BP. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which finding distinguishes hypertensive emergency from urgency?",
+    "a": "Systolic BP >160 mmHg",
+    "b": "Presence of acute end-organ damage",
+    "c": "Headache",
+    "d": "Tachycardia",
+    "correct": "b",
+    "explanation": "Correct: Presence of acute end-organ damage. Emergencies have acute end‑organ damage; urgencies do not. Treat accordingly. (Slide p. 147)"
+  },
+  {
+    "the qustion": "Which definition matches isolated systolic hypertension?",
+    "a": "SBP <140 with DBP >90 mmHg",
+    "b": "SBP <120 with DBP <80 mmHg",
+    "c": "SBP ≥130 with DBP ≥80 mmHg",
+    "d": "SBP ≥140 with DBP <90 mmHg",
+    "correct": "d",
+    "explanation": "Correct: SBP ≥140 with DBP <90 mmHg. Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which of the following is a modifiable risk factor for essential hypertension?",
+    "a": "Excess dietary sodium",
+    "b": "Male sex",
+    "c": "Age",
+    "d": "Family history",
+    "correct": "a",
+    "explanation": "Correct: Excess dietary sodium. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
+  },
+  {
+    "the qustion": "Which lifestyle pattern is emphasized for BP lowering?",
+    "a": "High red meat and saturated fat",
+    "b": "DASH diet rich in fruits, vegetables, low-fat dairy",
+    "c": "High-protein ketogenic diet",
+    "d": "Juice-only diet",
+    "correct": "b",
+    "explanation": "Correct: DASH diet rich in fruits, vegetables, low-fat dairy. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
+  },
+  {
+    "the qustion": "What is the recommendation regarding routine mineral supplementation for BP prevention?",
+    "a": "Supplement only K",
+    "b": "Routinely supplement K, Ca, Mg",
+    "c": "Use Ca and Mg only",
+    "d": "Not recommended routinely due to insufficient evidence",
+    "correct": "d",
+    "explanation": "Correct: Not recommended routinely due to insufficient evidence. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 64)"
+  },
+  {
+    "the qustion": "According to USPSTF, how should elevated clinic BP be confirmed before initiating treatment?",
+    "a": "By CT angiography",
+    "b": "With invasive arterial line monitoring",
+    "c": "By repeating BP after 12 months",
+    "d": "With out-of-office BP measurements",
+    "correct": "d",
+    "explanation": "Correct: With out-of-office BP measurements. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "A patient has elevated office BP (≥130/80) with no end-organ damage. What is an acceptable diagnostic approach?",
+    "a": "24-hour urine sodium only",
+    "b": "Start therapy immediately without confirmation",
+    "c": "Out-of-office BP measurement or repeated office readings over 3 visits",
+    "d": "Perform renal biopsy",
+    "correct": "c",
+    "explanation": "Correct: Out-of-office BP measurement or repeated office readings over 3 visits. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
+  },
+  {
+    "the qustion": "Which drug class is contraindicated in pregnancy?",
+    "a": "Labetalol",
+    "b": "ACE inhibitors",
+    "c": "Methyldopa",
+    "d": "Long-acting nifedipine",
+    "correct": "b",
+    "explanation": "Correct: ACE inhibitors. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which agent has an established safety profile in pregnancy for chronic hypertension?",
+    "a": "Enalapril",
+    "b": "Ramipril",
+    "c": "Aliskiren",
+    "d": "Methyldopa",
+    "correct": "d",
+    "explanation": "Correct: Methyldopa. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "In pregnancy, which formulation is NOT recommended due to risk of rapid hypotension?",
+    "a": "Long-acting nifedipine",
+    "b": "Methyldopa",
+    "c": "Immediate-release/sub-lingual nifedipine",
+    "d": "Labetalol",
+    "correct": "c",
+    "explanation": "Correct: Immediate-release/sub-lingual nifedipine. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "Which adverse effect is commonly associated with ACE inhibitors?",
+    "a": "Hirsutism",
+    "b": "Severe constipation",
+    "c": "Dry cough",
+    "d": "Gingival hyperplasia",
+    "correct": "c",
+    "explanation": "Correct: Dry cough. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
+  },
+  {
+    "the qustion": "If a patient develops ACE-inhibitor–induced cough, which change is most appropriate?",
+    "a": "Increase ACE inhibitor dose",
+    "b": "Add a loop diuretic",
+    "c": "Start clonidine",
+    "d": "Switch to an ARB",
+    "correct": "d",
+    "explanation": "Correct: Switch to an ARB. ACE inhibitors commonly cause cough and can cause angioedema; ARBs are alternatives if cough occurs. (Slide p. 73)"
+  },
+  {
+    "the qustion": "Which classes can cause gingival hyperplasia?",
+    "a": "Loop diuretics",
+    "b": "ACE inhibitors only",
+    "c": "ARBs only",
+    "d": "Both dihydropyridine and non-dihydropyridine CCBs",
+    "correct": "d",
+    "explanation": "Correct: Both dihydropyridine and non-dihydropyridine CCBs. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 72)"
+  },
+  {
+    "the qustion": "Which pair is CORRECT regarding thiazide diuretics?",
+    "a": "Contraindicated in osteoporosis",
+    "b": "Cause hyperkalemia",
+    "c": "May be useful in isolated systolic HTN",
+    "d": "Favored in gout",
+    "correct": "c",
+    "explanation": "Correct: May be useful in isolated systolic HTN. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which is a contraindication to ACE inhibitor or ARB therapy?",
+    "a": "Type 2 diabetes",
+    "b": "Obesity",
+    "c": "Bilateral renal artery stenosis",
+    "d": "Dyslipidemia",
+    "correct": "c",
+    "explanation": "Correct: Bilateral renal artery stenosis. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which condition is an indication favoring beta blockers?",
+    "a": "Peripheral vasospasm",
+    "b": "Post–myocardial infarction",
+    "c": "Severe asthma",
+    "d": "First-degree heart block",
+    "correct": "b",
+    "explanation": "Correct: Post–myocardial infarction. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which nonpharmacologic intervention typically yields the greatest SBP reduction among options listed in the slide example?",
+    "a": "Losing 3–4 kg only",
+    "b": "Exercise alone",
+    "c": "Alcohol moderation",
+    "d": "DASH eating plan",
+    "correct": "d",
+    "explanation": "Correct: DASH eating plan. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 59)"
+  },
+  {
+    "the qustion": "Which combination is MOST appropriate initial therapy in African American patients without CKD/HF?",
+    "a": "Alpha blocker",
+    "b": "ACE inhibitor",
+    "c": "Thiazide diuretic or CCB",
+    "d": "ARB",
+    "correct": "c",
+    "explanation": "Correct: Thiazide diuretic or CCB. Initial therapy often favors thiazide or CCB unless CKD/HF—then ACEi/ARB per indications. (Slide p. 158)"
+  },
+  {
+    "the qustion": "Which class is recommended in CKD with hypertension for renal protection?",
+    "a": "Alpha blocker",
+    "b": "Short-acting nifedipine",
+    "c": "Beta-2 agonist",
+    "d": "ACE inhibitor or ARB",
+    "correct": "d",
+    "explanation": "Correct: ACE inhibitor or ARB. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which presentation suggests pheochromocytoma as a secondary cause?",
+    "a": "Episodic headaches, palpitations, diaphoresis",
+    "b": "Hair loss and cold intolerance",
+    "c": "Bradycardia and constipation",
+    "d": "Polyuria with nocturia only",
+    "correct": "a",
+    "explanation": "Correct: Episodic headaches, palpitations, diaphoresis. Pheochromocytoma causes episodic headache, palpitations, sweating with hypertension. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Primary aldosteronism screening involves which test?",
+    "a": "Aldosterone-to-renin ratio",
+    "b": "24-hour urine cortisol only",
+    "c": "Thyroid-stimulating hormone only",
+    "d": "Plasma metanephrines only",
+    "correct": "a",
+    "explanation": "Correct: Aldosterone-to-renin ratio. Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 143)"
+  },
+  {
+    "the qustion": "Which finding raises suspicion for renal artery stenosis?",
+    "a": "Athlete with bradycardia",
+    "b": "Patient with eczema",
+    "c": "Elderly with isolated systolic HTN",
+    "d": "Young female with refractory HTN",
+    "correct": "d",
+    "explanation": "Correct: Young female with refractory HTN. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 143)"
+  },
+  {
+    "the qustion": "Which symptom cluster suggests obstructive sleep apnea contributing to HTN?",
+    "a": "Dry cough after ACE inhibitor",
+    "b": "Snoring, witnessed apneas, excessive daytime sleepiness",
+    "c": "Polyuria and polydipsia",
+    "d": "Night sweats and weight loss",
+    "correct": "b",
+    "explanation": "Correct: Snoring, witnessed apneas, excessive daytime sleepiness. OSA contributes to HTN; screen with symptoms (snoring, apneas, daytime sleepiness). (Slide p. 143)"
+  },
+  {
+    "the qustion": "Which is an appropriate step in resistant hypertension management?",
+    "a": "Use beta blocker alone",
+    "b": "Add low-dose spironolactone",
+    "c": "Stop all diuretics",
+    "d": "Avoid referral",
+    "correct": "b",
+    "explanation": "Correct: Add low-dose spironolactone. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which diuretic strategy is preferred in CKD with hypertension?",
+    "a": "Loop diuretic for volume control",
+    "b": "No diuretics",
+    "c": "High-dose thiazide only",
+    "d": "Potassium-sparing diuretic only",
+    "correct": "a",
+    "explanation": "Correct: Loop diuretic for volume control. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which is the BEST next step when BP remains uncontrolled after thorough optimization and evaluation?",
+    "a": "Wait 6–12 months",
+    "b": "Refer to a hypertension specialist",
+    "c": "Add herbal supplements",
+    "d": "Stop all drugs",
+    "correct": "b",
+    "explanation": "Correct: Refer to a hypertension specialist. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 145)"
+  },
+  {
+    "the qustion": "Which pair correctly matches a thiazide(-like) diuretic example?",
+    "a": "Chlorthalidone — thiazide(-like)",
+    "b": "Hydrochlorothiazide — loop diuretic",
+    "c": "Furosemide — thiazide",
+    "d": "Amiloride — thiazide",
+    "correct": "a",
+    "explanation": "Correct: Chlorthalidone — thiazide(-like). Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
+  },
+  {
+    "the qustion": "Which class is favored in post-MI patients with hypertension (per compelling indications)?",
+    "a": "Direct vasodilators only",
+    "b": "Alpha blockers only",
+    "c": "Dihydropyridine CCBs only",
+    "d": "Beta blockers and ACE inhibitors",
+    "correct": "d",
+    "explanation": "Correct: Beta blockers and ACE inhibitors. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which combination should generally be avoided due to risk of heart block/worsening HF?",
+    "a": "Non-dihydropyridine CCB with beta blocker",
+    "b": "CCB with thiazide",
+    "c": "Thiazide with ACE inhibitor",
+    "d": "ARB with thiazide",
+    "correct": "a",
+    "explanation": "Correct: Non-dihydropyridine CCB with beta blocker. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which statement about hypertensive emergency epidemiology is TRUE per the slide?",
+    "a": "Eclampsia accounts for ~20%",
+    "b": "Aortic dissection is the most common emergency",
+    "c": "Hypertensive emergencies are never neurologic",
+    "d": "Stroke and pulmonary edema are among the most common",
+    "correct": "d",
+    "explanation": "Correct: Stroke and pulmonary edema are among the most common. Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 148)"
+  },
+  {
+    "the qustion": "Which of the following is an indicated reason to perform ABPM?",
+    "a": "Assess peripheral edema",
+    "b": "Suspected white-coat or masked hypertension",
+    "c": "Measure body mass index",
+    "d": "Confirm normotension only",
+    "correct": "b",
+    "explanation": "Correct: Suspected white-coat or masked hypertension. ABPM uses daytime and nighttime means; helpful for white‑coat/masked HTN and nocturnal patterns. (Slide p. 40)"
+  },
+  {
+    "the qustion": "Home BP monitoring protocol recommends:",
+    "a": "Single reading every morning",
+    "b": "Hourly readings",
+    "c": "Duplicate morning and evening readings for 7 days, discarding day 1",
+    "d": "Readings only before sleep",
+    "correct": "c",
+    "explanation": "Correct: Duplicate morning and evening readings for 7 days, discarding day 1. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
+  },
+  {
+    "the qustion": "Which new diagnosis approach is acceptable for elevated office BP without target organ damage?",
+    "a": "Immediate IV therapy",
+    "b": "Renal biopsy",
+    "c": "Out-of-office measurement or repeated office readings",
+    "d": "No follow-up necessary",
+    "correct": "c",
+    "explanation": "Correct: Out-of-office measurement or repeated office readings. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
+  },
+  {
+    "the qustion": "Which drug class pairing fits gingival hyperplasia risk?",
+    "a": "Losartan/valsartan (ARBs)",
+    "b": "Furosemide/bumetanide (loops)",
+    "c": "Lisinopril/ramipril (ACEIs)",
+    "d": "Amlodipine/verapamil (both CCBs)",
+    "correct": "d",
+    "explanation": "Correct: Amlodipine/verapamil (both CCBs). This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 72)"
+  },
+  {
+    "the qustion": "Which is the BEST initial pharmacologic choice favored in osteoporosis with hypertension?",
+    "a": "Alpha blocker",
+    "b": "Thiazide diuretic",
+    "c": "Loop diuretic",
+    "d": "Central alpha-2 agonist",
+    "correct": "b",
+    "explanation": "Correct: Thiazide diuretic. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which one is a common ACE inhibitor adverse effect requiring a switch?",
+    "a": "Dry cough",
+    "b": "Gingival hyperplasia",
+    "c": "Severe constipation",
+    "d": "Hypertrichosis",
+    "correct": "a",
+    "explanation": "Correct: Dry cough. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
+  },
+  {
+    "the qustion": "Which intervention is emphasized to avoid clinical inertia?",
+    "a": "Timely intensification and periodic reassessment",
+    "b": "Avoid SMBP",
+    "c": "Annual BP check only",
+    "d": "Delay adjustments indefinitely",
+    "correct": "a",
+    "explanation": "Correct: Timely intensification and periodic reassessment. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 56)"
+  },
+  {
+    "the qustion": "In pregnancy, which medication is generally considered safe for chronic hypertension?",
+    "a": "Ramipril",
+    "b": "Methyldopa",
+    "c": "Enalapril",
+    "d": "Aliskiren",
+    "correct": "b",
+    "explanation": "Correct: Methyldopa. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "Which statement about immediate-release nifedipine in pregnancy is correct?",
+    "a": "Preferred over long-acting formulations",
+    "b": "Required during labor",
+    "c": "Safe sublingually for chronic BP",
+    "d": "Not recommended due to risk of rapid hypotension",
+    "correct": "d",
+    "explanation": "Correct: Not recommended due to risk of rapid hypotension. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "Which agent can be used in pregnancy but may cause reflex tachycardia and fluid retention?",
+    "a": "Clonidine patch",
+    "b": "Aliskiren",
+    "c": "Hydralazine",
+    "d": "Spironolactone",
+    "correct": "c",
+    "explanation": "Correct: Hydralazine. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 161)"
+  },
+  {
+    "the qustion": "Which of the following drugs/classes is listed as a cause of secondary hypertension?",
+    "a": "Metformin",
+    "b": "Statins",
+    "c": "Proton pump inhibitors",
+    "d": "NSAIDs and corticosteroids",
+    "correct": "d",
+    "explanation": "Correct: NSAIDs and corticosteroids. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Which symptom cluster fits Cushing syndrome as a secondary cause?",
+    "a": "Episodic headache, palpitations, sweating",
+    "b": "Depression, weight gain, central obesity, easy bruising",
+    "c": "Heat intolerance, weight loss, tremor",
+    "d": "Cold intolerance, bradycardia, weight gain",
+    "correct": "b",
+    "explanation": "Correct: Depression, weight gain, central obesity, easy bruising. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Which is the MOST appropriate initial lifestyle advice for a sedentary patient with high sodium intake?",
+    "a": "No change needed",
+    "b": "Start herbal supplements",
+    "c": "Encourage regular physical activity and adopt DASH diet",
+    "d": "Begin high-protein ketogenic diet",
+    "correct": "c",
+    "explanation": "Correct: Encourage regular physical activity and adopt DASH diet. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
+  },
+  {
+    "the qustion": "Which statement about ACE inhibitors is TRUE?",
+    "a": "May increase potassium and creatinine",
+    "b": "Always safe in pregnancy",
+    "c": "Decrease potassium and cause hypokalemia",
+    "d": "Cause gingival hyperplasia",
+    "correct": "a",
+    "explanation": "Correct: May increase potassium and creatinine. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 78)"
+  },
+  {
+    "the qustion": "Which of the following is an appropriate indication to refer a patient with hypertension?",
+    "a": "Resistant hypertension",
+    "b": "New eczema",
+    "c": "Asymptomatic varicose veins",
+    "d": "BMI 24 kg/m²",
+    "correct": "a",
+    "explanation": "Correct: Resistant hypertension. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
+  },
+  {
+    "the qustion": "Which description best fits white-coat hypertension?",
+    "a": "Elevated clinic and elevated out-of-office BP",
+    "b": "Normal clinic with elevated out-of-office BP",
+    "c": "Normal clinic and normal out-of-office BP",
+    "d": "Elevated clinic BP with normal HBPM/ABPM",
+    "correct": "d",
+    "explanation": "Correct: Elevated clinic BP with normal HBPM/ABPM. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which description best fits masked hypertension?",
+    "a": "Elevated clinic and elevated out-of-office BP",
+    "b": "Elevated clinic BP with normal out-of-office BP",
+    "c": "Normal clinic and normal out-of-office BP",
+    "d": "Normal clinic BP with elevated out-of-office BP",
+    "correct": "d",
+    "explanation": "Correct: Normal clinic BP with elevated out-of-office BP. Masked HTN = normal clinic BP but high home/ABPM; high-risk pattern. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which is an appropriate first pharmacologic add-on for resistant hypertension after optimizing thiazide-like diuretic therapy?",
+    "a": "Hydralazine only",
+    "b": "Low-dose spironolactone",
+    "c": "Alpha blocker only",
+    "d": "Short-acting nifedipine",
+    "correct": "b",
+    "explanation": "Correct: Low-dose spironolactone. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which pair is correctly matched (thiazide-like diuretic → example)?",
+    "a": "Torsemide → thiazide-like",
+    "b": "Amiloride → thiazide-like",
+    "c": "Indapamide → thiazide-like",
+    "d": "Furosemide → thiazide-like",
+    "correct": "c",
+    "explanation": "Correct: Indapamide → thiazide-like. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
+  },
+  {
+    "the qustion": "Which of the following is a listed compelling indication for ACE inhibitor use?",
+    "a": "BPH only",
+    "b": "Acute gout",
+    "c": "Asthma",
+    "d": "Post-MI, DM, CKD, LV dysfunction",
+    "correct": "d",
+    "explanation": "Correct: Post-MI, DM, CKD, LV dysfunction. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which is a contraindication to non-dihydropyridine CCBs?",
+    "a": "Second- or third-degree AV block, or concurrent beta blocker in CHF",
+    "b": "Raynaud phenomenon",
+    "c": "Peripheral arterial disease",
+    "d": "Supraventricular tachycardia",
+    "correct": "a",
+    "explanation": "Correct: Second- or third-degree AV block, or concurrent beta blocker in CHF. Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which diuretic class is preferred to manage volume in CKD with HTN?",
+    "a": "Thiazide diuretics",
+    "b": "Loop diuretics",
+    "c": "Carbonic anhydrase inhibitors",
+    "d": "Osmotic diuretics",
+    "correct": "b",
+    "explanation": "Correct: Loop diuretics. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which best describes appropriate confirmation of elevated office BP (per JNC/USPSTF content on slide)?",
+    "a": "Only ABPM",
+    "b": "Single reading at one visit",
+    "c": "Only HBPM",
+    "d": "Initial visit plus 2 follow-ups with multiple readings",
+    "correct": "d",
+    "explanation": "Correct: Initial visit plus 2 follow-ups with multiple readings. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which antihypertensive class pairing is MOST appropriate for African American patients initially (per JNC 8 summary on slide)?",
+    "a": "Thiazide or CCB",
+    "b": "BB only",
+    "c": "ACE inhibitor only",
+    "d": "ARB only",
+    "correct": "a",
+    "explanation": "Correct: Thiazide or CCB. Initial therapy often favors thiazide or CCB unless CKD/HF—then ACEi/ARB per indications. (Slide p. 158)"
+  },
+  {
+    "the qustion": "Which symptom set points to hyperthyroidism as a secondary HTN cause?",
+    "a": "Snoring, daytime sleepiness",
+    "b": "Heat intolerance, palpitations, weight loss",
+    "c": "Cold intolerance, weight gain",
+    "d": "Central obesity, easy bruising",
+    "correct": "b",
+    "explanation": "Correct: Heat intolerance, palpitations, weight loss. Thyroid dysfunction can raise BP—hyperthyroid (tachy, weight loss) vs hypothyroid (fatigue, weight gain). (Slide p. 17)"
+  },
+  {
+    "the qustion": "Which office vs out-of-office pattern defines white-coat hypertension risk profile on the slide?",
+    "a": "No relation to CVD risk",
+    "b": "Minimal to slightly increased CVD risk",
+    "c": "Dramatic risk reduction",
+    "d": "Increased CVD risk similar to sustained HTN",
+    "correct": "b",
+    "explanation": "Correct: Minimal to slightly increased CVD risk. White‑coat HTN has minimal to slightly increased CVD risk versus normotension; confirm and monitor. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which office vs out-of-office pattern defines masked hypertension risk profile on the slide?",
+    "a": "No relation to risk",
+    "b": "Lower risk than normotension",
+    "c": "Minimal risk",
+    "d": "Similar risk to sustained HTN",
+    "correct": "d",
+    "explanation": "Correct: Similar risk to sustained HTN. Masked HTN carries CVD risk similar to sustained HTN; actively detect and treat. (Slide p. 43)"
+  },
+  {
+    "the qustion": "Which is TRUE about dihydropyridine vs non-dihydropyridine CCBs regarding gingival hyperplasia?",
+    "a": "Only dihydropyridines cause it",
+    "b": "Neither class causes it",
+    "c": "Both classes can cause it",
+    "d": "Only non-dihydropyridines cause it",
+    "correct": "c",
+    "explanation": "Correct: Both classes can cause it. Both dihydropyridine and non‑dihydropyridine CCBs may cause gingival hyperplasia. (Slide p. 72)"
+  },
+  {
+    "the qustion": "Which is a listed modifiable risk factor for essential hypertension?",
+    "a": "Sex",
+    "b": "Excess dietary sodium",
+    "c": "Ethnicity",
+    "d": "Age",
+    "correct": "b",
+    "explanation": "Correct: Excess dietary sodium. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
+  },
+  {
+    "the qustion": "Which drug class is favored for a patient with osteoporosis and isolated systolic hypertension?",
+    "a": "Central alpha-2 agonist",
+    "b": "Loop diuretic",
+    "c": "Thiazide diuretic",
+    "d": "Direct renin inhibitor",
+    "correct": "c",
+    "explanation": "Correct: Thiazide diuretic. Isolated systolic HTN: SBP elevated with normal DBP; common in older adults and stiff arteries. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which is the MOST appropriate general step when treating resistant hypertension?",
+    "a": "Avoid checking for secondary causes",
+    "b": "Stop all meds temporarily",
+    "c": "Add low-dose spironolactone after optimizing diuretic",
+    "d": "Use short-acting nifedipine",
+    "correct": "c",
+    "explanation": "Correct: Add low-dose spironolactone after optimizing diuretic. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which pregnancy-safe agent is correctly paired with a caution?",
+    "a": "Labetalol — caution in asthma/heart disease/CHF",
+    "b": "Long-acting nifedipine — avoid due to hypotension risk",
+    "c": "ACE inhibitors — preferred",
+    "d": "Methyldopa — avoid due to poor safety profile",
+    "correct": "a",
+    "explanation": "Correct: Labetalol — caution in asthma/heart disease/CHF. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 160)"
+  },
+  {
+    "the qustion": "Which of the following is an indicated reason for specialist referral?",
+    "a": "Resistant HTN, suspected secondary HTN, or HTN emergency",
+    "b": "Mild prehypertension only",
+    "c": "Controlled BP on two agents",
+    "d": "Patient request alone",
+    "correct": "a",
+    "explanation": "Correct: Resistant HTN, suspected secondary HTN, or HTN emergency. Refer for suspected secondary HTN, resistant HTN, or acute emergencies. (Slide p. 163)"
+  },
+  {
+    "the qustion": "Which of the following agents/classes is most associated with cough and angioedema?",
+    "a": "Thiazides",
+    "b": "ACE inhibitors",
+    "c": "ARBs",
+    "d": "Dihydropyridine CCBs",
+    "correct": "b",
+    "explanation": "Correct: ACE inhibitors. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 78)"
+  },
+  {
+    "the qustion": "Which element is part of the DASH-style pattern emphasized on the slide?",
+    "a": "High saturated fat",
+    "b": "Zero carbohydrates",
+    "c": "Fruits, vegetables, whole grains, low-fat dairy",
+    "d": "High red meat and sweets",
+    "correct": "c",
+    "explanation": "Correct: Fruits, vegetables, whole grains, low-fat dairy. DASH emphasizes fruits/vegetables, whole grains, and low‑fat dairy; lowers BP without supplements. (Slide p. 62)"
+  },
+  {
+    "the qustion": "Which of the following drugs can contribute to secondary hypertension?",
+    "a": "Metformin and statins",
+    "b": "Oral contraceptives and NSAIDs",
+    "c": "Antihistamines only",
+    "d": "GLP-1 agonists",
+    "correct": "b",
+    "explanation": "Correct: Oral contraceptives and NSAIDs. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 17)"
+  },
+  {
+    "the qustion": "Which combination is a compelling indication pairing for ARBs similar to ACEIs?",
+    "a": "DM, CKD, LV dysfunction, post-MI",
+    "b": "Only migraine",
+    "c": "Only BPH",
+    "d": "Only Raynaud",
+    "correct": "a",
+    "explanation": "Correct: DM, CKD, LV dysfunction, post-MI. ACEi/ARB are key for CKD, DM, and post‑MI; monitor renal function and potassium. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which is the BEST answer about HBPM protocol timing?",
+    "a": "Random readings at work",
+    "b": "Nighttime only",
+    "c": "Twice daily (morning/evening), duplicate readings, 7 days, discard day 1",
+    "d": "Only once weekly",
+    "correct": "c",
+    "explanation": "Correct: Twice daily (morning/evening), duplicate readings, 7 days, discard day 1. Home thresholds are lower than clinic; use a structured 7‑day protocol to confirm diagnosis. (Slide p. 41)"
+  },
+  {
+    "the qustion": "Which of the following is the BEST lifestyle recommendation to pair with meds in a sedentary, high-sodium diet patient?",
+    "a": "No changes needed",
+    "b": "Begin high-protein keto diet",
+    "c": "Use mineral supplements only",
+    "d": "Adopt DASH diet and increase regular activity",
+    "correct": "d",
+    "explanation": "Correct: Adopt DASH diet and increase regular activity. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 62)"
+  },
+  {
+    "the qustion": "Which definition correctly describes hypertensive urgency?",
+    "a": "Any BP ≥140/90",
+    "b": "Severe BP with end-organ damage",
+    "c": "BP ≥160/100 with symptoms",
+    "d": ">180/120 mmHg without acute end-organ damage",
+    "correct": "d",
+    "explanation": "Correct: >180/120 mmHg without acute end-organ damage. Hypertensive urgency = severe BP without acute end‑organ damage; adjust oral therapy. (Slide p. 147)"
+  },
+  {
+    "the qustion": "Which definition correctly describes hypertensive emergency?",
+    "a": "SBP ≥140 with DBP <90",
+    "b": ">180/120 mmHg with acute end-organ damage",
+    "c": "Any BP ≥180/100 without damage",
+    "d": "Normal BP with headache",
+    "correct": "b",
+    "explanation": "Correct: >180/120 mmHg with acute end-organ damage. Hypertensive emergency = severe BP with acute end‑organ damage; hospital care required. (Slide p. 147)"
+  },
+  {
+    "the qustion": "Which is a practical next step when BP remains above goal after appropriate therapy and work-up?",
+    "a": "Refer to a specialist after ~6 months uncontrolled",
+    "b": "Stop diuretics early",
+    "c": "Add herbal mixtures",
+    "d": "Delay changes 12 months",
+    "correct": "a",
+    "explanation": "Correct: Refer to a specialist after ~6 months uncontrolled. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 145)"
+  },
+  {
+    "the qustion": "Which set of thiazide(-like) examples appears on the slide?",
+    "a": "Acetazolamide, mannitol, urea",
+    "b": "Furosemide, torsemide, bumetanide",
+    "c": "Spironolactone, eplerenone, amiloride",
+    "d": "Hydrochlorothiazide, chlorthalidone, indapamide",
+    "correct": "d",
+    "explanation": "Correct: Hydrochlorothiazide, chlorthalidone, indapamide. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
+  },
+  {
+    "the qustion": "Which patient factor favors initiating thiazide or CCB as first-line (per JNC 8 African American guidance on slide)?",
+    "a": "Active gout",
+    "b": "African American ethnicity without CKD/HF",
+    "c": "Bilateral renal artery stenosis",
+    "d": "History of ACEI cough but CKD present",
+    "correct": "b",
+    "explanation": "Correct: African American ethnicity without CKD/HF. DHP CCBs lower BP via vasodilation; watch for edema and reflex tachycardia. (Slide p. 158)"
+  },
+  {
+    "the qustion": "Which screening is reasonable in a patient with suspected primary aldosteronism?",
+    "a": "D-dimer",
+    "b": "TSH only",
+    "c": "ANA",
+    "d": "Aldosterone-to-renin ratio",
+    "correct": "d",
+    "explanation": "Correct: Aldosterone-to-renin ratio. Primary aldosteronism screening uses the aldosterone‑to‑renin ratio; think of hypokalemia/resistant HTN. (Slide p. 143)"
+  },
+  {
+    "the qustion": "Which is the MOST appropriate reason to choose a loop diuretic over thiazide in HTN management?",
+    "a": "Preference only",
+    "b": "CKD with volume overload",
+    "c": "Prevention of gout",
+    "d": "Need for potassium sparing",
+    "correct": "b",
+    "explanation": "Correct: CKD with volume overload. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 144)"
+  },
+  {
+    "the qustion": "Which patient characteristic favors an alpha-blocker as add-on therapy?",
+    "a": "Migraine prophylaxis",
+    "b": "Active peptic ulcer disease",
+    "c": "Benign prostatic hyperplasia",
+    "d": "Chronic urticaria",
+    "correct": "c",
+    "explanation": "Correct: Benign prostatic hyperplasia. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which adverse effect is most associated with alpha-blockers in hypertension management?",
+    "a": "Hyperkalemia",
+    "b": "Constipation",
+    "c": "Orthostatic hypotension",
+    "d": "Dry cough",
+    "correct": "c",
+    "explanation": "Correct: Orthostatic hypotension. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which rhythm indication favors non-dihydropyridine CCBs (when not contraindicated)?",
+    "a": "Sinus bradycardia",
+    "b": "Atrial standstill",
+    "c": "Supraventricular tachycardia",
+    "d": "Ventricular fibrillation",
+    "correct": "c",
+    "explanation": "Correct: Supraventricular tachycardia. Non‑DHP CCBs reduce heart rate/contractility; avoid with beta blockers or AV block/HFrEF. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which comorbidity often cautions against nonselective beta blocker initiation?",
+    "a": "GERD",
+    "b": "Asthma with bronchospasm",
+    "c": "Vitamin D deficiency",
+    "d": "Iron deficiency anemia",
+    "correct": "b",
+    "explanation": "Correct: Asthma with bronchospasm. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 113)"
+  },
+  {
+    "the qustion": "Which is an additional ABPM indication listed on the slide besides white-coat/masked HTN?",
+    "a": "Screening for anemia",
+    "b": "Diagnosing diabetes",
+    "c": "Suspected episodic hypertension",
+    "d": "Assessing sodium intake directly",
+    "correct": "c",
+    "explanation": "Correct: Suspected episodic hypertension. White‑coat HTN = high clinic BP with normal home/ABPM; confirm out of office. (Slide p. 40)"
+  },
+  {
+    "the qustion": "Which set includes modifiable risk factors for essential hypertension?",
+    "a": "Left-handedness, eye color",
+    "b": "Family history, age, sex",
+    "c": "Obesity, excess sodium, sedentary lifestyle, alcohol",
+    "d": "Age, sex, ethnicity",
+    "correct": "c",
+    "explanation": "Correct: Obesity, excess sodium, sedentary lifestyle, alcohol. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 51)"
+  },
+  {
+    "the qustion": "Which out-of-office strategy is RECOMMENDED to confirm diagnosis before treatment per USPSTF?",
+    "a": "Echocardiogram for all",
+    "b": "Sleep study for all",
+    "c": "Coronary angiography",
+    "d": "HBPM and/or ABPM",
+    "correct": "d",
+    "explanation": "Correct: HBPM and/or ABPM. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 30)"
+  },
+  {
+    "the qustion": "Which BP pattern warrants out-of-office confirmation or serial office visits according to the slide?",
+    "a": "Normal office BP <120/80",
+    "b": "Any normal home BP",
+    "c": "Elevated office BP ≥130/80 without target organ damage",
+    "d": "Only BP ≥200/120",
+    "correct": "c",
+    "explanation": "Correct: Elevated office BP ≥130/80 without target organ damage. This reflects the definition/threshold or class effect emphasized on the slide. (Slide p. 34)"
+  },
+  {
+    "the qustion": "Which medication class is explicitly listed as contraindicated in pregnancy on the slide?",
+    "a": "Long-acting nifedipine",
+    "b": "Hydralazine",
+    "c": "ACE inhibitors/ARBs",
+    "d": "Thiazides",
+    "correct": "c",
+    "explanation": "Correct: ACE inhibitors/ARBs. In pregnancy use labetalol, methyldopa, or long‑acting nifedipine; avoid ACEi/ARB and IR nifedipine. (Slide p. 114)"
+  },
+  {
+    "the qustion": "Which diuretic list contains thiazide(-like) examples shown on the slide?",
+    "a": "Hydrochlorothiazide, chlorthalidone, indapamide",
+    "b": "Mannitol, urea, glycerol",
+    "c": "Furosemide, torsemide, bumetanide",
+    "d": "Spironolactone, eplerenone, amiloride",
+    "correct": "a",
+    "explanation": "Correct: Hydrochlorothiazide, chlorthalidone, indapamide. Thiazides are effective first‑line agents; consider chlorthalidone/indapamide for potency. (Slide p. 93)"
+  }
+]
