@@ -1,39 +1,21 @@
 [
   {
-    "the qustion": "Nutrition is the science of food, nutrients, and their effect on health.",
+    "the qustion": "Nutrition studies the relationship between food, nutrients, and health.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Nutrition focuses on how food and its components affect health."
+    "explanation": "True — Definition includes how diet affects growth, healing, and disease prevention. (Slide p. 2)"
   },
   {
-    "the qustion": "Nutrition studies the relationship between diet, health, and disease.",
+    "the qustion": "One core function of food is regulation of body processes by vitamins and water.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "A core goal of nutrition science is understanding diet–disease links."
-  },
-  {
-    "the qustion": "Proper nutrition supports growth, healing, and energy production.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Adequate nutrients are essential for tissue repair and fuel."
-  },
-  {
-    "the qustion": "A balanced diet prevents both malnutrition and chronic diseases.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Balanced diets reduce the risk of nutrient deficiencies and chronic illness."
+    "explanation": "True — Food supports energy, building, regulation, and protection. (Slide p. 3)"
   },
   {
     "the qustion": "Macronutrients include carbohydrates, proteins, fats, and water.",
@@ -42,502 +24,654 @@
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "These are needed in large amounts for energy and structure."
+    "explanation": "True — Micronutrients are vitamins and minerals. (Slide p. 4)"
   },
   {
-    "the qustion": "Micronutrients include vitamins and minerals.",
+    "the qustion": "Carbohydrates and proteins each provide about 4 kcal per gram.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "They’re required in smaller quantities for regulation and structure."
+    "explanation": "True — Fats are more energy-dense at ~9 kcal/g. (Slide p. 5)"
   },
   {
-    "the qustion": "Carbohydrates provide 4 kcal per gram.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Each gram of carbohydrate yields 4 kilocalories of energy."
-  },
-  {
-    "the qustion": "Proteins provide 4 kcal per gram.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Proteins, like carbohydrates, supply 4 kcal per gram."
-  },
-  {
-    "the qustion": "Fats provide 9 kcal per gram.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Fats are the most energy-dense macronutrient at 9 kcal/g."
-  },
-  {
-    "the qustion": "Simple carbohydrates include starch.",
+    "the qustion": "Trans fats are considered a healthy, preferred fat source.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Starch is a complex carbohydrate."
+    "explanation": "False — Trans fats are harmful; choose unsaturated fats. (Slide p. 5)"
   },
   {
-    "the qustion": "Dietary fiber provides 4 kcal per gram.",
+    "the qustion": "A balanced diet draws from all major food groups in appropriate proportions.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Variety ensures adequate nutrient intake. (Slide p. 8)"
+  },
+  {
+    "the qustion": "The Eat Well Plate divides the plate into ½ vegetables & fruits, ¼ protein, and ¼ grains.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Plus a small dairy portion, hydration, and physical activity. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Serving size on the Nutrition Facts label has no impact on the listed calories.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Fiber is non-digestible and yields no usable calories."
+    "explanation": "False — All values are per serving; packages may contain multiple servings. (Slide p. 11)"
   },
   {
-    "the qustion": "Trans fats should be avoided entirely in the diet.",
+    "the qustion": "On a % Daily Value scale, 5% DV is considered low and 20% DV high.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "a",
-    "explanation": "Trans fats raise LDL and lower HDL cholesterol."
+    "explanation": "True — Helps quickly assess if a nutrient is low or high. (Slide p. 11)"
   },
   {
-    "the qustion": "Saturated fats should be limited in the diet.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "High saturated fat intake is linked to cardiovascular risk."
-  },
-  {
-    "the qustion": "Fat-soluble vitamins include A, D, E, and K.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "They dissolve in fat and can be stored in the body."
-  },
-  {
-    "the qustion": "Water-soluble vitamins include B-complex and vitamin C.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "They dissolve in water and excess is excreted."
-  },
-  {
-    "the qustion": "Major minerals include calcium, magnesium, sodium, and potassium.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Needed in larger amounts versus trace minerals."
-  },
-  {
-    "the qustion": "Trace minerals include zinc, iron, and iodine.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "They are essential in small quantities."
-  },
-  {
-    "the qustion": "A balanced diet provides all nutrients in proper amounts and proportions.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "Balance and variety ensure nutritional adequacy."
-  },
-  {
-    "the qustion": "The Eat-Well Plate divides your plate into ½ fruits & vegetables, ¼ protein, and ¼ grains, plus a small dairy portion.",
-    "a": "True",
-    "b": "False",
-    "c": "",
-    "d": "",
-    "correct": "a",
-    "explanation": "This visual guide helps with portion control."
-  },
-  {
-    "the qustion": "Serving sizes on a Nutrition Facts label always reflect the entire package.",
+    "the qustion": "\"No sugar added\" always means the product is sugar-free.",
     "a": "True",
     "b": "False",
     "c": "",
     "d": "",
     "correct": "b",
-    "explanation": "Values are per listed serving; many packages contain multiple servings."
+    "explanation": "False — It may still contain naturally occurring or other sugars. (Slide p. 12)"
   },
-
   {
-    "the qustion": "Which macronutrient is most energy-dense?",
+    "the qustion": "Hydrogenated oils on an ingredient list indicate trans fats.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Watch for hidden fats and sugars. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Aim for lower saturated fat, sodium, and added sugars; higher fiber, vitamins, and minerals.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Core label-reading takeaway. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Low sodium is defined on the slide as ≤140 mg per serving.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Quick threshold to help patients compare products. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Water supports temperature regulation and nutrient transport.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Hydration is part of healthy eating guidance in this deck. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Fiber can support digestion, cholesterol control, and satiety.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Encourage higher-fiber choices on labels and in meals. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Plant proteins cannot contribute meaningfully to protein needs.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — Legumes and other plant sources are highlighted as protein foods. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Micronutrients include calcium, iron, zinc, iodine, and vitamins A, D, E, K, B, C.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Minerals (major & trace) and vitamins are micronutrients. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Night blindness is a classic sign of severe vitamin C deficiency.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — Night blindness suggests vitamin A deficiency. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Koilonychia (spoon nails) can indicate iron deficiency.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Recognize physical signs of micronutrient deficits. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Poor wound healing may reflect deficiencies in protein, vitamin C, or zinc.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Look for clusters of signs, not just single symptoms. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Edema of the lower limbs can be seen in severe protein deficiency (kwashiorkor).",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Protein-energy malnutrition can present with edema. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Pale conjunctiva may indicate folate or iron deficiency.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Common exam finding in anemia. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Easily pluckable, sparse hair can point toward protein-energy malnutrition.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Hair changes are classic signs on the slide. (Slide p. 20)"
+  },
+  {
+    "the qustion": "DASH diet is defined on the nutrition label slide as eating only low-fat items.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "b",
+    "explanation": "False — The label tip warns low-fat items may still be high in sugar. (Slide p. 11)"
+  },
+  {
+    "the qustion": "The ingredient list places items in descending order by weight.",
+    "a": "True",
+    "b": "False",
+    "c": "",
+    "d": "",
+    "correct": "a",
+    "explanation": "True — Use it to spot hidden sugars and fats early in the list. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which statement best defines nutrition as introduced in the deck?",
+    "a": "The study of cooking methods only",
+    "b": "The science of food, nutrients, and their effects on health",
+    "c": "A list of popular diets",
+    "d": "A branch of pharmacy focused on supplements",
+    "correct": "b",
+    "explanation": "Correct: The science of food, nutrients, and their effects on health. Nutrition links diet to growth, healing, and disease prevention. (Slide p. 2)"
+  },
+  {
+    "the qustion": "Which is NOT one of the listed functions of food?",
+    "a": "Energy source",
+    "b": "Body building & repair",
+    "c": "Regulation of body processes",
+    "d": "Suppressing immune function",
+    "correct": "d",
+    "explanation": "Correct: Suppressing immune function. Functions include energy, building, regulation, and protection—not immune suppression. (Slide p. 3)"
+  },
+  {
+    "the qustion": "Which grouping correctly identifies macronutrients?",
+    "a": "Carbohydrates, proteins, fats, water",
+    "b": "Vitamins and minerals",
+    "c": "Iron, zinc, iodine",
+    "d": "Vitamin A, D, E, K",
+    "correct": "a",
+    "explanation": "Correct: Carbohydrates, proteins, fats, water. Micronutrients are vitamins and minerals. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Which macronutrient provides ~9 kcal per gram?",
     "a": "Carbohydrates",
     "b": "Proteins",
     "c": "Fats",
     "d": "Water",
     "correct": "c",
-    "explanation": "Fats provide 9 kcal/g, more than carbs or proteins."
+    "explanation": "Correct: Fats. Carbs and proteins are ~4 kcal/g; fats ~9 kcal/g. (Slide p. 5)"
   },
   {
-    "the qustion": "How many kilocalories per gram do proteins provide?",
-    "a": "2 kcal/g",
-    "b": "4 kcal/g",
-    "c": "7 kcal/g",
-    "d": "9 kcal/g",
+    "the qustion": "A balanced diet in this deck is defined as:",
+    "a": "Eating only one food group to focus intake",
+    "b": "Providing all nutrients in proper amounts and proportions",
+    "c": "Avoiding all fats and oils",
+    "d": "Using supplements instead of food",
     "correct": "b",
-    "explanation": "Proteins yield 4 kcal per gram."
+    "explanation": "Correct: Providing all nutrients in proper amounts and proportions. Variety across food groups achieves balance. (Slide p. 8)"
   },
   {
-    "the qustion": "Which of these is a micronutrient?",
-    "a": "Carbohydrates",
-    "b": "Sodium",
-    "c": "Protein",
-    "d": "Vitamin",
-    "correct": "d",
-    "explanation": "Vitamins and minerals are micronutrients."
+    "the qustion": "According to the Eat Well Plate, how should a plate be divided?",
+    "a": "½ protein, ¼ grains, ¼ vegetables",
+    "b": "½ vegetables & fruits, ¼ protein, ¼ grains",
+    "c": "⅓ each of grains, protein, and fats",
+    "d": "½ grains, ¼ fruits, ¼ fats",
+    "correct": "b",
+    "explanation": "Correct: ½ vegetables & fruits, ¼ protein, ¼ grains. Plus hydration and physical activity. (Slide p. 9)"
   },
   {
-    "the qustion": "Which food group is the main source of protein?",
-    "a": "Grains",
-    "b": "Fruits",
-    "c": "Dairy",
-    "d": "Meat & legumes",
-    "correct": "d",
-    "explanation": "Proteins include meat, poultry, fish, eggs, and legumes."
+    "the qustion": "On Nutrition Facts, all values are based on:",
+    "a": "One serving",
+    "b": "The entire package by default",
+    "c": "Half the serving size",
+    "d": "A 1,500 kcal/day diet",
+    "correct": "a",
+    "explanation": "Correct: One serving. Always check serving size; packages may contain multiple servings. (Slide p. 11)"
   },
   {
-    "the qustion": "Which vitamin is fat-soluble?",
-    "a": "Vitamin C",
-    "b": "Vitamin B12",
-    "c": "Vitamin A",
-    "d": "Vitamin B6",
+    "the qustion": "Which % Daily Value interpretation is correct?",
+    "a": "5% DV is high, 20% DV is low",
+    "b": "5% DV is low, 20% DV is high",
+    "c": "Both 5% and 20% DV are moderate",
+    "d": "DV is unrelated to nutrient amount",
+    "correct": "b",
+    "explanation": "Correct: 5% DV is low, 20% DV is high. Use DV to quickly judge low vs high amounts. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which label-reading tip is recommended?",
+    "a": "Choose items high in saturated fat and sodium",
+    "b": "Ignore serving size",
+    "c": "Aim for less saturated fat, sodium, and added sugars; more fiber, vitamins, minerals",
+    "d": "Rely on front-of-pack marketing claims only",
     "correct": "c",
-    "explanation": "Vitamins A, D, E, and K dissolve in fat."
+    "explanation": "Correct: Aim for less saturated fat, sodium, and added sugars; more fiber, vitamins, minerals. The slide highlights these priorities. (Slide p. 11)"
   },
   {
-    "the qustion": "Which vitamin is water-soluble?",
+    "the qustion": "\"No sugar added\" on a package means:",
+    "a": "No sugar of any kind is present",
+    "b": "It may still contain natural sugars or other sweeteners",
+    "c": "The product is calorie-free",
+    "d": "The product is low sodium",
+    "correct": "b",
+    "explanation": "Correct: It may still contain natural sugars or other sweeteners. Read ingredients—hidden sugars can still be present. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which ingredient phrase indicates the presence of trans fats?",
+    "a": "Cold-pressed oils",
+    "b": "Hydrogenated oils",
+    "c": "Virgin oils",
+    "d": "Expeller-pressed oils",
+    "correct": "b",
+    "explanation": "Correct: Hydrogenated oils. Hydrogenation signals trans fats. (Slide p. 12)"
+  },
+  {
+    "the qustion": "A low-sodium product is defined on the slide as having ≤ how many mg per serving?",
+    "a": "70 mg",
+    "b": "100 mg",
+    "c": "140 mg",
+    "d": "200 mg",
+    "correct": "c",
+    "explanation": "Correct: 140 mg. ≤140 mg per serving is cited. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which is the BEST first step when a bag shows 150 kcal per serving and contains 3 servings?",
+    "a": "Assume total is 150 kcal",
+    "b": "Multiply calories by number of servings eaten",
+    "c": "Ignore serving size; focus on %DV",
+    "d": "Eat the entire bag since it is labeled low fat",
+    "correct": "b",
+    "explanation": "Correct: Multiply calories by number of servings eaten. Total intake depends on how many servings you actually consume. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which combination exemplifies a higher-quality choice per the label-reading slide?",
+    "a": "High saturated fat, high sodium, low fiber",
+    "b": "Low saturated fat, lower sodium, higher fiber",
+    "c": "High added sugars, high sodium",
+    "d": "High calories from added sugars",
+    "correct": "b",
+    "explanation": "Correct: Low saturated fat, lower sodium, higher fiber. Favor less saturated fat/sodium/added sugars, more fiber. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which is TRUE about macronutrient energy density?",
+    "a": "Protein is 9 kcal/g; fat 4 kcal/g",
+    "b": "Carbohydrate is 4 kcal/g; fat 9 kcal/g",
+    "c": "Carbohydrate is 9 kcal/g; protein 4 kcal/g",
+    "d": "All macronutrients are 4 kcal/g",
+    "correct": "b",
+    "explanation": "Correct: Carbohydrate is 4 kcal/g; fat 9 kcal/g. Carb & protein ~4, fat ~9 kcal/g. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which food group list matches the slide?",
+    "a": "Carbs; proteins; dairy; fruits; vegetables; fats/oils",
+    "b": "Carbs; proteins; sweets; beverages; fats/oils",
+    "c": "Dairy; fruits; vegetables; water only",
+    "d": "Proteins; vitamins; minerals; fats",
+    "correct": "a",
+    "explanation": "Correct: Carbs; proteins; dairy; fruits; vegetables; fats/oils. Six groups are listed, including fats/oils in moderation. (Slide p. 8)"
+  },
+  {
+    "the qustion": "Which guidance accompanies the Eat Well Plate slide?",
+    "a": "Exclude fluids",
+    "b": "Include hydration and physical activity",
+    "c": "Replace vegetables with fruit juice",
+    "d": "Avoid grains entirely",
+    "correct": "b",
+    "explanation": "Correct: Include hydration and physical activity. Lifestyle context is part of the visual guide. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Night blindness most strongly suggests deficiency of:",
     "a": "Vitamin A",
-    "b": "Vitamin D",
-    "c": "Vitamin E",
-    "d": "Vitamin C",
-    "correct": "d",
-    "explanation": "Vitamin C and the B-complex dissolve in water."
+    "b": "Vitamin C",
+    "c": "Vitamin D",
+    "d": "Vitamin K",
+    "correct": "a",
+    "explanation": "Correct: Vitamin A. Classic sign for vitamin A deficiency. (Slide p. 20)"
   },
   {
-    "the qustion": "Which is a major mineral?",
-    "a": "Iron",
-    "b": "Zinc",
-    "c": "Calcium",
+    "the qustion": "Pale conjunctiva points toward which deficiency?",
+    "a": "Zinc",
+    "b": "Vitamin B12 only",
+    "c": "Iron (± folate)",
     "d": "Iodine",
     "correct": "c",
-    "explanation": "Calcium is required in larger amounts than trace minerals."
+    "explanation": "Correct: Iron (± folate). Anemia on exam often shows pallor of conjunctiva. (Slide p. 20)"
   },
   {
-    "the qustion": "Which is a trace mineral?",
-    "a": "Potassium",
-    "b": "Calcium",
-    "c": "Iodine",
-    "d": "Magnesium",
-    "correct": "c",
-    "explanation": "Iodine is needed in very small quantities."
+    "the qustion": "Koilonychia (spoon-shaped nails) is associated with:",
+    "a": "Iron deficiency",
+    "b": "Vitamin E deficiency",
+    "c": "Selenium deficiency",
+    "d": "Iodine deficiency",
+    "correct": "a",
+    "explanation": "Correct: Iron deficiency. Nail changes can indicate iron deficiency. (Slide p. 21)"
   },
   {
-    "the qustion": "Which carbohydrate is a simple sugar?",
-    "a": "Starch",
-    "b": "Cellulose",
-    "c": "Sucrose",
-    "d": "Glycogen",
-    "correct": "c",
-    "explanation": "Sucrose is a disaccharide classified as a simple sugar."
+    "the qustion": "Poor wound healing can indicate deficits in:",
+    "a": "Protein, vitamin C, or zinc",
+    "b": "Vitamin A only",
+    "c": "Iodine only",
+    "d": "Biotin only",
+    "correct": "a",
+    "explanation": "Correct: Protein, vitamin C, or zinc. Multiple nutrients support tissue repair. (Slide p. 21)"
   },
   {
-    "the qustion": "Which is a complex carbohydrate?",
-    "a": "Glucose",
-    "b": "Fructose",
-    "c": "Sucrose",
-    "d": "Starch",
+    "the qustion": "Lower-limb edema can be a sign of:",
+    "a": "Kwashiorkor (severe protein deficiency)",
+    "b": "Excess vitamin C intake",
+    "c": "Biotin toxicity",
+    "d": "Fluoride deficiency",
+    "correct": "a",
+    "explanation": "Correct: Kwashiorkor (severe protein deficiency). Protein deficiency causes hypoalbuminemia and edema. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Easily pluckable, sparse hair most closely suggests:",
+    "a": "Protein-energy malnutrition",
+    "b": "Excess vitamin D",
+    "c": "Iodine deficiency",
+    "d": "Chromium toxicity",
+    "correct": "a",
+    "explanation": "Correct: Protein-energy malnutrition. Hair changes accompany PEM. (Slide p. 20)"
+  },
+  {
+    "the qustion": "Which set contains micronutrients as defined in the slides?",
+    "a": "Calcium, iron, iodine, vitamins",
+    "b": "Carbohydrate, protein, fat, water",
+    "c": "Glucose, amino acids, triglycerides",
+    "d": "Fiber, starch, fatty acids",
+    "correct": "a",
+    "explanation": "Correct: Calcium, iron, iodine, vitamins. Micronutrients are vitamins and minerals. (Slide p. 4)"
+  },
+  {
+    "the qustion": "Which is NOT listed as a goal of nutritional status assessment?",
+    "a": "Detect risk early",
+    "b": "Plan interventions",
+    "c": "Track progress and prevent complications",
+    "d": "Eliminate the need for clinical judgment",
     "correct": "d",
-    "explanation": "Starch is a polysaccharide and a complex carbohydrate."
+    "explanation": "Correct: Eliminate the need for clinical judgment. Assessment supports care; it doesn't replace clinical judgment. (Slide p. 19)"
   },
   {
-    "the qustion": "Which type of fat should be avoided entirely?",
-    "a": "Unsaturated fat",
-    "b": "Trans fat",
-    "c": "Monounsaturated fat",
-    "d": "Polyunsaturated fat",
-    "correct": "b",
-    "explanation": "Trans fats raise harmful LDL cholesterol."
-  },
-  {
-    "the qustion": "Which type of fat should be limited?",
-    "a": "Trans fat",
-    "b": "Unsaturated fat",
-    "c": "Saturated fat",
-    "d": "Polyunsaturated fat",
-    "correct": "c",
-    "explanation": "Saturated fats are linked to higher LDL cholesterol."
-  },
-  {
-    "the qustion": "On a 2,000 kcal/day diet, what %DV is considered low?",
-    "a": "≤5%",
-    "b": "10%",
-    "c": "15%",
-    "d": "≥20%",
+    "the qustion": "Which is a GENERAL appearance sign of malnutrition on the slide?",
+    "a": "Thin, frail body frame with muscle wasting",
+    "b": "Acne",
+    "c": "Hyperhidrosis",
+    "d": "Clubbing only",
     "correct": "a",
-    "explanation": "≤5% Daily Value is labeled as low."
+    "explanation": "Correct: Thin, frail body frame with muscle wasting. Look for visible fat/muscle loss, fatigue/apathy. (Slide p. 20)"
   },
   {
-    "the qustion": "What %DV is considered high?",
-    "a": "≤5%",
-    "b": "10%",
-    "c": "≥20%",
-    "d": "15%",
-    "correct": "c",
-    "explanation": "≥20% Daily Value is labeled as high."
-  },
-  {
-    "the qustion": "Which ingredient indicates hidden sugar?",
-    "a": "Salt",
-    "b": "Corn syrup",
-    "c": "Olive oil",
-    "d": "Aspartame",
-    "correct": "b",
-    "explanation": "Corn syrup is a common added sugar."
-  },
-  {
-    "the qustion": "“No sugar added” on a label means:",
-    "a": "Sugar-free",
-    "b": "No sugars added during processing",
-    "c": "Low sugar",
-    "d": "Contains artificial sweeteners",
-    "correct": "b",
-    "explanation": "It means no sugars were added, not that it’s sugar-free."
-  },
-  {
-    "the qustion": "Which term signals trans fats?",
-    "a": "No cholesterol",
-    "b": "Hydrogenated oils",
-    "c": "Low fat",
-    "d": "Low sodium",
-    "correct": "b",
-    "explanation": "Hydrogenated oils contain trans fatty acids."
-  },
-  {
-    "the qustion": "Low-sodium foods contain ≤ how many mg per serving?",
-    "a": "100 mg",
-    "b": "140 mg",
-    "c": "200 mg",
-    "d": "50 mg",
-    "correct": "b",
-    "explanation": "≤140 mg sodium per serving is labeled low-sodium."
-  },
-  {
-    "the qustion": "The Eat-Well Plate is also known as:",
-    "a": "MyPlate",
-    "b": "Keto plate",
-    "c": "Atkins plate",
-    "d": "Paleo plate",
+    "the qustion": "Dry, flaky skin can indicate deficiency of:",
+    "a": "Essential fatty acids or zinc",
+    "b": "Sodium",
+    "c": "Fluoride",
+    "d": "Vitamin B12 only",
     "correct": "a",
-    "explanation": "MyPlate is the USDA’s version of the Eat-Well Plate."
+    "explanation": "Correct: Essential fatty acids or zinc. Skin changes reflect specific nutrient deficits. (Slide p. 21)"
   },
   {
-    "the qustion": "A balanced diet must include variety from:",
-    "a": "Only fruits",
-    "b": "All food groups",
-    "c": "Only proteins",
-    "d": "Only grains",
+    "the qustion": "Hyperpigmented rash (pellagra) is most associated with low:",
+    "a": "Niacin",
+    "b": "Folate",
+    "c": "Vitamin K",
+    "d": "Vitamin E",
+    "correct": "a",
+    "explanation": "Correct: Niacin. Pellagra = niacin deficiency. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Numbness or tingling in hands/feet may suggest low:",
+    "a": "B12 or B6",
+    "b": "Vitamin A",
+    "c": "Vitamin K",
+    "d": "Iodine",
+    "correct": "a",
+    "explanation": "Correct: B12 or B6. Neuropathy signs appear with certain B-vitamin deficits. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Poor coordination on the slide is linked to which deficiency?",
+    "a": "Thiamine (B1)",
+    "b": "Vitamin D",
+    "c": "Folate",
+    "d": "Biotin",
+    "correct": "a",
+    "explanation": "Correct: Thiamine (B1). Neurologic signs are highlighted for B1. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Confusion or memory issues can reflect deficiency of:",
+    "a": "Thiamine or B12",
+    "b": "Vitamin A only",
+    "c": "Vitamin K only",
+    "d": "Magnesium toxicity",
+    "correct": "a",
+    "explanation": "Correct: Thiamine or B12. Several micronutrients affect cognition. (Slide p. 21)"
+  },
+  {
+    "the qustion": "Which is the most practical label step to teach patients first?",
+    "a": "Check the ingredient list for order by weight",
+    "b": "Ignore serving size to simplify",
+    "c": "Focus only on front-of-pack claims",
+    "d": "Avoid reading %DV",
+    "correct": "a",
+    "explanation": "Correct: Check the ingredient list for order by weight. Ingredients are listed by weight; spot hidden sugars/fats early. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which advice aligns with reducing added sugars per the slides?",
+    "a": "Choose products with corn syrup or dextrose high in the list",
+    "b": "Prefer 'no sugar added' and still check ingredients",
+    "c": "Assume fruit juice is always low in sugar",
+    "d": "Ignore added sugars if fiber is high",
     "correct": "b",
-    "explanation": "Variety prevents nutrient gaps."
+    "explanation": "Correct: Prefer 'no sugar added' and still check ingredients. Names like corn syrup/fructose/dextrose signal sugars. (Slide p. 12)"
   },
   {
-    "the qustion": "The “Protection” function of food refers to:",
-    "a": "Energy production",
-    "b": "Body repair",
-    "c": "Regulation of processes",
-    "d": "Antioxidants and immunity support",
+    "the qustion": "Which label combo best reflects a healthier cereal choice?",
+    "a": "High added sugar, low fiber, high sodium",
+    "b": "Low added sugar, higher fiber, moderate sodium",
+    "c": "High saturated fat, high sugar",
+    "d": "Unlisted serving size",
+    "correct": "b",
+    "explanation": "Correct: Low added sugar, higher fiber, moderate sodium. Balance fiber up, added sugars and sodium down. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which statement about 'low fat' products is highlighted?",
+    "a": "They are always low in calories",
+    "b": "They may still be high in sugar",
+    "c": "They must be sugar-free",
+    "d": "They are ketogenic by definition",
+    "correct": "b",
+    "explanation": "Correct: They may still be high in sugar. Watch for compensatory added sugars. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which pair is correctly matched with its primary role?",
+    "a": "Proteins — tissue repair",
+    "b": "Vitamins — provide 9 kcal/g",
+    "c": "Water — energy source",
+    "d": "Fats — no role in vitamin absorption",
+    "correct": "a",
+    "explanation": "Correct: Proteins — tissue repair. Protein repairs/builds; fats help absorb fat-soluble vitamins. (Slide p. 5)"
+  },
+  {
+    "the qustion": "Which set is encouraged for plate building?",
+    "a": "Half the plate vegetables/fruits, quarter protein, quarter grains",
+    "b": "Half the plate fats, quarter protein, quarter grains",
+    "c": "Half the plate grains, quarter fats, quarter protein",
+    "d": "Equal parts fats, sweets, and grains",
+    "correct": "a",
+    "explanation": "Correct: Half the plate vegetables/fruits, quarter protein, quarter grains. Visual division supports balance. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which option best describes fiber's benefits from the label slide?",
+    "a": "Raises LDL and hunger",
+    "b": "Supports digestion, cholesterol control, satiety",
+    "c": "Raises blood glucose quickly",
+    "d": "Replaces all micronutrients",
+    "correct": "b",
+    "explanation": "Correct: Supports digestion, cholesterol control, satiety. Fiber is highlighted as a positive nutrient to increase. (Slide p. 11)"
+  },
+  {
+    "the qustion": "Which strategies help patients use labels wisely?",
+    "a": "Compare serving sizes",
+    "b": "Use %DV to spot high/low nutrients",
+    "c": "Scan ingredient list for hidden sugars/fats",
+    "d": "All of the above",
     "correct": "d",
-    "explanation": "Protective nutrients include antioxidants."
+    "explanation": "Correct: All of the above. The slide teaches all three together. (Slide p. 11)"
   },
   {
-    "the qustion": "The “Regulation” function of food involves:",
-    "a": "Carbohydrates",
-    "b": "Vitamins and water",
-    "c": "Proteins",
-    "d": "Fats",
-    "correct": "b",
-    "explanation": "Vitamins and water help regulate body processes."
-  },
-  {
-    "the qustion": "The “Body building & repair” function involves:",
-    "a": "Vitamins",
-    "b": "Antioxidants",
-    "c": "Proteins and minerals",
-    "d": "Carbohydrates",
+    "the qustion": "Which foods fit 'healthy fats' guidance from the deck?",
+    "a": "Foods rich in trans fats",
+    "b": "Mostly saturated animal fats",
+    "c": "Nuts, seeds, olive oil (unsaturated)",
+    "d": "Fats are excluded entirely",
     "correct": "c",
-    "explanation": "Proteins and minerals support tissue repair."
+    "explanation": "Correct: Nuts, seeds, olive oil (unsaturated). Choose unsaturated fats; avoid trans fats. (Slide p. 5)"
   },
   {
-    "the qustion": "The “Energy Source” function includes:",
-    "a": "Vitamins",
-    "b": "Minerals",
-    "c": "Carbohydrates, fats, proteins",
-    "d": "Water",
-    "correct": "c",
-    "explanation": "These macronutrients supply energy."
-  },
-  {
-    "the qustion": "On the Hunger-Fullness Scale, 5 represents:",
-    "a": "Starving",
-    "b": "Neutral",
-    "c": "Too Full",
-    "d": "Very Hungry",
-    "correct": "b",
-    "explanation": "5 is the neutral midpoint."
-  },
-  {
-    "the qustion": "On the Hunger-Fullness Scale, 8 indicates:",
-    "a": "Neutral",
-    "b": "Too Full",
-    "c": "Full",
-    "d": "Starving",
-    "correct": "b",
-    "explanation": "8 is labeled “Too Full.”"
-  },
-  {
-    "the qustion": "Which activity factor is for moderately active individuals?",
-    "a": "1.2",
-    "b": "1.375",
-    "c": "1.55",
-    "d": "1.725",
-    "correct": "c",
-    "explanation": "Moderate exercise 3–5 days/week uses 1.55."
-  },
-  {
-    "the qustion": "Which factor corresponds to very active individuals?",
-    "a": "1.2",
-    "b": "1.375",
-    "c": "1.55",
-    "d": "1.725",
-    "correct": "d",
-    "explanation": "Hard exercise most days uses 1.725."
-  },
-  {
-    "the qustion": "Which factor is used for extra active (athlete/physical job)?",
-    "a": "1.9",
-    "b": "1.2",
-    "c": "1.375",
-    "d": "1.55",
+    "the qustion": "Which statement about hydration is consistent with the deck?",
+    "a": "Water supports thermoregulation and transport",
+    "b": "Only sports drinks hydrate effectively",
+    "c": "Hydration is unrelated to healthy eating",
+    "d": "Thirst is the only guide needed for everyone",
     "correct": "a",
-    "explanation": "Extra active uses 1.9."
+    "explanation": "Correct: Water supports thermoregulation and transport. Hydration and activity are included with the plate guidance. (Slide p. 9)"
   },
   {
-    "the qustion": "In the Mifflin-St Jeor equation for men, you add:",
-    "a": "+5 kcal",
-    "b": "=161 kcal",
-    "c": "−161 kcal",
-    "d": "−5 kcal",
+    "the qustion": "Which ingredient list is MOST concerning for hidden sugars?",
+    "a": "Whole grain, almonds, cinnamon, sea salt",
+    "b": "Corn syrup, fructose, dextrose, molasses",
+    "c": "Olive oil, rosemary, garlic",
+    "d": "Tomatoes, basil, oregano",
+    "correct": "b",
+    "explanation": "Correct: Corn syrup, fructose, dextrose, molasses. These names are common forms of added sugars. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which choice reflects a smart sodium strategy per the slides?",
+    "a": "Choose ≤140 mg per serving when possible",
+    "b": "Avoid checking sodium on labels",
+    "c": "Assume all soups are low sodium",
+    "d": "Use taste alone to judge",
     "correct": "a",
-    "explanation": "Men’s formula ends with +5."
+    "explanation": "Correct: Choose ≤140 mg per serving when possible. ≤140 mg/serving is the cited 'low sodium' cut-off. (Slide p. 12)"
   },
   {
-    "the qustion": "In the Mifflin-St Jeor equation for women, you subtract:",
-    "a": "+5 kcal",
-    "b": "−161 kcal",
-    "c": "+161 kcal",
-    "d": "−5 kcal",
-    "correct": "b",
-    "explanation": "Women’s formula ends with −161."
-  },
-  {
-    "the qustion": "Total Energy Requirement (TER) equals:",
-    "a": "BMR − Activity Factor",
-    "b": "BMR + Activity Factor",
-    "c": "BMR × Activity Factor",
-    "d": "BMR ÷ Activity Factor",
-    "correct": "c",
-    "explanation": "TER = BMR × activity factor."
-  },
-  {
-    "the qustion": "To gain weight, you should add how many kcal/day?",
-    "a": "+100–200 kcal",
-    "b": "+200–300 kcal",
-    "c": "+300–500 kcal",
-    "d": "+500–700 kcal",
-    "correct": "c",
-    "explanation": "An extra 300–500 kcal/day supports weight gain."
-  },
-  {
-    "the qustion": "To lose weight, you should subtract how many kcal/day?",
-    "a": "−100–200 kcal",
-    "b": "−200–300 kcal",
-    "c": "−300–500 kcal",
-    "d": "−500–700 kcal",
-    "correct": "c",
-    "explanation": "A deficit of 300–500 kcal/day supports weight loss."
-  },
-  {
-    "the qustion": "Low-calorie foods contain ≤ how many kcal per serving?",
-    "a": "40 kcal",
-    "b": "60 kcal",
-    "c": "100 kcal",
-    "d": "400 kcal",
+    "the qustion": "Which pairing is CORRECT regarding nutrient type?",
+    "a": "Vitamin C — micronutrient",
+    "b": "Protein — micronutrient",
+    "c": "Calcium — macronutrient",
+    "d": "Water — micronutrient",
     "correct": "a",
-    "explanation": "≤40 kcal/serving is labeled low-calorie."
+    "explanation": "Correct: Vitamin C — micronutrient. Vitamins and minerals are micronutrients; protein and water are not. (Slide p. 4)"
   },
   {
-    "the qustion": "Moderate-calorie foods contain around how many kcal per serving?",
-    "a": "40 kcal",
-    "b": "100 kcal",
-    "c": "200 kcal",
-    "d": "400 kcal",
+    "the qustion": "Which food label element is MOST likely to mislead if read alone?",
+    "a": "Front-of-pack claims like 'natural' or 'organic'",
+    "b": "Ingredient list order by weight",
+    "c": "Serving size",
+    "d": "Percent Daily Value",
+    "correct": "a",
+    "explanation": "Correct: Front-of-pack claims like 'natural' or 'organic'. The slide warns about 'health halos'; the label details matter. (Slide p. 12)"
+  },
+  {
+    "the qustion": "Which snack aligns BEST with the plate & label guidance?",
+    "a": "Large pastry + soda",
+    "b": "Apple slices with peanut butter; water",
+    "c": "Chips labeled 'low fat' + fruit juice",
+    "d": "Energy drink + chocolate bar",
     "correct": "b",
-    "explanation": "100 kcal is considered moderate."
+    "explanation": "Correct: Apple slices with peanut butter; water. Combine whole foods, fiber, and hydration. (Slide p. 9)"
   },
   {
-    "the qustion": "High-calorie foods contain ≥ how many kcal per serving?",
-    "a": "200 kcal",
-    "b": "300 kcal",
-    "c": "400 kcal",
-    "d": "500 kcal",
-    "correct": "c",
-    "explanation": "≥400 kcal/serving is labeled high-calorie."
-  },
-  {
-    "the qustion": "Which diet type restricts sodium and potassium?",
-    "a": "Diabetic diet",
-    "b": "Renal diet",
-    "c": "Low-fat diet",
-    "d": "Low-salt diet",
+    "the qustion": "Which statement about ingredient lists is TRUE?",
+    "a": "Ingredients are listed alphabetically",
+    "b": "Ingredients are listed by descending weight",
+    "c": "Ingredients are listed by vitamin content",
+    "d": "Order varies randomly",
     "correct": "b",
-    "explanation": "Renal diets limit sodium, potassium, and phosphorus."
+    "explanation": "Correct: Ingredients are listed by descending weight. This helps identify predominant ingredients. (Slide p. 12)"
   },
   {
-    "the qustion": "Which diet focuses on controlling carbohydrate intake?",
-    "a": "Renal diet",
-    "b": "Diabetic diet",
-    "c": "Low-salt diet",
-    "d": "Low-fat diet",
+    "the qustion": "Which is the BEST quick check for a bread label?",
+    "a": "High added sugars and low fiber",
+    "b": "Whole grain listed early; higher fiber; moderate sodium",
+    "c": "Ignore serving size",
+    "d": "Choose based on color of bread only",
     "correct": "b",
-    "explanation": "Diabetic diets emphasize carbohydrate management."
+    "explanation": "Correct: Whole grain listed early; higher fiber; moderate sodium. Apply serving size, fiber up, sugars/sodium down. (Slide p. 11)"
   },
   {
-    "the qustion": "Which diet is designed to be low in total fat?",
-    "a": "Diabetic diet",
-    "b": "Renal diet",
-    "c": "Low-fat diet",
-    "d": "Low-salt diet",
-    "correct": "c",
-    "explanation": "Low-fat diets restrict overall fat intake."
+    "the qustion": "Which meal best matches the plate guidance?",
+    "a": "Grilled chicken, brown rice, large mixed salad; water",
+    "b": "Fried chicken, fries, soft drink",
+    "c": "White pasta with cream sauce; juice",
+    "d": "Pastries and coffee",
+    "correct": "a",
+    "explanation": "Correct: Grilled chicken, brown rice, large mixed salad; water. Half veg/fruit, quarters grains/protein, plus hydration. (Slide p. 9)"
+  },
+  {
+    "the qustion": "Which of the following is a macro-to-micro CORRECT match?",
+    "a": "Fats — macronutrient; Iron — micronutrient",
+    "b": "Iron — macronutrient; Fats — micronutrient",
+    "c": "Vitamins — macronutrients",
+    "d": "Minerals — macronutrients",
+    "correct": "a",
+    "explanation": "Correct: Fats — macronutrient; Iron — micronutrient. Macro = carbs/protein/fats/water; micro = vitamins/minerals. (Slide p. 4)"
   }
 ]
